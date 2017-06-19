@@ -1,4 +1,4 @@
-#OpenActive Activity List
+# OpenActive Activity List
 
 This repository holds the data and documentation for the OpenActive list of physical activities.
 

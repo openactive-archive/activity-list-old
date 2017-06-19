@@ -20,6 +20,8 @@ Alternative formats of the list are available as
 * [JSON-LD](https://www.openactive.io/activity-list/activity-list.jsonld)
 * [Turtle](https://www.openactive.io/activity-list/activity-list.ttl)
 
+View [the open data certificate](https://certificates.theodi.org/en/datasets/215260/certificate) for this dataset.
+
 ## Dataset Documentation
 
 The dataset is structured according to the [SKOS](https://www.w3.org/TR/skos-primer/) standard for publishing controlled vocabularies.

@@ -35,10 +35,10 @@
               { name: "Leigh Dodds", url: "http://ldodds.com",
                 company: "Open Data Institute", companyURL: "http://opendata.institute/",
                 w3cid: "55359" },
-              { name: "Jade Moulden",
-                company: "Exercise, Movement and Dance", companyURL: "https://emduk.org/" },
               { name: "Becky Linsley",
-                company: "SportSuite", companyURL: "http://sportsuite.co.uk/" }
+                company: "SportSuite", companyURL: "http://sportsuite.co.uk/" },
+              { name: "Jade Moulden",
+                company: "Exercise, Movement and Dance", companyURL: "https://emduk.org/" }
 
           ],
 
@@ -281,7 +281,7 @@
         
         <ul>
             <li><a rel="alternate" href="activity-list.csv">CSV</a></li>        
-            <li><a rel="alternate" href="activity-list.ttl">JSON-LD</a></li>
+            <li><a rel="alternate" href="activity-list.jsonld">JSON-LD</a></li>
             <li><a rel="alternate" href="activity-list.ttl">Turtle</a></li>
         </ul>
         
@@ -292,15 +292,13 @@
     </section>
         
     <section>
-        <h2>All Physical Activities</h2>
-        
+        <h2>Physical Activities</h2>        
         <% letter = nil %>          
         <% index.keys.sort.each do |label| %>
             <% if letter != label[0] %>
                 <% letter = label[0] %>
-                 <hr>
                 <section>
-                 <h3><%= letter %></h3>
+                 <h3>Physical Activities - <%= letter %></h3>
                  <p>Physical activities with labels beginning with the letter <%= letter %></p>
                 </section>
             <% end %>

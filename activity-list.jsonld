@@ -1553,7 +1553,7 @@
       ]
     },
     {
-      "id": "https://openactive.io/activity-list/#c494e2dd-f810-4305-95bc-90dc6e91894c",
+      "id": "https://openactive.io/activity-list/#2679770b-f86d-40b5-82a9-59fb6b764d1f",
       "type": "Concept",
       "notation": "funk",
       "prefLabel": "Funk",
@@ -3309,13 +3309,14 @@
       ]
     },
     {
-      "id": "https://openactive.io/activity-list/#30ca53ce-d7fe-4cda-9132-280697673420",
+      "id": "https://openactive.io/activity-list/#18383130-20e1-4a19-980b-ef9c518c3b72",
       "type": "Concept",
       "notation": "flexercise",
       "prefLabel": "FLexercise",
       "inScheme": [
         "https://openactive.io/activity-list/activity-list.jsonld"
       ],
+      "definition": "FLexercise is used to deliver 'Bagot Stack' which is designed to improve posture and well-being through core stability and rhythmic exercise to music.",
       "broader": [
         "https://openactive.io/activity-list/#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ]

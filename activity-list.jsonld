@@ -1826,7 +1826,8 @@
       "prefLabel": "5-a-side",
       "hiddenLabel": [
         "5 a side",
-        "5aside"
+        "5aside",
+        "five a side"
       ],
       "broader": [
         "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba"

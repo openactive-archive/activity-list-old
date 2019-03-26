@@ -1027,7 +1027,7 @@
       "id": "https://openactive.io/activity-list#51555787-12cd-4b09-b1c7-e03415c47a4c",
       "type": "Concept",
       "notation": "chinese_movement_dance",
-      "prefLabel": "Chinese Movement &amp;amp; Dance",
+      "prefLabel": "Chinese Movement & Dance",
       "related": [
         "https://openactive.io/activity-list#75cbc726-05a8-417c-8329-127d6ceeea9f"
       ],
@@ -2255,7 +2255,7 @@
       "id": "https://openactive.io/activity-list#75cbc726-05a8-417c-8329-127d6ceeea9f",
       "type": "Concept",
       "notation": "chinese_movement__dance_fitness",
-      "prefLabel": "Chinese Movement &amp;amp; Dance Fitness",
+      "prefLabel": "Chinese Movement & Dance Fitness",
       "related": [
         "https://openactive.io/activity-list#51555787-12cd-4b09-b1c7-e03415c47a4c"
       ],
@@ -2751,7 +2751,7 @@
       "id": "https://openactive.io/activity-list#6837e64f-04d7-48c2-b99e-f36847f9e7b9",
       "type": "Concept",
       "notation": "popdance_active__able",
-      "prefLabel": "Popdance Active &amp;amp; Able",
+      "prefLabel": "Popdance Active & Able",
       "broader": [
         "https://openactive.io/activity-list#6ec422f3-0524-476b-aadf-7e67df46a63d"
       ]
@@ -5428,7 +5428,7 @@
       "type": "Concept",
       "notation": "shooting",
       "prefLabel": "Shooting",
-      "definition": "Target shooting today is a popular sport, comprising over 41 different disciplines across 3 main categories (Fullbore Rifle &amp;amp; Pistol, Small-bore Rifle &amp;amp; Pistol, and Shotgun)",
+      "definition": "Target shooting today is a popular sport, comprising over 41 different disciplines across 3 main categories (Fullbore Rifle & Pistol, Small-bore Rifle & Pistol, and Shotgun)",
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {

@@ -2668,21 +2668,27 @@
       "type": "Concept",
       "notation": "medau_elements",
       "prefLabel": "Medau Elements",
-      "topConceptOf": "https://openactive.io/activity-list"
+      "broader": [
+        "https://openactive.io/activity-list#d101b63b-572f-49d2-a027-d3a5748e6315"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#562ef2a8-0936-4cf5-8504-aff783fe0521",
       "type": "Concept",
       "notation": "medau_mature_moves",
       "prefLabel": "Medau Mature Moves",
-      "topConceptOf": "https://openactive.io/activity-list"
+      "broader": [
+        "https://openactive.io/activity-list#d101b63b-572f-49d2-a027-d3a5748e6315"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#52b5604b-9139-4235-be4a-6441c506605b",
       "type": "Concept",
       "notation": "medau_movement",
       "prefLabel": "Medau Movement",
-      "topConceptOf": "https://openactive.io/activity-list"
+      "broader": [
+        "https://openactive.io/activity-list#d101b63b-572f-49d2-a027-d3a5748e6315"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#95875523-6fca-4eb6-b53e-9250e31bdb6a",

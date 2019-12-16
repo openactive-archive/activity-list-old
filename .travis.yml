@@ -1,0 +1,14 @@
+language: node_js
+cache:
+  directories:
+    - node_modules
+install:
+  - npm install
+script:
+  - npm start
+after_success:
+  - git config user.email "travis@travis.org"
+  - git config user.name "travis"
+  - git add activity-list.jsonld
+  - git commit --allow-empty -m "Updated from live activity list."
+  - git push https://thill-odi:313dfdf8a6bd480a243f6dd3178a788886c9ed13@github.com/openactive/activity-list.git HEAD:master

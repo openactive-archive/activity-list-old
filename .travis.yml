@@ -10,4 +10,4 @@ after_success:
   - git config user.name "travis"
   - git add activity-list.jsonld
   - git commit --allow-empty -m "Updated from live activity list."
-  - git push https://thiiill-odi@github.com/openactive/activity-list.git HEAD:master
+  - git push https://thill-odi@github.com/openactive/activity-list.git HEAD:master

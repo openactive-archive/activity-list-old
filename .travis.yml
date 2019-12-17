@@ -11,7 +11,8 @@ script:
 after_success:
 - git config user.email "travis@travis.org"
 - git config user.name "travis"
+- git checkout master
 - git add activity-list.jsonld
 - git commit --allow-empty -m "Updated from live activity list."
-- git push https://thill-odi:@github.com:${COMMIT_TOKEN}/openactive/activity-list.git
+- git push https://thill-odi:${COMMIT_TOKEN}@github.com:/openactive/activity-list.git
   HEAD:master

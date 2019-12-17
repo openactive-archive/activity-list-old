@@ -24,9 +24,11 @@ request(options, function (error, response, body) {
 
 var writeLatest = (latestJSON) => {
 
+  asJSON = JSON.parse(latestJSON);
+  // need to roundtrip txt->JSON->txt to avoid character-escaping problems
+  asString = JSON.stringify(asJSON, null, 4);
   var writeStream = fs.createWriteStream("activity-list.jsonld");
-  // TODO: Pretty print JSON
-  writeStream.write(latestJSON);
+  writeStream.write(asString);
   writeStream.end();
 
 }

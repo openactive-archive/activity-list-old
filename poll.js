@@ -14,7 +14,12 @@ const options = {
 };
 
 request(options, function (error, response, body) {
-  writeLatest(body);
+  if(response.statusCode == "200"){
+    writeLatest(body);
+  }
+  else{
+    throw new Error("Could not retrieve activity list JSON: Response code " + response.statusCode);
+  }
 });
 
 var writeLatest = (latestJSON) => {

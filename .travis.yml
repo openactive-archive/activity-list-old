@@ -1,6 +1,9 @@
 language: node_js
 node_js:
 - 11
+env:
+  global:
+    secure: AUtgubDzsSV3oQd8RgHgjkyvqiaeGThJ/asHsZerXsPIEZttSZOXBvGgODnF8k2hzCIeqj9NfLAfcwI+xCr0aO+kxHHZE2PZLvBAuRGW9fa7nktun6EmG6KZwADQZ6m3CSRXjpoApZegdfsl52Pbb95ULCRXCsvBjE0KThc8ij+k2BDImRJgnr4nummeccS8EWpdQfbhjpx+tOmEnftIWfipvsnXnnmuQjkNTtiIkH2/GMTRI+4D4Zz4et13U6kR+s9dg4WzvY14YCbLxmMf0HG6maHhreMErXOmunubPWTU7AD+tfXybhNxdX3pc13ai1GOeWRyyDmIdOgNEi+Ldwnsa172FfpumWI5nNAHHnmJg1G5AVhr6ggE5pjzvTnfsZtIxTufuW0goJ/PYCL0VG50+jssG5ro4QghrK08GAQStKF6/pr0vxMJzbi32BjuqZLLNyNGbRJHxfHlPovWHrEGZJCheleUHsn4kcpKFzm6GdVGbPQk0Qw7zCTa2xBYODin98qEASrl+08fEIIIPVkA43KpN+kY73fiJb+VttdWOu4Tlo/wzw147qxqWc7eTMQxw/7lEeMTLt0f9G4ouFtfyfchFAF47uO0DCjHzBjcNw46GlZgPmAGyaaSU4TmRA+UqJIvX8X+mDVfLvJA2VFr3vvNXvSi1kO/gs1NglQ=
 install:
 - npm install -g
 script:
@@ -10,6 +13,5 @@ after_success:
 - git config user.name "travis"
 - git add activity-list.jsonld
 - git commit --allow-empty -m "Updated from live activity list."
-- git push https://thill-odi:@github.com:${GH_TOKEN}/openactive/activity-list.git HEAD:master
-env:
-  secure: DmGy+pHIkQGJ4Fq6JZf06OorbIr2CoqATSPw+Cjkjr1TOzgCmoBfUp7U3+uilh2LftZNyASl5d3E/MuBIWA6UJCBfrHhzZe6NAkiwsTEPjE23v3Ylnr5ERWuo+I71oOpUfrFYYaumG+kt3UzcLi1eTugfnjLrL4EobRHQkzNboTv+qkcRlbTwiZIbRtWa7owIXeDVQjvkasD1ULf6bl6Gl8/lorBU/Ho7w2DvegkHgDWgb4kpkgJAyY+u9X4SlrkB/MnUnMka/h2BDoBBDHP25yFAujynTrvcNxYNpZY7suHU8OAnPcOOg+cNpj0x0Asg5Qnzu92CKEmDAuIu9K78Dm1ns6bGqvj2aeYAKoYRPl7+BxKjW+7SECEhNTWLzS4igGi0dRolxLIvx5g5HcXAHseS/hZrr7UII8g29TTHdvexZQiSuBIX9pj6ZVqo9LjYDcWtu56qrqlnqhMgfKEuBPKw6VtXgYZmKVPrzw18OeTm0e7RSRzKJksLRJuyUgojDev1ar3F2s5g3tUrS44UA0Fvm0yq6ZbTB8SGTfjMQu4VHxEFnlQSvGSG4i0htvqJ57kseT13KUUoFCb7bmk3lwcVZJE0ZQF2LVY4bVtGaAzoXVfEVcr95Dn0RVLiaXjY8swni8yMpqkLXObPvqjGklfxt0uvv1lzh1si4VJnv8=
+- git push https://thill-odi:@github.com:${COMMIT_TOKEN}/openactive/activity-list.git
+  HEAD:master

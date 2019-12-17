@@ -1,13 +1,15 @@
 language: node_js
 node_js:
-  - 11
+- 11
 install:
-  - npm install -g
+- npm install -g
 script:
-  - npm start
+- npm start
 after_success:
-  - git config user.email "travis@travis.org"
-  - git config user.name "travis"
-  - git add activity-list.jsonld
-  - git commit --allow-empty -m "Updated from live activity list."
-  - git push https://thill-odi@github.com/openactive/activity-list.git HEAD:master
+- git config user.email "travis@travis.org"
+- git config user.name "travis"
+- git add activity-list.jsonld
+- git commit --allow-empty -m "Updated from live activity list."
+- git push https://thill-odi:@github.com:${GH_TOKEN}/openactive/activity-list.git HEAD:master
+env:
+  secure: DmGy+pHIkQGJ4Fq6JZf06OorbIr2CoqATSPw+Cjkjr1TOzgCmoBfUp7U3+uilh2LftZNyASl5d3E/MuBIWA6UJCBfrHhzZe6NAkiwsTEPjE23v3Ylnr5ERWuo+I71oOpUfrFYYaumG+kt3UzcLi1eTugfnjLrL4EobRHQkzNboTv+qkcRlbTwiZIbRtWa7owIXeDVQjvkasD1ULf6bl6Gl8/lorBU/Ho7w2DvegkHgDWgb4kpkgJAyY+u9X4SlrkB/MnUnMka/h2BDoBBDHP25yFAujynTrvcNxYNpZY7suHU8OAnPcOOg+cNpj0x0Asg5Qnzu92CKEmDAuIu9K78Dm1ns6bGqvj2aeYAKoYRPl7+BxKjW+7SECEhNTWLzS4igGi0dRolxLIvx5g5HcXAHseS/hZrr7UII8g29TTHdvexZQiSuBIX9pj6ZVqo9LjYDcWtu56qrqlnqhMgfKEuBPKw6VtXgYZmKVPrzw18OeTm0e7RSRzKJksLRJuyUgojDev1ar3F2s5g3tUrS44UA0Fvm0yq6ZbTB8SGTfjMQu4VHxEFnlQSvGSG4i0htvqJ57kseT13KUUoFCb7bmk3lwcVZJE0ZQF2LVY4bVtGaAzoXVfEVcr95Dn0RVLiaXjY8swni8yMpqkLXObPvqjGklfxt0uvv1lzh1si4VJnv8=

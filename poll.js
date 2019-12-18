@@ -5,7 +5,7 @@ var request = require("request");
 var fs = require("fs");
 
 const options = {
-    url: 'https://openactive.io/activity-list/activity-list.jsonld',
+    url: 'http://activity-list-editor.openactive.io/en/openactive_concepts.jsonld',
     method: 'GET',
     headers: {
         'Accept': 'application/json',

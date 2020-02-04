@@ -6,7 +6,7 @@ env:
     secure: AUtgubDzsSV3oQd8RgHgjkyvqiaeGThJ/asHsZerXsPIEZttSZOXBvGgODnF8k2hzCIeqj9NfLAfcwI+xCr0aO+kxHHZE2PZLvBAuRGW9fa7nktun6EmG6KZwADQZ6m3CSRXjpoApZegdfsl52Pbb95ULCRXCsvBjE0KThc8ij+k2BDImRJgnr4nummeccS8EWpdQfbhjpx+tOmEnftIWfipvsnXnnmuQjkNTtiIkH2/GMTRI+4D4Zz4et13U6kR+s9dg4WzvY14YCbLxmMf0HG6maHhreMErXOmunubPWTU7AD+tfXybhNxdX3pc13ai1GOeWRyyDmIdOgNEi+Ldwnsa172FfpumWI5nNAHHnmJg1G5AVhr6ggE5pjzvTnfsZtIxTufuW0goJ/PYCL0VG50+jssG5ro4QghrK08GAQStKF6/pr0vxMJzbi32BjuqZLLNyNGbRJHxfHlPovWHrEGZJCheleUHsn4kcpKFzm6GdVGbPQk0Qw7zCTa2xBYODin98qEASrl+08fEIIIPVkA43KpN+kY73fiJb+VttdWOu4Tlo/wzw147qxqWc7eTMQxw/7lEeMTLt0f9G4ouFtfyfchFAF47uO0DCjHzBjcNw46GlZgPmAGyaaSU4TmRA+UqJIvX8X+mDVfLvJA2VFr3vvNXvSi1kO/gs1NglQ=
 install:
 - npm install -g
-script: validate.js
+script: node validate.js
 after_success:
 - git config user.email "travis@travis.org"
 - git config user.name "travis"

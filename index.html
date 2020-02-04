@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>OpenActive Activity List</title>
+</head>
+<body>
+  <h1>OpenActive Activity List</h1>
+  The OpenActive Activity List Committee, a collection of individuals and organisations who maintain this list, is currently being formalised and is open for applications. If you are interested in joining, please e-mail <b>hello@openactive.io</b>. This page is a placeholder until the formalised committee is estabilished, and we welcome any contributions you have via the links below for their consideration.
+  <h2>Activity List Search and Browse</h2>
+  <p><a href="https://activity-list-editor.openactive.io/">Search Activity List</a></p>
+  <p><a href="https://activity-list-editor.openactive.io/en/hierarchical_concepts.html">Browse Activity List Hierarchy</a></p>
+  <h2>Activity List Contribution</h2>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf3qkgDNwUDG8jvsO1ld2J6q18wwIR3SlTmSZm8h9KxqCm-Ng/viewform">Suggest new activity</a></p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScuRUh4qjZu22u5UosdYbqX09HTYSbB61ykrSqdUlu9GieKmQ/viewform">Amend existing activity</a></p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScBajDxNFxX2NSR61jhiK3-viPpgwPTyX513Zf--d3GLOp5QQ/viewform">General feedback</a></p>
+  <h2>Developer Access</h2>
+  <p>A <a href="https://openactive.io/activity-list/activity-list.jsonld">JSON-LD definition</a> of the OpenActive Activity List controlled vocabulary is available for live integration into applications.</p>
+  <p>This controlled vocabulary SHOULD be retrieved live within an application using an HTTP GET, to ensure that the most up-to-date version is displayed to the user. To access this controlled vocabulary the application MUST GET the URL <code class="highlighter-rouge">"https://openactive.io/activity-list/activity-list.jsonld"</code> (note there is no <code>www</code> in the URL) which does not require a specific <code class="highlighter-rouge">Accept</code> header, and is cached via CDN. The controlled vocabulary is also available via a GET of the URL <code class="highlighter-rouge">"https://openactive.io/activity-list"</code> using an <code class="highlighter-rouge">Accept</code> header of <code class="highlighter-rouge">application/ld+json</code>, for completeness, however this shorter URL MUST NOT be used in production.</p>
+  <p>For more information, see the <a href="https://developer.openactive.io/publishing-data/activity-list-references">developer site</a>. 
+</body>
+</html>

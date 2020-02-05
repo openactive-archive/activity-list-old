@@ -8,10 +8,10 @@ install:
 - npm install -g
 script: node validate.js
 after_success:
-- git config user.email "travis@travis.org"
-- git config user.name "travis"
-- git checkout master
-- git add activity-list.jsonld
-- git commit --allow-empty -m "Updated from live activity list."
+#- git config user.email "travis@travis.org"
+#- git config user.name "travis"
+#- git checkout master
+- git add validated_activity_list.jsonld
+- git commit -m "Activity list export validated"
 - git push --force https://thill-odi:${COMMIT_TOKEN}@github.com:/openactive/activity-list.git
   HEAD:master

@@ -241,7 +241,10 @@
       "type": "Concept",
       "prefLabel": "American Football",
       "narrower": [
-        "https://openactive.io/activity-list#a4375402-067d-4549-9d3a-8c1e998350a1"
+        "https://openactive.io/activity-list#a4375402-067d-4549-9d3a-8c1e998350a1",
+        "https://openactive.io/activity-list#3c40d2a6-f1f9-4d1c-92b1-b71dd1adc3cd",
+        "https://openactive.io/activity-list#c5ec77e5-a966-4051-a034-46516888d35a",
+        "https://openactive.io/activity-list#7bf010d8-332a-46ff-aa8e-e471647843ac"
       ],
       "definition": "American Football is a team sport where the objective is to score points by advancing the ball into the opposing team's end zone by running with it or throwing it to a teammate.",
       "notation": "american_football",
@@ -4273,7 +4276,8 @@
         "https://openactive.io/activity-list#6fc3f706-23d0-4027-bebb-8a7cddb92b34",
         "https://openactive.io/activity-list#52b5604b-9139-4235-be4a-6441c506605b",
         "https://openactive.io/activity-list#562ef2a8-0936-4cf5-8504-aff783fe0521"
-      ]
+      ],
+      "notation": "medau"
     },
     {
       "id": "https://openactive.io/activity-list#6fc3f706-23d0-4027-bebb-8a7cddb92b34",

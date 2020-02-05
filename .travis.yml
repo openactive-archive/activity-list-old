@@ -14,4 +14,4 @@ after_success:
 - cp unvalidated_activity_list.jsonld validated_activity_list.jsonld
 - git add validated_activity_list.jsonld
 - git commit -m "Activity list export validated"
-- git push #--force https://thill-odi:${COMMIT_TOKEN}@github.com:/openactive/activity-list.git HEAD:master
+- git push --force https://thill-odi:${COMMIT_TOKEN}@github.com:/openactive/activity-list.git HEAD:master

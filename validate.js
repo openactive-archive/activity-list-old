@@ -14,14 +14,7 @@ var ajv = new Ajv({ allErrors: 'true', verbose: 'true' });
 var validate = ajv.compile(schema);
 var is_valid = validate(data);
 
-if(is_valid){
-
-  fs.copyFile(rawfile, goodfile, (err)=>{
-    if(err) throw err;
-    console.log("Validated file successfully copied");
-  });
-
-}
+if(is_valid){ console.log("File passed validation :-D");}
 else{
 
   err_msg = "File failed validation\n=======\n"

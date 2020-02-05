@@ -10,6 +10,7 @@ install:
 - npm install -g
 script: node validate.js
 after_success:
+- openssl aes-256-cbc -k "$travis_key_password" -d -md sha256 -a -in travis_key.enc -out travis_key
 - git config user.email "travis@travis.org"
 - git config user.name "travis"
 - git checkout master

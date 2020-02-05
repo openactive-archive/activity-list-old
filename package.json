@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/openactive/activity-list#readme",
   "dependencies": {
-    "ajv": "^6.0.0",
+    "ajv": "^6.0.0"
   }
 }

@@ -4,6 +4,7 @@
    "title":"Activity List JSON-LD Schema",
    "description":"Checks to ensure the Linked Data JSON output of the Activity List Editor conforms to input requirements.",
    "type":"object",
+   "required" : ["@context", "id", "title", "description", "type", "license", "concept"],
    "properties":{
       "@context":{
          "type":"string",

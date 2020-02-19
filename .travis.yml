@@ -4,15 +4,21 @@ node_js:
 env:
   global:
     secure: AUtgubDzsSV3oQd8RgHgjkyvqiaeGThJ/asHsZerXsPIEZttSZOXBvGgODnF8k2hzCIeqj9NfLAfcwI+xCr0aO+kxHHZE2PZLvBAuRGW9fa7nktun6EmG6KZwADQZ6m3CSRXjpoApZegdfsl52Pbb95ULCRXCsvBjE0KThc8ij+k2BDImRJgnr4nummeccS8EWpdQfbhjpx+tOmEnftIWfipvsnXnnmuQjkNTtiIkH2/GMTRI+4D4Zz4et13U6kR+s9dg4WzvY14YCbLxmMf0HG6maHhreMErXOmunubPWTU7AD+tfXybhNxdX3pc13ai1GOeWRyyDmIdOgNEi+Ldwnsa172FfpumWI5nNAHHnmJg1G5AVhr6ggE5pjzvTnfsZtIxTufuW0goJ/PYCL0VG50+jssG5ro4QghrK08GAQStKF6/pr0vxMJzbi32BjuqZLLNyNGbRJHxfHlPovWHrEGZJCheleUHsn4kcpKFzm6GdVGbPQk0Qw7zCTa2xBYODin98qEASrl+08fEIIIPVkA43KpN+kY73fiJb+VttdWOu4Tlo/wzw147qxqWc7eTMQxw/7lEeMTLt0f9G4ouFtfyfchFAF47uO0DCjHzBjcNw46GlZgPmAGyaaSU4TmRA+UqJIvX8X+mDVfLvJA2VFr3vvNXvSi1kO/gs1NglQ=
+  matrix:
+    secure: RIHlLTYX61T/oqLHHWO3lnRsX6WBLQK8iO4sh09mCtPuM0rbSTDqYXqkHLwavkvfKxTe+0ktA2SD6viD9djKh96Nl46SpfvoIhAZod3VyiUZKyZ+5Lln3vI2BjjyMR1PYrCrfAO4oHBZucmfau18fO8KhszjidaJ1dsMmvprrlHrbpsZC4IygnuCD7otuvWNaT1Xu197OSSCRsTyjpB5teKyzmkNKrgjiSTW8KUklqIC2Xy8TXsKYh1aqJLX1rZMxPV3d0RGoxp0QBe/yXXZMaZUyJo4BXU1aLZr/byQQzqvn/8GBFQmQ6npkZtExMhMQTn0sJS/YMz0I7AyOTUAhx2J35FR9j/GnoccMAt1JxSZWou+Ug82aLyns0UTZr8jHT5vnxaSJAk7pwQr/SuLkPH+0fIc7bQAMRNhME+9ThE7MzvF1AVombL3KIxKL0TNP3LW5SrF0hmncLtyoHQFuhy5OmHIkw5NcKE+pJhlIczmHmXwOF/P3MrdDksYaNRy/mcRxyOQ670md3Ye4FR4vK5awiPydLZaLOLUDOxkAEdvVGw1LZFtW3ln1iLcMzYdUOp4CkzpwqIa4Z0OIxGxLvdOWbT6VkHuhbof2mHVwBFFUyvHdo98qLlV+v+1y1d0E+fDWMk0IM9XnvoYYHQvngWO7Z2eXse8/NrHlY12nto=
 install:
 - npm install -g
-script:
-- npm start
+script: node validate.js
 after_success:
+- openssl aes-256-cbc -k "$travis_key_password" -d -md sha256 -a -in travis_key.enc -out travis_key
+- echo "Host github.com" > ~/.ssh/config
+- echo "  IdentityFile  $(pwd)/travis_key" >> ~/.ssh/config
+- chmod 400 travis_key
+#- echo "github.com ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDZRLtQ4LoGnlNzcnakYCtb4frJW6dGBIsikXqmbxc+t9IjC1ZPeEQa6VUsf7qg6ZKhxdl+mqmnFT9CZRqmRJ+gXQWvzDxGkODVV0a+809TtozNg6VJ5RTea9u/H63R2PmBwl4sjyLN18FLsw/rdlEBV/ztdkJtb+epWVH95CEwZ37/tp+z2OxmVGbAYZq2pMYPzHMfjgw+KYSCuYUVT9R2EOneGnAkwotR7cbpagTJfFiijW9nYpE/nSir3hnhYE8u7VYflUOCNM6W59fPYcTbwKnpgvetbfyibzti+l5phAGtGAWpTFKJc8diYJpGrchVMtWtRa3Zzj830fFbe//Zkogd2f5KYvY9EJkb/Hnc5NDqh2BJQyN2FSZ9Cz4xVEelO5/tZQAClu8DFdAT+7Fb21UVmRLYrllaIa/eberfWbyioz1udaBhSQ+iyFDTWLoANiWDvjBkW4+Fj7ubCUHGAJpORUs4YGup9oNSohIcgwHoqlQ5H2RygGgpoP3rs4wot1g0Ridk/XuUNpJWxSHPxA+gFsQAp+xcCRftbnHM/n22hZA9fLvN2YhFHQZX1eoYg9uSOEsshQdFKmoI5L4Y1/LNdb7ZCGcDUr/B48X6hNd64/RXOB+0v5CIE9t6jOBuvb4nw7AuClpyN2xEUqXvRVdLMU1jMIR+eAFHbGQPaw==" > ~/.ssh/known_hosts
 - git config user.email "travis@travis.org"
 - git config user.name "travis"
 - git checkout master
-- git add activity-list.jsonld
-- git commit --allow-empty -m "Updated from live activity list."
-- git push --force https://thill-odi:${COMMIT_TOKEN}@github.com:/openactive/activity-list.git
-  HEAD:master
+- cp unvalidated_activity_list.jsonld validated_activity_list.jsonld
+- git add validated_activity_list.jsonld
+- git commit --allow-empty -m "[ci skip] Activity list export validated"
+- git push --force git@github.com:openactive/activity-list.git HEAD:master

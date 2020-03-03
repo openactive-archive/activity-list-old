@@ -18,7 +18,7 @@ after_success:
 - git config user.email "travis@travis.org"
 - git config user.name "travis"
 - git checkout master
-- cp unvalidated_activity_list.jsonld validated_activity_list.jsonld
-- git add validated_activity_list.jsonld
+- cp unvalidated_activity_list.jsonld activity-list.jsonld
+- git add activity-list.jsonld
 - git commit --allow-empty -m "[ci skip] Activity list export validated"
 - git push --force git@github.com:openactive/activity-list.git HEAD:master

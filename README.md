@@ -31,11 +31,13 @@ It consists of:
 Terms in the list have been assigned a UUID to generate a unique identifier. The URIs for each terms are [Patterned URIs](http://patterns.dataincubator.org/book/patterned-uris.html) 
 that combine these UUIDs with a common prefix:
 
-E.g. Fencing has been assigned a UUID of `92808e60-820c-4ee2-89ec-ea8d99d3f528`. It's URI is `http://openactive.io/activity-list/#92808e60-820c-4ee2-89ec-ea8d99d3f528`
+E.g. Fencing has been assigned a UUID of `92808e60-820c-4ee2-89ec-ea8d99d3f528`. It's URI is `http://openactive.io/activity-list#92808e60-820c-4ee2-89ec-ea8d99d3f528`
 
 ### JSON-LD
 
-The [JSON-LD version of the list](https://www.openactive.io/activity-list/activity-list.jsonld) provides a simple JSON version of the list that conforms to the [JSON-LD](https://www.w3.org/TR/json-ld/) specification.
+The [JSON-LD version of the list](https://openactive.io/activity-list/activity-list.jsonld) provides a simple JSON version of the list that conforms to the [JSON-LD](https://www.w3.org/TR/json-ld/) specification.
+
+The JSON-LD version of this controlled vocabulary SHOULD be retrieved frequently using an HTTP GET and cached within an application, to ensure that the most up-to-date version is displayed to the user, while also protecting against network failure when accessing the underlying resource. To access this controlled vocabulary the application MUST GET the URL `"https://openactive.io/activity-list/activity-list.jsonld"` (note there is no www in the URL) which does not require a specific `Accept` header, and is cached via CDN. The controlled vocabulary is also available via a GET of the URL `"https://openactive.io/activity-list"` using an `Accept` header of `application/ld+json`, for completeness, however this shorter URL MUST NOT be used in production.
 
 ## Publication process
 

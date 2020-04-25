@@ -1,6 +1,7 @@
 
 const Ajv = require('ajv');
 const fs = require('fs');
+const skos = require('@openactive/skos');
 
 var schemafile = "activity-list.json.schema";
 var rawfile = "unvalidated_activity_list.jsonld";
@@ -13,6 +14,9 @@ var ajv = new Ajv({ allErrors: 'true', verbose: 'true' });
 
 var validate = ajv.compile(schema);
 var is_valid = validate(data);
+
+// Try to load into SKOS.js (will throw on failure)
+var scheme = new skos.ConceptScheme(data);
 
 if(is_valid){ console.log("File passed validation :-D");}
 else{

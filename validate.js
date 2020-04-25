@@ -5,7 +5,6 @@ const skos = require('@openactive/skos');
 
 var schemafile = "activity-list.json.schema";
 var rawfile = "unvalidated_activity_list.jsonld";
-var goodfile = "validated_activity_list.jsonld";
 
 let schema = JSON.parse(fs.readFileSync(schemafile));
 let data = JSON.parse(fs.readFileSync(rawfile));

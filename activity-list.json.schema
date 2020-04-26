@@ -71,6 +71,20 @@
                   "pattern":"https://openactive.io/activity-list#.+"
                }
             },
+            "narrower":{
+               "type":"array",
+               "items":{
+                  "type":"string",
+                  "pattern":"https://openactive.io/activity-list#.+"
+               }
+            },
+            "related":{
+               "type":"array",
+               "items":{
+                  "type":"string",
+                  "pattern":"https://openactive.io/activity-list#.+"
+               }
+            },
             "topConceptOf":{
                "type":"string",
                "pattern":"https://openactive.io/activity-list"

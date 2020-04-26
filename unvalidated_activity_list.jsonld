@@ -485,6 +485,9 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "related": [
+        "https://openactive.io/activity-list#20532927-bb47-4bdf-b341-4966336baf11"
+      ],
       "notation": "azonto"
     },
     {
@@ -497,6 +500,9 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#b976886d-d5f5-49c7-9502-008ab3d3d7a6"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#ed8ad685-cd60-41d1-acd9-68a11f0f3c7b"
       ],
       "notation": "azonto_fitness"
     },
@@ -571,6 +577,9 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "related": [
+        "https://openactive.io/activity-list#c44e1f63-8925-4ec6-97a5-6719d751c69a"
+      ],
       "definition": "Ballet is a classical dance form characterized by grace and precision of movement and by elaborate formal gestures, steps, and poses.",
       "notation": "ballet"
     },
@@ -584,6 +593,9 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#d8f950b3-238d-406e-a33f-70a0fb6e8888"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#1ae7395a-27a7-4e33-9f6d-a1a6c17d0757"
       ],
       "notation": "ballet_fitness"
     },
@@ -620,6 +632,9 @@
         "https://openactive.io/activity-list#516c71ac-829e-40cf-82f9-fafa8f30f856",
         "https://openactive.io/activity-list#718dd868-54ad-4626-bb51-cf15019f62fc"
       ],
+      "related": [
+        "https://openactive.io/activity-list#4b3f737f-7266-487f-b89b-bb5ba189162e"
+      ],
       "definition": "Ballroom dancing is a couples dance where couples move to the music using step-patterns and rhythms that match the character of a given song.",
       "notation": "ballroom_and_latin"
     },
@@ -634,6 +649,9 @@
       "narrower": [
         "https://openactive.io/activity-list#5fec7c88-47c6-4304-b6d7-730d47348d67",
         "https://openactive.io/activity-list#1749b17d-f802-4ae7-b164-346dc7b9e0dd"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469"
       ],
       "notation": "ballroom_and_latin_fitness"
     },
@@ -758,6 +776,9 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "related": [
+        "https://openactive.io/activity-list#433cd2b6-d661-409a-a6c5-76f0a34bbb4c"
+      ],
       "definition": "Belly dancing is originally a solo, improvised dance involving torso articulation.",
       "notation": "belly_dance"
     },
@@ -771,6 +792,9 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#8112356e-fb65-41da-af16-92a77ab41318"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#24c7442b-19de-4cc5-90bf-91e943ebe81c"
       ],
       "notation": "bellydance_fitness"
     },
@@ -792,6 +816,9 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "related": [
+        "https://openactive.io/activity-list#bd8e72f6-f342-4884-8063-d2f996bad56c"
+      ],
       "notation": "bhangra"
     },
     {
@@ -804,6 +831,9 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#8091d1ac-4bb1-449c-9779-199c042fff90"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#a9c4bd7d-a31c-4dee-bfe6-ca823b2e5bff"
       ],
       "notation": "bhangra_fitness"
     },
@@ -1071,6 +1101,9 @@
       "narrower": [
         "https://openactive.io/activity-list#584c51fa-2485-4c01-b9c1-791a9c4d7c06"
       ],
+      "related": [
+        "https://openactive.io/activity-list#23b8ffe3-4b6e-49d0-805f-a9f09d37b196"
+      ],
       "notation": "bollywood"
     },
     {
@@ -1093,6 +1126,9 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#c2c0865a-4e87-4505-800b-afd315d74172"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#0969ddf0-16fa-4ea1-a4f8-d2aeefb46900"
       ],
       "notation": "bollywood_fitness"
     },
@@ -1249,6 +1285,9 @@
       "narrower": [
         "https://openactive.io/activity-list#2ef0ae95-61e2-4beb-9eda-e96f126878de"
       ],
+      "related": [
+        "https://openactive.io/activity-list#1eb737b6-9962-469d-98cc-0a2e4e86d356"
+      ],
       "definition": "Boxing is fast, technical and requires very high levels of fitness. Scoring is based around technique with bouts decided by judges and the result is based on the number of punches that land in a 'target area'.",
       "notation": "boxing",
       "topConceptOf": "https://openactive.io/activity-list"
@@ -1269,6 +1308,9 @@
         "https://openactive.io/activity-list#0771fcb2-b5f7-4247-8d54-90648c839d46",
         "https://openactive.io/activity-list#0a4f1f2b-5ca1-458b-b90a-b488f4a9f569",
         "https://openactive.io/activity-list#bc6152ae-f97a-4181-a0c5-d4474db41f17"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#d4417bb3-383f-489b-b0c7-731b82f3b220"
       ],
       "notation": "boxing_fitness"
     },
@@ -1348,6 +1390,9 @@
       "narrower": [
         "https://openactive.io/activity-list#89270ae0-9e0e-47af-97fa-8975d706701d"
       ],
+      "related": [
+        "https://openactive.io/activity-list#38bfaac1-8fdf-4b5d-b076-d53d681738ab"
+      ],
       "notation": "burlesque"
     },
     {
@@ -1371,6 +1416,9 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#10c49f6c-ec59-41ac-9e41-4f4fb9035245"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#6b0bb823-e720-4934-9a28-150523eefd54"
       ],
       "notation": "burlesque_dance_fitness"
     },
@@ -1575,6 +1623,9 @@
       "narrower": [
         "https://openactive.io/activity-list#a19e1921-57f4-4504-a6bd-240972116d59"
       ],
+      "related": [
+        "https://openactive.io/activity-list#0141d752-088f-4bab-99fa-9a3d61ee5cf9"
+      ],
       "notation": "cheer_fitness"
     },
     {
@@ -1585,6 +1636,9 @@
       "narrower": [
         "https://openactive.io/activity-list#a8258191-c95e-4c7b-8ccb-2272bf6278a8",
         "https://openactive.io/activity-list#9e44e734-eb79-4522-a32a-e295a99b74aa"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#2c61b0e1-80c1-488b-9255-836d2bf4188e"
       ],
       "definition": "Competitive cheerleading involves squads of cheerleaders competing against each other by performing routines to music that include stunts, jumps and tumbles.",
       "notation": "cheerleading",
@@ -1642,6 +1696,9 @@
       "narrower": [
         "https://openactive.io/activity-list#bb2598e9-9b4f-49e1-8463-c6e1312b36b4"
       ],
+      "related": [
+        "https://openactive.io/activity-list#75cbc726-05a8-417c-8329-127d6ceeea9f"
+      ],
       "notation": "chinese_movement_dance"
     },
     {
@@ -1654,6 +1711,9 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#2908ef3f-ba30-47a1-9333-f80dbb6f7b8f"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#51555787-12cd-4b09-b1c7-e03415c47a4c"
       ],
       "notation": "chinese_movement__dance_fitness"
     },
@@ -1834,6 +1894,9 @@
       "narrower": [
         "https://openactive.io/activity-list#2998a4ad-e206-4cf8-9f9d-8a36faa0bc88"
       ],
+      "related": [
+        "https://openactive.io/activity-list#cfe3dda0-976e-45cb-a92a-f18a4b06af4d"
+      ],
       "notation": "country_and_western"
     },
     {
@@ -1846,6 +1909,9 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#a673cc2a-510d-428e-b342-af9b27a4463d"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#1375887d-41f3-442d-a9b0-847512d060a1"
       ],
       "notation": "country_and_western_fitness"
     },
@@ -2073,6 +2139,9 @@
         "https://openactive.io/activity-list#b38f9ea7-87db-40fc-b86f-eb1a8e71dc7c",
         "https://openactive.io/activity-list#0b254ccb-26bb-457c-ae68-ad6cb40b17ea"
       ],
+      "related": [
+        "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
+      ],
       "definition": "Dance is an art form that generally refers to movement of the body, usually rhythmic and to music, used as a form of expression, social interaction or presented in a spiritual or performance setting.",
       "notation": "dance",
       "topConceptOf": "https://openactive.io/activity-list"
@@ -2144,6 +2213,9 @@
         "https://openactive.io/activity-list#2c61b0e1-80c1-488b-9255-836d2bf4188e",
         "https://openactive.io/activity-list#2cc156d8-0bee-4e38-bd84-89f41da6f9da",
         "https://openactive.io/activity-list#d101b63b-572f-49d2-a027-d3a5748e6315"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
       "notation": "dance_fitness"
     },
@@ -3574,6 +3646,9 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "related": [
+        "https://openactive.io/activity-list#6851b00d-d573-4f0b-bfd9-e785c35c3c0c"
+      ],
       "notation": "jazz"
     },
     {
@@ -3586,6 +3661,9 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#57fbbb8f-f843-4c78-949e-9ff2485e74f3"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#d3bdf357-14dc-4da1-af67-9c057eb2bd7a"
       ],
       "notation": "jazz_fitness"
     },
@@ -4234,6 +4312,9 @@
         "https://openactive.io/activity-list#704a7e7f-8a3b-411f-8c9e-175815eaddaf",
         "https://openactive.io/activity-list#11b06df1-ccf5-4176-b1be-b4c39c5377c7"
       ],
+      "related": [
+        "https://openactive.io/activity-list#7a72e0e1-73ab-488e-872c-33e825360ddb"
+      ],
       "notation": "martial_arts",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -4248,6 +4329,9 @@
       "narrower": [
         "https://openactive.io/activity-list#c3bc55ef-1250-4542-9041-617e3764c7d7",
         "https://openactive.io/activity-list#5ad9ab0b-dda5-4028-94a0-f3c205734a2d"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
       ],
       "notation": "martial_arts_fitness"
     },
@@ -4929,6 +5013,9 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "related": [
+        "https://openactive.io/activity-list#2cc156d8-0bee-4e38-bd84-89f41da6f9da"
+      ],
       "notation": "pole_dancing"
     },
     {
@@ -4938,6 +5025,9 @@
       "prefLabel": "Pole Fitness",
       "broader": [
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#64506a93-7c5c-4c82-81fa-301b69644fb6"
       ],
       "definition": "Pole dancing is a form of performance art and fitness, which combines dance and acrobatics centered on a vertical pole.",
       "notation": "pole_fitness"
@@ -5615,6 +5705,9 @@
       "narrower": [
         "https://openactive.io/activity-list#b3829f3e-a63e-455f-a51c-1f50ecf85ad5"
       ],
+      "related": [
+        "https://openactive.io/activity-list#5cdf5ead-e19d-4619-9585-cfe509c3fe52"
+      ],
       "definition": "Latin American style of dance with Cuban origins.",
       "notation": "salsa"
     },
@@ -5640,6 +5733,9 @@
         "https://openactive.io/activity-list#7a5bf6bb-e56d-41b9-8ebf-dd1d1a89455d",
         "https://openactive.io/activity-list#28f78557-642e-405f-ba0e-eec50cfabf04",
         "https://openactive.io/activity-list#f8483e8d-2976-4fa4-91b4-4d19b379802a"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#a454c7e6-52da-426d-9bd1-743e9d7d266d"
       ],
       "definition": "Latin American style of dance with Cuban origins.",
       "notation": "salsa_fitness"
@@ -5692,6 +5788,9 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "related": [
+        "https://openactive.io/activity-list#edc8fd32-92ba-4014-9c81-7afc618bfaba"
+      ],
       "notation": "scottish_dance"
     },
     {
@@ -5705,6 +5804,9 @@
       "narrower": [
         "https://openactive.io/activity-list#4c25b48b-ae07-4864-816a-530041a95795",
         "https://openactive.io/activity-list#01e18a21-51d5-4779-9419-2843851816f9"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#906f392c-1f51-4ef3-83dd-99b387d5aa84"
       ],
       "notation": "scottish_dance_fitness"
     },
@@ -6224,6 +6326,9 @@
         "https://openactive.io/activity-list#01f250d7-0a49-448e-a872-b3d51fe266c9",
         "https://openactive.io/activity-list#ae6106d9-b882-4651-8cf8-f041466f3da5"
       ],
+      "related": [
+        "https://openactive.io/activity-list#8087a5b8-41ad-4537-8cb3-563d23f31a1f"
+      ],
       "notation": "street_dance"
     },
     {
@@ -6244,6 +6349,9 @@
         "https://openactive.io/activity-list#03f33259-16af-44d9-b37b-ce240a33ad3f",
         "https://openactive.io/activity-list#949ea0e2-8bc1-4740-9bb7-c6d266669df4",
         "https://openactive.io/activity-list#2f590a5b-bb2e-40ad-ae15-5db383408ad8"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2"
       ],
       "notation": "street_dance_fitness"
     },
@@ -6519,6 +6627,9 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "related": [
+        "https://openactive.io/activity-list#51e77d9b-beda-4f48-b55d-d4abe936c785"
+      ],
       "definition": "Tap dancing is a form of dance characterised by the sounds of tap shoes striking the floor as a form of percussion.",
       "notation": "tap"
     },
@@ -6529,6 +6640,9 @@
       "prefLabel": "Tap Fitness",
       "broader": [
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#a3245596-9505-4b4e-ac9e-db1b5e6732fb"
       ],
       "notation": "tap_fitness"
     },
@@ -6661,6 +6775,9 @@
         "https://openactive.io/activity-list#8a4abff3-c616-4f33-80a1-398b88c672a3",
         "https://openactive.io/activity-list#fb3d49c9-5eb5-44cc-b65c-76c86b0e0651"
       ],
+      "related": [
+        "https://openactive.io/activity-list#0082b27f-8be5-4ade-ae1f-5f0b2be9e164"
+      ],
       "notation": "trampoline_fitness"
     },
     {
@@ -6668,6 +6785,9 @@
       "identifier": "0082b27f-8be5-4ade-ae1f-5f0b2be9e164",
       "type": "Concept",
       "prefLabel": "Trampolining",
+      "related": [
+        "https://openactive.io/activity-list#faccd7f9-982d-43cc-acd7-cf45964eeabd"
+      ],
       "definition": "Trampolining is a competitive Olympic sport in which gymnasts perform acrobatics while bouncing on a trampoline.",
       "notation": "trampolining",
       "topConceptOf": "https://openactive.io/activity-list"

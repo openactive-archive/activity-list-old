@@ -1689,7 +1689,7 @@
       "id": "https://openactive.io/activity-list#51555787-12cd-4b09-b1c7-e03415c47a4c",
       "identifier": "51555787-12cd-4b09-b1c7-e03415c47a4c",
       "type": "Concept",
-      "prefLabel": "Chinese Movement &amp; Dance",
+      "prefLabel": "Chinese Movement & Dance",
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
@@ -1705,7 +1705,7 @@
       "id": "https://openactive.io/activity-list#75cbc726-05a8-417c-8329-127d6ceeea9f",
       "identifier": "75cbc726-05a8-417c-8329-127d6ceeea9f",
       "type": "Concept",
-      "prefLabel": "Chinese Movement &amp; Dance Fitness",
+      "prefLabel": "Chinese Movement & Dance Fitness",
       "broader": [
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
@@ -5104,7 +5104,7 @@
       "id": "https://openactive.io/activity-list#6837e64f-04d7-48c2-b99e-f36847f9e7b9",
       "identifier": "6837e64f-04d7-48c2-b99e-f36847f9e7b9",
       "type": "Concept",
-      "prefLabel": "Popdance Active &amp; Able",
+      "prefLabel": "Popdance Active & Able",
       "broader": [
         "https://openactive.io/activity-list#6ec422f3-0524-476b-aadf-7e67df46a63d"
       ],

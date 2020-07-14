@@ -23,7 +23,7 @@ The dataset is structured according to the [SKOS](https://www.w3.org/TR/skos-pri
 It consists of:
 
 * a list of terms with an identifier (a URI) and a preferred label (`skos:prefLabel`)
-* relationships between terms (`skos:broader` and `skos:narrower`)
+* relationships between terms (`skos:broader`, `skos:narrower` and `skos:related`)
 * alternative labels (synonyms, `skos:altLabel`)
 
 ### Identifiers

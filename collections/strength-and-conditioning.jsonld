@@ -1,7 +1,7 @@
 {
   "@context": "https://openactive.io/",
-  "type": "ConceptCollection",
-  "id": "https://openactive.io/activity-list/collections/strength-and-conditioning.jsonld",
+  "@type": "ConceptCollection",
+  "@id": "https://openactive.io/activity-list/collections/strength-and-conditioning.jsonld",
   "prefLabel": "Strength and Conditioning",
   "inScheme": "https://openactive.io/activity-list",
   "license": "https://creativecommons.org/licenses/by/4.0/",

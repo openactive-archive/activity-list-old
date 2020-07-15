@@ -28,8 +28,7 @@ It consists of:
 
 ### Identifiers
 
-Terms in the list have been assigned a UUID to generate a unique identifier. The URIs for each terms are [Patterned URIs](http://patterns.dataincubator.org/book/patterned-uris.html) 
-that combine these UUIDs with a common prefix:
+Terms in the list have been assigned a UUID to generate a unique identifier. The URIs for each terms are [Patterned URIs](http://patterns.dataincubator.org/book/patterned-uris.html) that combine these UUIDs with a common prefix:
 
 E.g. Fencing has been assigned a UUID of `92808e60-820c-4ee2-89ec-ea8d99d3f528`. It's URI is `http://openactive.io/activity-list#92808e60-820c-4ee2-89ec-ea8d99d3f528`
 

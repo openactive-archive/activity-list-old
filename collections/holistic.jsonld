@@ -1,7 +1,7 @@
 {
   "@context": "https://openactive.io/",
-  "type": "ConceptCollection",
-  "id": "https://openactive.io/activity-list/collections/holistic.jsonld",
+  "@type": "ConceptCollection",
+  "@id": "https://openactive.io/activity-list/collections/holistic.jsonld",
   "prefLabel": "Holistic",
   "inScheme": "https://openactive.io/activity-list",
   "license": "https://creativecommons.org/licenses/by/4.0/",

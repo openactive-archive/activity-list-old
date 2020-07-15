@@ -24,7 +24,7 @@ It consists of:
 
 * a list of terms with an identifier (a URI) and a preferred label (`skos:prefLabel`)
 * relationships between terms (`skos:broader`, `skos:narrower` and `skos:related`)
-* alternative labels (synonyms, `skos:altLabel`)
+* alternative labels / synonyms (`skos:altLabel`)
 
 ### Identifiers
 

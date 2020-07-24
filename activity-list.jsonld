@@ -3136,6 +3136,15 @@
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {
+      "id": "https://openactive.io/activity-list#08d9368c-6c6c-44a3-84ef-a42ed00d529a",
+      "identifier": "08d9368c-6c6c-44a3-84ef-a42ed00d529a",
+      "type": "Concept",
+      "prefLabel": "Gym Workout",
+      "definition": "From cardio machines and resistance equipment to the free weights section and mats area, a gym workout gives individuals the opportunity to make use of all the gym has to offer, away from the more structured environment of a group exercise class",
+      "notation": "gym_workout",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#f6ccded0-2666-4a51-88a4-ed6905bb4313",
       "identifier": "f6ccded0-2666-4a51-88a4-ed6905bb4313",
       "type": "Concept",

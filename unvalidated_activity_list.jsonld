@@ -298,6 +298,17 @@
       "notation": "aqua_aerobics"
     },
     {
+      "id": "https://openactive.io/activity-list#52a94b4f-2747-4d63-b009-785f0fb43119",
+      "identifier": "52a94b4f-2747-4d63-b009-785f0fb43119",
+      "type": "Concept",
+      "prefLabel": "Aqua Dance",
+      "broader": [
+        "https://openactive.io/activity-list#82057527-8288-4faa-bc2e-11aa734f61f1"
+      ],
+      "definition": "Great music and a variety of dance moves, all in the water for a low-impact workout.",
+      "notation": "aqua-dance"
+    },
+    {
       "id": "https://openactive.io/activity-list#9a4ecdc3-5f70-48e8-9718-8542db315230",
       "identifier": "9a4ecdc3-5f70-48e8-9718-8542db315230",
       "type": "Concept",
@@ -329,6 +340,14 @@
       ],
       "definition": "Aquafit is shallow and deep water aerobics.",
       "notation": "aqua_fit_shallow_water"
+    },
+    {
+      "id": "https://openactive.io/activity-list#46546be1-fc32-4242-9ef7-e3e37684486b",
+      "identifier": "46546be1-fc32-4242-9ef7-e3e37684486b",
+      "type": "Concept",
+      "prefLabel": "Aqua HIIT",
+      "definition": "This is a water-based interval class that combines periods of intense exercise and varying amounts of rest.",
+      "notation": "aqua-hiit"
     },
     {
       "id": "https://openactive.io/activity-list#a7695eb1-2241-4c94-bea0-67922e643f2e",
@@ -1315,6 +1334,20 @@
       "notation": "boxing_fitness"
     },
     {
+      "id": "https://openactive.io/activity-list#b66a1a57-3dfe-4536-96d6-ed22c87564a1",
+      "identifier": "b66a1a57-3dfe-4536-96d6-ed22c87564a1",
+      "type": "Concept",
+      "prefLabel": "Brazilian jiu-jitsu",
+      "broader": [
+        "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
+      ],
+      "definition": "Brazilian Jiu-Jitsu is a self-defense martial art and combat sport based on grappling, ground fighting and submission.",
+      "notation": "brazilian-jiu-jitsu",
+      "altLabel": [
+        "BJJ"
+      ]
+    },
+    {
       "id": "https://openactive.io/activity-list#6e5bbb26-4aa1-4ab7-947b-fa58687ab374",
       "identifier": "6e5bbb26-4aa1-4ab7-947b-fa58687ab374",
       "type": "Concept",
@@ -1788,7 +1821,8 @@
         "https://openactive.io/activity-list#e3f7b1de-71f1-4e2c-aa41-9ca109f563ca",
         "https://openactive.io/activity-list#b3d9964a-3a8f-4ac0-a96c-322eeb462ef6",
         "https://openactive.io/activity-list#ae0fdf39-41c2-492a-9a69-2853914d0413",
-        "https://openactive.io/activity-list#4acb955c-4084-4588-bbd1-64afe1cace6f"
+        "https://openactive.io/activity-list#4acb955c-4084-4588-bbd1-64afe1cace6f",
+        "https://openactive.io/activity-list#72c6ad99-95af-41f8-af7f-b8adc7702fa9"
       ],
       "notation": "climbing",
       "topConceptOf": "https://openactive.io/activity-list"
@@ -2422,6 +2456,17 @@
       "notation": "driving_range"
     },
     {
+      "id": "https://openactive.io/activity-list#bc75bf5e-6023-4601-a159-ddd5e1ec554a",
+      "identifier": "bc75bf5e-6023-4601-a159-ddd5e1ec554a",
+      "type": "Concept",
+      "prefLabel": "Dru Yoga",
+      "broader": [
+        "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
+      ],
+      "definition": "Natural movements include basic locomotion, such as walking, running, climbing or crawling, as well as manipulative movements such as lifting, carrying, throwing and catching. Many natural movements incorporate multiple elements of fitness. ... This fitness approach is an efficient way to work out.",
+      "notation": "dru-yoga"
+    },
+    {
       "id": "https://openactive.io/activity-list#d5b07b1e-d5a7-4bdf-80cf-abce650cc671",
       "identifier": "d5b07b1e-d5a7-4bdf-80cf-abce650cc671",
       "type": "Concept",
@@ -2491,7 +2536,7 @@
       "type": "Concept",
       "prefLabel": "Exercise Ball",
       "broader": [
-        "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
+        "https://openactive.io/activity-list#08d9368c-6c6c-44a3-84ef-a42ed00d529a"
       ],
       "narrower": [
         "https://openactive.io/activity-list#30f96504-5e46-4925-8e6f-79c910a84ddb",
@@ -2515,6 +2560,9 @@
       "identifier": "de71c5ea-e93e-49aa-808a-f4a2e68cdddd",
       "type": "Concept",
       "prefLabel": "Exercise machine",
+      "broader": [
+        "https://openactive.io/activity-list#08d9368c-6c6c-44a3-84ef-a42ed00d529a"
+      ],
       "narrower": [
         "https://openactive.io/activity-list#45cd1e2e-b994-4b00-9cca-28bebb67aa24",
         "https://openactive.io/activity-list#f1536a01-4340-472e-99e8-312a58f06660",
@@ -2524,8 +2572,7 @@
         "https://openactive.io/activity-list#0f31b611-d9a0-402d-a3c9-637ddcf02e43",
         "https://openactive.io/activity-list#831ce34c-0218-48f5-8de4-54332e983b01"
       ],
-      "notation": "exercise_machine",
-      "topConceptOf": "https://openactive.io/activity-list"
+      "notation": "exercise_machine"
     },
     {
       "id": "https://openactive.io/activity-list#ea5f74c7-6d69-44c5-8bdc-42e46488f4e0",
@@ -2810,9 +2857,11 @@
       "identifier": "4ba72fbb-fc08-4f3e-b779-342be690bc1c",
       "type": "Concept",
       "prefLabel": "Footgolf",
-      "definition": "Footgolf is played on a golf course using a size 5 football.",
-      "notation": "footgolf",
-      "topConceptOf": "https://openactive.io/activity-list"
+      "broader": [
+        "https://openactive.io/activity-list#7ae6067a-07f7-4aea-9e1f-eeeea5ae9047"
+      ],
+      "definition": "Footgolf is a precision sport, in which players kick a spherical association football into a cup in as few shots as possible.",
+      "notation": "footgolf"
     },
     {
       "id": "https://openactive.io/activity-list#2a37deaf-01b2-42f8-b961-2b1174ca9054",
@@ -3048,7 +3097,8 @@
         "https://openactive.io/activity-list#858d08bb-6f3d-477d-8a96-8df275a7d7d8",
         "https://openactive.io/activity-list#ff6d2caa-ee67-4b79-a3bd-0b497e31b0f7",
         "https://openactive.io/activity-list#c26bb4b7-060d-4f73-b4c1-9749f078def1",
-        "https://openactive.io/activity-list#62c96301-5aa3-4cef-bf68-8420d7a91755"
+        "https://openactive.io/activity-list#62c96301-5aa3-4cef-bf68-8420d7a91755",
+        "https://openactive.io/activity-list#4ba72fbb-fc08-4f3e-b779-342be690bc1c"
       ],
       "definition": "Golf is an adaptable game that it suits everyone, whatever their age, fitness level or ability. Whether you want to keep healthy, burn calories or spend time with friends, golf is for you.",
       "notation": "golf",
@@ -3108,7 +3158,6 @@
         "https://openactive.io/activity-list#5f09c2ca-ceeb-4e0c-871f-e2d0b9971317",
         "https://openactive.io/activity-list#4ad68772-7dc5-4635-8a0f-d4cd9c656c25",
         "https://openactive.io/activity-list#493b7750-01d7-493f-811d-335929afeb77",
-        "https://openactive.io/activity-list#f7b4d296-7b3d-466d-b138-b668a268b402",
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e",
         "https://openactive.io/activity-list#7a72e0e1-73ab-488e-872c-33e825360ddb",
         "https://openactive.io/activity-list#89f3254e-0d8b-4d43-9dc3-ddbd0d5ddfea",
@@ -3140,9 +3189,16 @@
       "identifier": "08d9368c-6c6c-44a3-84ef-a42ed00d529a",
       "type": "Concept",
       "prefLabel": "Gym Workout",
+      "narrower": [
+        "https://openactive.io/activity-list#f7b4d296-7b3d-466d-b138-b668a268b402",
+        "https://openactive.io/activity-list#de71c5ea-e93e-49aa-808a-f4a2e68cdddd"
+      ],
       "definition": "From cardio machines and resistance equipment to the free weights section and mats area, a gym workout gives individuals the opportunity to make use of all the gym has to offer, away from the more structured environment of a group exercise class",
       "notation": "gym_workout",
-      "topConceptOf": "https://openactive.io/activity-list"
+      "topConceptOf": "https://openactive.io/activity-list",
+      "altLabel": [
+        "Gym"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#f6ccded0-2666-4a51-88a4-ed6905bb4313",
@@ -3422,6 +3478,17 @@
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ],
       "notation": "hot_yoga"
+    },
+    {
+      "id": "https://openactive.io/activity-list#152c958c-38bf-49a3-87f0-ae83a454f70e",
+      "identifier": "152c958c-38bf-49a3-87f0-ae83a454f70e",
+      "type": "Concept",
+      "prefLabel": "Hotpod Yoga",
+      "broader": [
+        "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
+      ],
+      "definition": "Hotpod Yoga is a type of yoga franchise",
+      "notation": "hotpod-yoga"
     },
     {
       "id": "https://openactive.io/activity-list#aff38834-4a9c-4ec3-b7e4-7089126b6498",
@@ -3724,6 +3791,17 @@
         "https://openactive.io/activity-list#516c71ac-829e-40cf-82f9-fafa8f30f856"
       ],
       "notation": "jive"
+    },
+    {
+      "id": "https://openactive.io/activity-list#fb930830-f9af-4780-ae0e-51572eeaf96d",
+      "identifier": "fb930830-f9af-4780-ae0e-51572eeaf96d",
+      "type": "Concept",
+      "prefLabel": "Jogging",
+      "broader": [
+        "https://openactive.io/activity-list#72ddb2dc-7d75-424e-880a-d90eabe91381"
+      ],
+      "definition": "Jogging is a form of trotting or running at a slow or leisurely pace.",
+      "notation": "jogging"
     },
     {
       "id": "https://openactive.io/activity-list#75f342fd-a42a-4c64-b583-c08a43ff4c94",
@@ -4319,7 +4397,8 @@
         "https://openactive.io/activity-list#8662c76c-b73e-4429-af33-90a122064cf6",
         "https://openactive.io/activity-list#38fb5265-2234-4499-b930-ee6d132f72d8",
         "https://openactive.io/activity-list#704a7e7f-8a3b-411f-8c9e-175815eaddaf",
-        "https://openactive.io/activity-list#11b06df1-ccf5-4176-b1be-b4c39c5377c7"
+        "https://openactive.io/activity-list#11b06df1-ccf5-4176-b1be-b4c39c5377c7",
+        "https://openactive.io/activity-list#b66a1a57-3dfe-4536-96d6-ed22c87564a1"
       ],
       "related": [
         "https://openactive.io/activity-list#7a72e0e1-73ab-488e-872c-33e825360ddb"
@@ -4358,7 +4437,7 @@
       "id": "https://openactive.io/activity-list#d101b63b-572f-49d2-a027-d3a5748e6315",
       "identifier": "d101b63b-572f-49d2-a027-d3a5748e6315",
       "type": "Concept",
-      "prefLabel": "Medau 2",
+      "prefLabel": "Medau",
       "broader": [
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
@@ -5663,7 +5742,8 @@
       "type": "Concept",
       "prefLabel": "Running",
       "narrower": [
-        "https://openactive.io/activity-list#90346371-03e3-47c8-a25d-07e976b4a4c8"
+        "https://openactive.io/activity-list#90346371-03e3-47c8-a25d-07e976b4a4c8",
+        "https://openactive.io/activity-list#fb930830-f9af-4780-ae0e-51572eeaf96d"
       ],
       "definition": "Running is a form of exercise that can be done at anytime and anywhere.",
       "notation": "running",
@@ -5949,6 +6029,20 @@
       "notation": "short_mat_bowls"
     },
     {
+      "id": "https://openactive.io/activity-list#b277b02b-f17e-4cce-8f97-a81ed4bf97c5",
+      "identifier": "b277b02b-f17e-4cce-8f97-a81ed4bf97c5",
+      "type": "Concept",
+      "prefLabel": "Short Tennis",
+      "broader": [
+        "https://openactive.io/activity-list#f2ea7405-6098-4378-b0fe-4e398a659fc4"
+      ],
+      "definition": "Short tennis is a game played on a small court with a small racket and a soft ball,",
+      "notation": "short-tennis",
+      "altLabel": [
+        "Mini Tennis"
+      ]
+    },
+    {
       "id": "https://openactive.io/activity-list#b807b6e2-fedf-4682-bef4-dddd5e711a51",
       "identifier": "b807b6e2-fedf-4682-bef4-dddd5e711a51",
       "type": "Concept",
@@ -6162,6 +6256,17 @@
         "https://openactive.io/activity-list#5cdf5ead-e19d-4619-9585-cfe509c3fe52"
       ],
       "notation": "sosa"
+    },
+    {
+      "id": "https://openactive.io/activity-list#72c6ad99-95af-41f8-af7f-b8adc7702fa9",
+      "identifier": "72c6ad99-95af-41f8-af7f-b8adc7702fa9",
+      "type": "Concept",
+      "prefLabel": "Speed Climbing",
+      "broader": [
+        "https://openactive.io/activity-list#d09970bc-e11c-40cc-a594-38e4ff32d611"
+      ],
+      "definition": "Speed climbing is a climbing discipline in which speed is the ultimate goal and the same climbing route is used every time.",
+      "notation": "speed-climbing"
     },
     {
       "id": "https://openactive.io/activity-list#7e78f18b-e0b6-4196-a0f7-5bb0f1a87962",
@@ -6693,7 +6798,8 @@
         "https://openactive.io/activity-list#178ac9d5-9042-41e4-b8b9-12edf824afbf",
         "https://openactive.io/activity-list#7aa2af56-7454-4061-919e-21be6e3a6a4d",
         "https://openactive.io/activity-list#868ff4fe-9fdf-4b94-9bb3-52b1acb80740",
-        "https://openactive.io/activity-list#36295b69-22b9-4554-8a87-6ba7ae75426d"
+        "https://openactive.io/activity-list#36295b69-22b9-4554-8a87-6ba7ae75426d",
+        "https://openactive.io/activity-list#b277b02b-f17e-4cce-8f97-a81ed4bf97c5"
       ],
       "definition": "Tennis involves hitting a ball over a net using a racket.",
       "notation": "tennis",
@@ -7179,8 +7285,9 @@
       "narrower": [
         "https://openactive.io/activity-list#de259fd8-65f1-4318-b4fd-6f0ec2cb59c8",
         "https://openactive.io/activity-list#a7695eb1-2241-4c94-bea0-67922e643f2e",
-        "https://openactive.io/activity-list#6e31262b-ce37-4fc7-b3e3-d827ac5e8b42",
-        "https://openactive.io/activity-list#5165000e-cd5b-4fd1-b6dc-630c4b989282"
+        "https://openactive.io/activity-list#5165000e-cd5b-4fd1-b6dc-630c4b989282",
+        "https://openactive.io/activity-list#52a94b4f-2747-4d63-b009-785f0fb43119",
+        "https://openactive.io/activity-list#6e31262b-ce37-4fc7-b3e3-d827ac5e8b42"
       ],
       "notation": "waterbased_classes"
     },
@@ -7424,7 +7531,9 @@
         "https://openactive.io/activity-list#72ab185f-cd57-44da-a310-753fd2646d40",
         "https://openactive.io/activity-list#2a37deaf-01b2-42f8-b961-2b1174ca9054",
         "https://openactive.io/activity-list#b6402e8e-e405-4b97-8c76-4868324bc907",
-        "https://openactive.io/activity-list#df58ee70-fa79-423f-b146-4d719b3e7aac"
+        "https://openactive.io/activity-list#df58ee70-fa79-423f-b146-4d719b3e7aac",
+        "https://openactive.io/activity-list#152c958c-38bf-49a3-87f0-ae83a454f70e",
+        "https://openactive.io/activity-list#bc75bf5e-6023-4601-a159-ddd5e1ec554a"
       ],
       "definition": "Yoga is an ancient form of exercise that focuses on strength, flexibility and breathing to boost physical and mental wellbeing.",
       "notation": "yoga"

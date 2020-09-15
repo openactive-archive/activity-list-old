@@ -2109,7 +2109,8 @@
         "https://openactive.io/activity-list#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
         "https://openactive.io/activity-list#2d8eba85-af3d-4d8a-b92f-030d15b4885c",
         "https://openactive.io/activity-list#caf9d732-a551-48c3-8cda-ce6c9c27b906",
-        "https://openactive.io/activity-list#36353bac-315d-4b88-bcf3-3696c6f3b164"
+        "https://openactive.io/activity-list#36353bac-315d-4b88-bcf3-3696c6f3b164",
+        "https://openactive.io/activity-list#be4762de-b26c-4bd2-bcf2-4e54b58e7830"
       ],
       "definition": "Cycling is a great sport, loved by millions around the world.",
       "notation": "cycling",
@@ -5505,6 +5506,16 @@
         "https://openactive.io/activity-list#faccd7f9-982d-43cc-acd7-cf45964eeabd"
       ],
       "notation": "rebound"
+    },
+    {
+      "id": "https://openactive.io/activity-list#be4762de-b26c-4bd2-bcf2-4e54b58e7830",
+      "identifier": "be4762de-b26c-4bd2-bcf2-4e54b58e7830",
+      "type": "Concept",
+      "prefLabel": "Recreational Cycling",
+      "broader": [
+        "https://openactive.io/activity-list#4a19873e-118e-43f4-b86e-05acba8fb1de"
+      ],
+      "notation": "recreational-cycling"
     },
     {
       "id": "https://openactive.io/activity-list#0f31b611-d9a0-402d-a3c9-637ddcf02e43",

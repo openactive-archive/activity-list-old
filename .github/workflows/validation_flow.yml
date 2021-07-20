@@ -28,4 +28,9 @@ jobs:
         run: echo "Validation failed! :-("
       - name: Copy on success
         if: ${{ success() }}
-        run: echo "Validation succeeded! :-D"
+        run: | 
+          echo "Validation succeeded! :-D"
+          cp unvalidated_activity_list.jsonld activity-list.jsonld
+          git add activity-list.jsonld
+          git commit --allow-empty -m "[ci skip] Activity list export validated"
+          git push --force git@github.com:openactive/activity-list.git HEAD:master

@@ -30,6 +30,8 @@ jobs:
         if: ${{ success() }}
         run: | 
           echo "Validation succeeded! :-D"
+          git config --user.email "timbottu@protonmail.com"
+          git config --user.name "timbot22"
           cp unvalidated_activity_list.jsonld activity-list.jsonld
           git add activity-list.jsonld
           git commit --allow-empty -m "[ci skip] Activity list export validated"

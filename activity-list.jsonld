@@ -4500,31 +4500,11 @@
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#6fc3f706-23d0-4027-bebb-8a7cddb92b34",
         "https://openactive.io/activity-list#52b5604b-9139-4235-be4a-6441c506605b",
+        "https://openactive.io/activity-list#6fc3f706-23d0-4027-bebb-8a7cddb92b34",
         "https://openactive.io/activity-list#562ef2a8-0936-4cf5-8504-aff783fe0521"
       ],
       "notation": "medau"
-    },
-    {
-      "id": "https://openactive.io/activity-list#6fc3f706-23d0-4027-bebb-8a7cddb92b34",
-      "identifier": "6fc3f706-23d0-4027-bebb-8a7cddb92b34",
-      "type": "Concept",
-      "prefLabel": "Medau Elements",
-      "broader": [
-        "https://openactive.io/activity-list#d101b63b-572f-49d2-a027-d3a5748e6315"
-      ],
-      "notation": "medau_elements"
-    },
-    {
-      "id": "https://openactive.io/activity-list#562ef2a8-0936-4cf5-8504-aff783fe0521",
-      "identifier": "562ef2a8-0936-4cf5-8504-aff783fe0521",
-      "type": "Concept",
-      "prefLabel": "Medau Mature Moves",
-      "broader": [
-        "https://openactive.io/activity-list#d101b63b-572f-49d2-a027-d3a5748e6315"
-      ],
-      "notation": "medau_mature_moves"
     },
     {
       "id": "https://openactive.io/activity-list#52b5604b-9139-4235-be4a-6441c506605b",

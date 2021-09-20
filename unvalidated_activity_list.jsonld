@@ -6972,6 +6972,14 @@
       "notation": "texas_scramble_golf"
     },
     {
+      "id": "https://openactive.io/activity-list#063105f3-070a-485e-892e-6dd42bc48a56",
+      "identifier": "063105f3-070a-485e-892e-6dd42bc48a56",
+      "type": "Concept",
+      "prefLabel": "This Girl Can Classes",
+      "definition": "This Girl Can Classes is a new product designed and being rolled out by EMD UK. This Girl Can Classes is a product aligned with the existing brand This Girl Can. The difference is women wanting to find activities for women only could do that using a gender filter and those activities are plausibily aligned with This Girl Can, while This Girl Can Classes are a specific activity type and will have a standard experience for participants.",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#6c572662-df79-44cf-a4f0-19bb0c8dbd73",
       "identifier": "6c572662-df79-44cf-a4f0-19bb0c8dbd73",
       "type": "Concept",

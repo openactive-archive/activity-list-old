@@ -7383,6 +7383,13 @@
       "notation": "walking_rugby"
     },
     {
+      "id": "https://openactive.io/activity-list#cd63149a-d6ab-4278-8ce2-033f65e0a9f6",
+      "identifier": "cd63149a-d6ab-4278-8ce2-033f65e0a9f6",
+      "type": "Concept",
+      "prefLabel": "Walking Tennis",
+      "definition": "Walking tennis is a variant of tennis that is aimed at keeping people aged over-50 involved with tennis."
+    },
+    {
       "id": "https://openactive.io/activity-list#5edd0b4a-e4cb-40e7-bd90-28d47f914ed0",
       "identifier": "5edd0b4a-e4cb-40e7-bd90-28d47f914ed0",
       "type": "Concept",

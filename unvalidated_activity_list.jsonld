@@ -6953,7 +6953,8 @@
         "https://openactive.io/activity-list#7aa2af56-7454-4061-919e-21be6e3a6a4d",
         "https://openactive.io/activity-list#868ff4fe-9fdf-4b94-9bb3-52b1acb80740",
         "https://openactive.io/activity-list#36295b69-22b9-4554-8a87-6ba7ae75426d",
-        "https://openactive.io/activity-list#b277b02b-f17e-4cce-8f97-a81ed4bf97c5"
+        "https://openactive.io/activity-list#b277b02b-f17e-4cce-8f97-a81ed4bf97c5",
+        "https://openactive.io/activity-list#cd63149a-d6ab-4278-8ce2-033f65e0a9f6"
       ],
       "definition": "Tennis involves hitting a ball over a net using a racket.",
       "notation": "tennis",
@@ -7387,6 +7388,9 @@
       "identifier": "cd63149a-d6ab-4278-8ce2-033f65e0a9f6",
       "type": "Concept",
       "prefLabel": "Walking Tennis",
+      "broader": [
+        "https://openactive.io/activity-list#f2ea7405-6098-4378-b0fe-4e398a659fc4"
+      ],
       "definition": "Walking tennis is a variant of tennis that is aimed at keeping people aged over-50 involved with tennis."
     },
     {

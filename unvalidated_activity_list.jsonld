@@ -1386,6 +1386,19 @@
       "notation": "break_dance"
     },
     {
+      "id": "https://openactive.io/activity-list#08cf6ab5-ae0f-45c2-aaff-7f701d30931f",
+      "identifier": "08cf6ab5-ae0f-45c2-aaff-7f701d30931f",
+      "type": "Concept",
+      "prefLabel": "Breathwork",
+      "broader": [
+        "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#0c2a1e6b-4b02-4b8a-ae6d-59f225ff5341"
+      ],
+      "definition": "Breathwork is conscious, controlled breathing done especially for relaxation, meditation, or therapeutic purposes."
+    },
+    {
       "id": "https://openactive.io/activity-list#31853d3e-0583-43b1-a8b4-867d9ed85e97",
       "identifier": "31853d3e-0583-43b1-a8b4-867d9ed85e97",
       "type": "Concept",
@@ -3220,7 +3233,8 @@
         "https://openactive.io/activity-list#74a424c2-94d7-4e2b-a262-c6b492216704",
         "https://openactive.io/activity-list#ee3cf3ee-082e-4f53-9cb2-3ef0589497ed",
         "https://openactive.io/activity-list#a426499e-fc97-4a56-81ab-09f581ef0a91",
-        "https://openactive.io/activity-list#c31ac4c7-5c95-4915-8528-adebaacbb39d"
+        "https://openactive.io/activity-list#c31ac4c7-5c95-4915-8528-adebaacbb39d",
+        "https://openactive.io/activity-list#08cf6ab5-ae0f-45c2-aaff-7f701d30931f"
       ],
       "notation": "group_exercise",
       "topConceptOf": "https://openactive.io/activity-list"
@@ -4534,6 +4548,9 @@
       "prefLabel": "Meditation",
       "broader": [
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#08cf6ab5-ae0f-45c2-aaff-7f701d30931f"
       ],
       "notation": "meditation"
     },

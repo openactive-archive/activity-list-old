@@ -5114,7 +5114,8 @@
         "https://openactive.io/activity-list#675f5977-68a3-433a-9bb5-20278bd94e0c",
         "https://openactive.io/activity-list#0771fcb2-b5f7-4247-8d54-90648c839d46",
         "https://openactive.io/activity-list#72ab185f-cd57-44da-a310-753fd2646d40",
-        "https://openactive.io/activity-list#b6402e8e-e405-4b97-8c76-4868324bc907"
+        "https://openactive.io/activity-list#b6402e8e-e405-4b97-8c76-4868324bc907",
+        "https://openactive.io/activity-list#1c67c00e-2c05-49c7-b400-f2731abd8fe5"
       ],
       "definition": "Pilates improves flexibility, builds strength and develops control and endurance in the body.",
       "notation": "pilates"
@@ -5366,6 +5367,16 @@
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
       "notation": "pound"
+    },
+    {
+      "id": "https://openactive.io/activity-list#1c67c00e-2c05-49c7-b400-f2731abd8fe5",
+      "identifier": "1c67c00e-2c05-49c7-b400-f2731abd8fe5",
+      "type": "Concept",
+      "prefLabel": "Power Pilates",
+      "broader": [
+        "https://openactive.io/activity-list#3a6b1c08-7aa6-48d4-9690-dca9e0133057"
+      ],
+      "definition": "Power Pilates is all the control, precision and flow of a regular Pilates class but with a different intensity, designed to take your muscle to fatigue."
     },
     {
       "id": "https://openactive.io/activity-list#fb4c0f65-7b9b-438b-b215-65013d2edb7c",

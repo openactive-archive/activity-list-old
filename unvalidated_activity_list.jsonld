@@ -3007,7 +3007,8 @@
         "https://openactive.io/activity-list#8a75b5bd-812d-4dfd-aff6-87f799770d8c",
         "https://openactive.io/activity-list#fee226da-a928-44ec-a194-f1d328e2a9df",
         "https://openactive.io/activity-list#220a4b93-50dc-404f-802b-ae6b953c07b0",
-        "https://openactive.io/activity-list#c1a25366-8131-45fc-a092-d3548d3cce36"
+        "https://openactive.io/activity-list#c1a25366-8131-45fc-a092-d3548d3cce36",
+        "https://openactive.io/activity-list#6fffbfae-1ba9-4999-b8d2-86ff570e999e"
       ],
       "notation": "functional_fitness"
     },
@@ -5601,6 +5602,16 @@
         "https://openactive.io/activity-list#4a19873e-118e-43f4-b86e-05acba8fb1de"
       ],
       "notation": "recreational_cycling"
+    },
+    {
+      "id": "https://openactive.io/activity-list#6fffbfae-1ba9-4999-b8d2-86ff570e999e",
+      "identifier": "6fffbfae-1ba9-4999-b8d2-86ff570e999e",
+      "type": "Concept",
+      "prefLabel": "Resistance Bands",
+      "broader": [
+        "https://openactive.io/activity-list#493b7750-01d7-493f-811d-335929afeb77"
+      ],
+      "definition": "Strength training using resistance bands."
     },
     {
       "id": "https://openactive.io/activity-list#0f31b611-d9a0-402d-a3c9-637ddcf02e43",

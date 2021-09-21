@@ -6406,7 +6406,7 @@
       "id": "https://openactive.io/activity-list#b3a34a20-b4ef-402c-8763-a54ce9da422d",
       "identifier": "b3a34a20-b4ef-402c-8763-a54ce9da422d",
       "type": "Concept",
-      "prefLabel": "Soft PLay",
+      "prefLabel": "Soft Play",
       "definition": "An activity for children that involves playing in a specially designed area with soft surfaces and equipment.",
       "topConceptOf": "https://openactive.io/activity-list"
     },

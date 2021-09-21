@@ -4772,6 +4772,14 @@
       "notation": "multi_fitness"
     },
     {
+      "id": "https://openactive.io/activity-list#26a7b902-1ddd-46fd-9371-853e414c9eb3",
+      "identifier": "26a7b902-1ddd-46fd-9371-853e414c9eb3",
+      "type": "Concept",
+      "prefLabel": "Multisports",
+      "definition": "A mixture of sporting activities taking place within a session/programme.",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#b9f1a766-fdb8-4bb4-9a9d-b86317b20819",
       "identifier": "b9f1a766-fdb8-4bb4-9a9d-b86317b20819",
       "type": "Concept",

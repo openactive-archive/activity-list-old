@@ -1300,7 +1300,10 @@
       ],
       "definition": "Played outdoors on a flat square of grass, or indoors on an artificial surface, bowls involves throwing/rolling a ball to end up as close to a target as possible.",
       "notation": "bowls",
-      "topConceptOf": "https://openactive.io/activity-list"
+      "topConceptOf": "https://openactive.io/activity-list",
+      "altLabel": [
+        "Lawn Bowls"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#25b963ea-e01e-4fd9-ba38-275f1d278ed6",

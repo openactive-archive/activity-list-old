@@ -3248,7 +3248,8 @@
         "https://openactive.io/activity-list#ee3cf3ee-082e-4f53-9cb2-3ef0589497ed",
         "https://openactive.io/activity-list#a426499e-fc97-4a56-81ab-09f581ef0a91",
         "https://openactive.io/activity-list#c31ac4c7-5c95-4915-8528-adebaacbb39d",
-        "https://openactive.io/activity-list#08cf6ab5-ae0f-45c2-aaff-7f701d30931f"
+        "https://openactive.io/activity-list#08cf6ab5-ae0f-45c2-aaff-7f701d30931f",
+        "https://openactive.io/activity-list#063105f3-070a-485e-892e-6dd42bc48a56"
       ],
       "notation": "group_exercise",
       "topConceptOf": "https://openactive.io/activity-list"
@@ -7031,9 +7032,11 @@
       "identifier": "063105f3-070a-485e-892e-6dd42bc48a56",
       "type": "Concept",
       "prefLabel": "This Girl Can Classes",
+      "broader": [
+        "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
+      ],
       "definition": "This Girl Can Classes is a new product designed and being rolled out by EMD UK. This Girl Can Classes is a product aligned with the existing brand This Girl Can. The difference is women wanting to find activities for women only could do that using a gender filter and those activities are plausibily aligned with This Girl Can, while This Girl Can Classes are a specific activity type and will have a standard experience for participants.",
-      "notation": "this_girl_can_classes",
-      "topConceptOf": "https://openactive.io/activity-list"
+      "notation": "this_girl_can_classes"
     },
     {
       "id": "https://openactive.io/activity-list#6c572662-df79-44cf-a4f0-19bb0c8dbd73",

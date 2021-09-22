@@ -1261,7 +1261,6 @@
       "type": "Concept",
       "prefLabel": "Boules",
       "broader": [
-        "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624",
         "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624"
       ],
       "notation": "boules"
@@ -1600,7 +1599,6 @@
       "type": "Concept",
       "prefLabel": "Carpet Bowls",
       "broader": [
-        "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624",
         "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624"
       ],
       "notation": "carpet_bowls"
@@ -2117,7 +2115,6 @@
       "type": "Concept",
       "prefLabel": "Crown Green Bowls",
       "broader": [
-        "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624",
         "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624"
       ],
       "notation": "crown_green_bowls"
@@ -2388,7 +2385,6 @@
       "type": "Concept",
       "prefLabel": "Deck Bowls",
       "broader": [
-        "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624",
         "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624"
       ],
       "notation": "deck_bowls"
@@ -2809,7 +2805,6 @@
       "type": "Concept",
       "prefLabel": "Flat Green Bowls",
       "broader": [
-        "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624",
         "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624"
       ],
       "notation": "flat_green_bowls"
@@ -6205,7 +6200,6 @@
       "type": "Concept",
       "prefLabel": "Short Mat Bowls",
       "broader": [
-        "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624",
         "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624"
       ],
       "notation": "short_mat_bowls"

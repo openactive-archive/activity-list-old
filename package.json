@@ -18,6 +18,6 @@
   "homepage": "https://github.com/openactive/activity-list#readme",
   "dependencies": {
     "@openactive/skos": "^1.4.1",
-    "ajv": "^6.0.0"
+    "ajv": "^6.12.3"
   }
 }

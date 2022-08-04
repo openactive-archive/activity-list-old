@@ -4932,7 +4932,7 @@
         "https://openactive.io/activity-list#2750229d-b725-4171-9276-376be913957c"
       ],
       "definition": "Open water swimming is a swimming discipline which takes place in outdoor bodies of water such as open oceans, lakes, and rivers.",
-      "notation": "open-water-swimming",
+      "notation": "open_water_swimming",
       "altLabel": [
         "Outdoor Swimming",
         "Wild Swimming"

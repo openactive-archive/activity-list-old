@@ -4924,6 +4924,21 @@
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {
+      "id": "https://openactive.io/activity-list#66063501-0e05-4c45-8209-4291dfe875aa",
+      "identifier": "66063501-0e05-4c45-8209-4291dfe875aa",
+      "type": "Concept",
+      "prefLabel": "Open Water Swimming",
+      "broader": [
+        "https://openactive.io/activity-list#2750229d-b725-4171-9276-376be913957c"
+      ],
+      "definition": "Open water swimming is a swimming discipline which takes place in outdoor bodies of water such as open oceans, lakes, and rivers.",
+      "notation": "open-water-swimming",
+      "altLabel": [
+        "Outdoor Swimming",
+        "Wild Swimming"
+      ]
+    },
+    {
       "id": "https://openactive.io/activity-list#b2d5619e-56a7-4c40-b691-7f946f6ff5df",
       "identifier": "b2d5619e-56a7-4c40-b691-7f946f6ff5df",
       "type": "Concept",
@@ -6784,7 +6799,8 @@
       "narrower": [
         "https://openactive.io/activity-list#35bf3588-f547-482f-a6f2-3e42cbc9691e",
         "https://openactive.io/activity-list#dfaf6bb4-d2fe-4db5-a271-4ceeaaaf55b9",
-        "https://openactive.io/activity-list#2571c4c2-a3bd-4a53-b6f5-d3ae296968d6"
+        "https://openactive.io/activity-list#2571c4c2-a3bd-4a53-b6f5-d3ae296968d6",
+        "https://openactive.io/activity-list#66063501-0e05-4c45-8209-4291dfe875aa"
       ],
       "definition": "Swimming is an excellent form of exercise as it gives a full-body workout.",
       "notation": "swimming",

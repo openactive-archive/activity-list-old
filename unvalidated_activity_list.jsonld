@@ -462,6 +462,17 @@
       "notation": "armageddon_fitness"
     },
     {
+      "id": "https://openactive.io/activity-list#e7aecf57-6c9a-4f75-87c3-28204b4a0717",
+      "identifier": "e7aecf57-6c9a-4f75-87c3-28204b4a0717",
+      "type": "Concept",
+      "prefLabel": "Arnis",
+      "broader": [
+        "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
+      ],
+      "definition": "Arnis, also known as Kali or Eskrima/Escrima, is a traditional martial art of the Philippines, which emphasise weapon-based fighting with sticks, knives, bladed weapons, and various improvised weapons, as well as \"open hand\" techniques without weapons.",
+      "notation": "arnis"
+    },
+    {
       "id": "https://openactive.io/activity-list#864e81a0-77fc-4e23-af9d-240ec3fcc56b",
       "identifier": "864e81a0-77fc-4e23-af9d-240ec3fcc56b",
       "type": "Concept",
@@ -591,6 +602,17 @@
         "https://openactive.io/activity-list#1eb737b6-9962-469d-98cc-0a2e4e86d356"
       ],
       "notation": "bagfit"
+    },
+    {
+      "id": "https://openactive.io/activity-list#57735ba2-26cb-44c2-b03f-7982869d64c5",
+      "identifier": "57735ba2-26cb-44c2-b03f-7982869d64c5",
+      "type": "Concept",
+      "prefLabel": "Baguazhang",
+      "broader": [
+        "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
+      ],
+      "definition": "Chinese martial art in which practitioners walk around the edge of a circle in various low stances, facing the centre, and periodically change direction as they execute forms.",
+      "notation": "baguazhang"
     },
     {
       "id": "https://openactive.io/activity-list#d8f950b3-238d-406e-a33f-70a0fb6e8888",
@@ -779,6 +801,28 @@
         "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2"
       ],
       "notation": "bebop"
+    },
+    {
+      "id": "https://openactive.io/activity-list#123104ce-b30b-4a5e-9bec-071c23c16dbb",
+      "identifier": "123104ce-b30b-4a5e-9bec-071c23c16dbb",
+      "type": "Concept",
+      "prefLabel": "Beach Netball",
+      "broader": [
+        "https://openactive.io/activity-list#fbdc35a8-3dd0-40ee-a7ca-6ff40b3e5f90"
+      ],
+      "definition": "Netball on the sand",
+      "notation": "beach_netball"
+    },
+    {
+      "id": "https://openactive.io/activity-list#858278d2-7e1d-498d-ae73-1fc54da4a81c",
+      "identifier": "858278d2-7e1d-498d-ae73-1fc54da4a81c",
+      "type": "Concept",
+      "prefLabel": "Beach Soccer",
+      "broader": [
+        "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c"
+      ],
+      "definition": "Soccer on the sand",
+      "notation": "beach_soccer"
     },
     {
       "id": "https://openactive.io/activity-list#1731f73f-ed27-487c-86fc-d76fc2cf7984",
@@ -2986,7 +3030,8 @@
         "https://openactive.io/activity-list#6016ce87-d9ed-4bd6-8cc9-5598c2f59f79",
         "https://openactive.io/activity-list#f6301564-93d5-41ff-91a1-7ac2dd833951",
         "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba",
-        "https://openactive.io/activity-list#b8019b67-2ade-406f-a012-91a5c3869652"
+        "https://openactive.io/activity-list#b8019b67-2ade-406f-a012-91a5c3869652",
+        "https://openactive.io/activity-list#858278d2-7e1d-498d-ae73-1fc54da4a81c"
       ],
       "definition": "Football is widely considered to be the most popular sport in the world. The beautiful game is England's national sport.",
       "notation": "football",
@@ -4573,7 +4618,9 @@
         "https://openactive.io/activity-list#b66a1a57-3dfe-4536-96d6-ed22c87564a1",
         "https://openactive.io/activity-list#a9e57033-47f4-4247-af62-15fbbc8d0628",
         "https://openactive.io/activity-list#9f80ffea-d562-4118-a767-c03095bdfd27",
-        "https://openactive.io/activity-list#a05b8aae-2dd1-4869-89a4-6255b197be77"
+        "https://openactive.io/activity-list#a05b8aae-2dd1-4869-89a4-6255b197be77",
+        "https://openactive.io/activity-list#e7aecf57-6c9a-4f75-87c3-28204b4a0717",
+        "https://openactive.io/activity-list#57735ba2-26cb-44c2-b03f-7982869d64c5"
       ],
       "related": [
         "https://openactive.io/activity-list#7a72e0e1-73ab-488e-872c-33e825360ddb"
@@ -4924,7 +4971,8 @@
       "prefLabel": "Netball",
       "narrower": [
         "https://openactive.io/activity-list#1e48de7e-4f8f-49bd-8ab3-9d92edf2cedc",
-        "https://openactive.io/activity-list#472e0e33-2efb-4e3f-8e38-8ff4a7be9d6e"
+        "https://openactive.io/activity-list#472e0e33-2efb-4e3f-8e38-8ff4a7be9d6e",
+        "https://openactive.io/activity-list#123104ce-b30b-4a5e-9bec-071c23c16dbb"
       ],
       "definition": "Netball is a team game which involves shooting a ball through a hoop",
       "notation": "netball",

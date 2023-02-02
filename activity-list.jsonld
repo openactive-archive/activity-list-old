@@ -970,6 +970,17 @@
       "notation": "board_surfing"
     },
     {
+      "id": "https://openactive.io/activity-list#1df8d8c0-ee81-4c7a-8cfb-8e22b6983962",
+      "identifier": "1df8d8c0-ee81-4c7a-8cfb-8e22b6983962",
+      "type": "Concept",
+      "prefLabel": "Boater X",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "A head-to-head race with anything between two and six canoes which navigate a series of obstacles.",
+      "notation": "boater_x"
+    },
+    {
       "id": "https://openactive.io/activity-list#fa83a907-c08e-46d0-949b-a9fb43057378",
       "identifier": "fa83a907-c08e-46d0-949b-a9fb43057378",
       "type": "Concept",
@@ -1549,6 +1560,28 @@
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {
+      "id": "https://openactive.io/activity-list#a893d5cb-d9a3-4153-bfd7-2546c3aa7faa",
+      "identifier": "a893d5cb-d9a3-4153-bfd7-2546c3aa7faa",
+      "type": "Concept",
+      "prefLabel": "Canoe Freestyle",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "Freestyle paddlers, in tiny specialist boats, will search out features on fast flowing rivers, whilst performing tricks and flips",
+      "notation": "canoe_freestyle"
+    },
+    {
+      "id": "https://openactive.io/activity-list#207861ef-b8b5-4154-ad2c-20512f009c28",
+      "identifier": "207861ef-b8b5-4154-ad2c-20512f009c28",
+      "type": "Concept",
+      "prefLabel": "Canoe Ocean Racing",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "Canoe Ocean Racing consists of long distance surfski, sea kayak and sea touring races.",
+      "notation": "canoe_ocean_racing"
+    },
+    {
       "id": "https://openactive.io/activity-list#cb174be9-744b-46ff-b5b8-623257590b0d",
       "identifier": "cb174be9-744b-46ff-b5b8-623257590b0d",
       "type": "Concept",
@@ -1560,12 +1593,53 @@
       "notation": "canoe_polo"
     },
     {
+      "id": "https://openactive.io/activity-list#c8c75e53-8492-4303-91c1-4f4de64ffd96",
+      "identifier": "c8c75e53-8492-4303-91c1-4f4de64ffd96",
+      "type": "Concept",
+      "prefLabel": "Canoe Sailing",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "Canoe Sailing refers to the practice of fitting a Western canoe with sails.",
+      "notation": "canoe_sailing"
+    },
+    {
+      "id": "https://openactive.io/activity-list#eefd65c9-2842-4940-8753-18386411071a",
+      "identifier": "eefd65c9-2842-4940-8753-18386411071a",
+      "type": "Concept",
+      "prefLabel": "Canoe Slalom",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "Canoe slalom is a competitive sport with the aim to navigate a decked canoe or kayak through a course of hanging downstream or upstream gates on a river",
+      "notation": "canoe_slalom"
+    },
+    {
+      "id": "https://openactive.io/activity-list#673694a5-96a5-4fbe-b211-01398495f383",
+      "identifier": "673694a5-96a5-4fbe-b211-01398495f383",
+      "type": "Concept",
+      "prefLabel": "Canoe Sprint",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "Canoe sprint is a water sport in which athletes race canoes or kayaks on calm water.",
+      "notation": "canoe_sprint"
+    },
+    {
       "id": "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1",
       "identifier": "e0425262-6f1d-4c58-ba8a-dd790c5351b1",
       "type": "Concept",
       "prefLabel": "Canoeing",
       "narrower": [
-        "https://openactive.io/activity-list#cb174be9-744b-46ff-b5b8-623257590b0d"
+        "https://openactive.io/activity-list#cb174be9-744b-46ff-b5b8-623257590b0d",
+        "https://openactive.io/activity-list#eefd65c9-2842-4940-8753-18386411071a",
+        "https://openactive.io/activity-list#673694a5-96a5-4fbe-b211-01398495f383",
+        "https://openactive.io/activity-list#6248ad5f-afd9-4b3b-88fe-91f363b4a23b",
+        "https://openactive.io/activity-list#a893d5cb-d9a3-4153-bfd7-2546c3aa7faa",
+        "https://openactive.io/activity-list#1df8d8c0-ee81-4c7a-8cfb-8e22b6983962",
+        "https://openactive.io/activity-list#207861ef-b8b5-4154-ad2c-20512f009c28",
+        "https://openactive.io/activity-list#3a358887-bb53-4792-bcfa-046437d2d8f4",
+        "https://openactive.io/activity-list#c8c75e53-8492-4303-91c1-4f4de64ffd96"
       ],
       "definition": "Canoeing involves using a paddle to move across the water in a narrow vessel.",
       "notation": "canoeing",
@@ -3988,6 +4062,9 @@
       "identifier": "598ceb23-216c-4f8a-9a7a-0eef6e3a4ae8",
       "type": "Concept",
       "prefLabel": "Kayaking",
+      "narrower": [
+        "https://openactive.io/activity-list#37bee307-be87-4e98-a5c8-38d1efb8863c"
+      ],
       "definition": "In all forms of kayaking you use a double bladed paddle and will be in a seated position with your legs in front of you.",
       "notation": "kayaking",
       "topConceptOf": "https://openactive.io/activity-list"
@@ -4457,6 +4534,17 @@
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
       "notation": "mambo"
+    },
+    {
+      "id": "https://openactive.io/activity-list#6248ad5f-afd9-4b3b-88fe-91f363b4a23b",
+      "identifier": "6248ad5f-afd9-4b3b-88fe-91f363b4a23b",
+      "type": "Concept",
+      "prefLabel": "Marathon Canoe",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "Canoe marathon is a paddling sport in which athletes paddle a kayak (double-bladed paddle) or canoe (single-bladed paddle) over a long distance",
+      "notation": "marathon_canoe"
     },
     {
       "id": "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228",
@@ -4968,6 +5056,17 @@
       ],
       "definition": "Badminton is a racket sport that involves hitting a shuttlecock over a net on indoor courts. Points are scored when the opponent is unable to return the shuttlecock before it hits the floor.",
       "notation": "outdoor_badminton"
+    },
+    {
+      "id": "https://openactive.io/activity-list#3a358887-bb53-4792-bcfa-046437d2d8f4",
+      "identifier": "3a358887-bb53-4792-bcfa-046437d2d8f4",
+      "type": "Concept",
+      "prefLabel": "Outrigger Canoeing",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "Outrigger Canoeing is a racing sport of the canoeing discipline in which canoes with lateral floats called outriggers are fastened to the hull.",
+      "notation": "outrigger_canoeing"
     },
     {
       "id": "https://openactive.io/activity-list#b8cc8058-1d31-4509-903a-f798493f1b0b",
@@ -6752,6 +6851,17 @@
         "https://openactive.io/activity-list#6b176d87-b82b-4fab-aec1-6d6f94ba8e4c"
       ],
       "notation": "strutology"
+    },
+    {
+      "id": "https://openactive.io/activity-list#37bee307-be87-4e98-a5c8-38d1efb8863c",
+      "identifier": "37bee307-be87-4e98-a5c8-38d1efb8863c",
+      "type": "Concept",
+      "prefLabel": "Surf Kayak",
+      "broader": [
+        "https://openactive.io/activity-list#598ceb23-216c-4f8a-9a7a-0eef6e3a4ae8"
+      ],
+      "definition": "Surf kayaking is the sport, technique, and equipment, used in surfing ocean waves with kayaks.",
+      "notation": "surf_kayak"
     },
     {
       "id": "https://openactive.io/activity-list#ba5381a0-c981-4879-9b44-8b18e922c412",

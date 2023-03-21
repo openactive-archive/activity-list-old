@@ -116,6 +116,26 @@
       "notation": "acroyoga"
     },
     {
+      "id": "https://openactive.io/activity-list#cf9ff8b8-7a15-48d3-8536-1d17e70345a7",
+      "identifier": "cf9ff8b8-7a15-48d3-8536-1d17e70345a7",
+      "type": "Concept",
+      "prefLabel": "Acting",
+      "definition": "the art or occupation of performing fictional roles ",
+      "notation": "acting",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
+      "id": "https://openactive.io/activity-list#5b4b703d-110c-4e2a-8adb-50151a0bc7ba",
+      "identifier": "5b4b703d-110c-4e2a-8adb-50151a0bc7ba",
+      "type": "Concept",
+      "prefLabel": "Adaptive Golf",
+      "broader": [
+        "https://openactive.io/activity-list#7ae6067a-07f7-4aea-9e1f-eeeea5ae9047"
+      ],
+      "definition": "Adaptive Golf allows people with disabilities play the game of golf through modified rules or equipment, based upon the person’s abilities",
+      "notation": "adaptive_golf"
+    },
+    {
       "id": "https://openactive.io/activity-list#eaa5efed-f7d3-40b3-8f6e-1951c2a09a65",
       "identifier": "eaa5efed-f7d3-40b3-8f6e-1951c2a09a65",
       "type": "Concept",
@@ -225,6 +245,17 @@
         "https://openactive.io/activity-list#36359d6f-33ab-44c3-80c0-4076b57c9fed"
       ],
       "notation": "airgun"
+    },
+    {
+      "id": "https://openactive.io/activity-list#0b8c608c-168c-41b2-82de-88c198373154",
+      "identifier": "0b8c608c-168c-41b2-82de-88c198373154",
+      "type": "Concept",
+      "prefLabel": "Airsoft Target Shooting",
+      "broader": [
+        "https://openactive.io/activity-list#36359d6f-33ab-44c3-80c0-4076b57c9fed"
+      ],
+      "definition": "Airsoft Target Shooting, Using Indoor low power guns, firing non lethal plastic pellets allowing high speed \"Practical Shooting\" An established International sport, search International Practical Shooting Confederation (IPSC).",
+      "notation": "airsoft_target_shooting"
     },
     {
       "id": "https://openactive.io/activity-list#5ab8e88a-fbec-4ff7-b878-dff1ca0ba841",
@@ -1683,7 +1714,9 @@
         "https://openactive.io/activity-list#1df8d8c0-ee81-4c7a-8cfb-8e22b6983962",
         "https://openactive.io/activity-list#207861ef-b8b5-4154-ad2c-20512f009c28",
         "https://openactive.io/activity-list#3a358887-bb53-4792-bcfa-046437d2d8f4",
-        "https://openactive.io/activity-list#c8c75e53-8492-4303-91c1-4f4de64ffd96"
+        "https://openactive.io/activity-list#c8c75e53-8492-4303-91c1-4f4de64ffd96",
+        "https://openactive.io/activity-list#6ab3d378-87b9-45d8-bacc-9604dd96a528",
+        "https://openactive.io/activity-list#a2b886fb-e77b-4074-a4be-0b06e2e68c8a"
       ],
       "definition": "Canoeing involves using a paddle to move across the water in a narrow vessel.",
       "notation": "canoeing",
@@ -1767,6 +1800,17 @@
       ],
       "definition": "Chair based exercise classes are designed to help improve strength and balance, from the comfort of a chair.",
       "notation": "chair_based_exercise"
+    },
+    {
+      "id": "https://openactive.io/activity-list#16b8fad0-68a1-4159-892d-c9b59dce03c8",
+      "identifier": "16b8fad0-68a1-4159-892d-c9b59dce03c8",
+      "type": "Concept",
+      "prefLabel": "Chair Yoga",
+      "broader": [
+        "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
+      ],
+      "definition": "Chair yoga is a gentle practice in which postures are performed while seated and/or with the aid of a chair.",
+      "notation": "chair_yoga"
     },
     {
       "id": "https://openactive.io/activity-list#b38f9ea7-87db-40fc-b86f-eb1a8e71dc7c",
@@ -2344,7 +2388,8 @@
         "https://openactive.io/activity-list#f5cad176-efcd-495a-b249-03c9027ab368",
         "https://openactive.io/activity-list#d3bdf357-14dc-4da1-af67-9c057eb2bd7a",
         "https://openactive.io/activity-list#0b254ccb-26bb-457c-ae68-ad6cb40b17ea",
-        "https://openactive.io/activity-list#7cc3c73b-0756-4646-afbc-20f34f15f9ae"
+        "https://openactive.io/activity-list#7cc3c73b-0756-4646-afbc-20f34f15f9ae",
+        "https://openactive.io/activity-list#98998e25-9169-4593-973d-d3e534684e71"
       ],
       "related": [
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
@@ -2537,6 +2582,17 @@
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
       "notation": "diddi_dance"
+    },
+    {
+      "id": "https://openactive.io/activity-list#2a75f0ba-95d9-4ffb-9f8b-c0984aa5f3d0",
+      "identifier": "2a75f0ba-95d9-4ffb-9f8b-c0984aa5f3d0",
+      "type": "Concept",
+      "prefLabel": "Disc Golf",
+      "broader": [
+        "https://openactive.io/activity-list#7ae6067a-07f7-4aea-9e1f-eeeea5ae9047"
+      ],
+      "definition": "Disc golf is Golf played with a disc similar to a frisbee",
+      "notation": "disc_golf"
     },
     {
       "id": "https://openactive.io/activity-list#f12daba1-d1e4-49a5-831c-89d83c0cb1f4",
@@ -2758,6 +2814,17 @@
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
       "notation": "extend"
+    },
+    {
+      "id": "https://openactive.io/activity-list#6ab3d378-87b9-45d8-bacc-9604dd96a528",
+      "identifier": "6ab3d378-87b9-45d8-bacc-9604dd96a528",
+      "type": "Concept",
+      "prefLabel": "Extreme Slalom",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "Extreme slalom is a combination of all canoeing's white water disciplines, with competitors racing in identical plastic creek boats.",
+      "notation": "extreme_slalom"
     },
     {
       "id": "https://openactive.io/activity-list#e6d04eaa-a1b9-4e5f-97a3-445783f51bae",
@@ -3031,7 +3098,8 @@
         "https://openactive.io/activity-list#f6301564-93d5-41ff-91a1-7ac2dd833951",
         "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba",
         "https://openactive.io/activity-list#b8019b67-2ade-406f-a012-91a5c3869652",
-        "https://openactive.io/activity-list#858278d2-7e1d-498d-ae73-1fc54da4a81c"
+        "https://openactive.io/activity-list#858278d2-7e1d-498d-ae73-1fc54da4a81c",
+        "https://openactive.io/activity-list#fec9ecec-baec-46a8-9746-c1cdba3954d7"
       ],
       "definition": "Football is widely considered to be the most popular sport in the world. The beautiful game is England's national sport.",
       "notation": "football",
@@ -3285,7 +3353,9 @@
         "https://openactive.io/activity-list#62c96301-5aa3-4cef-bf68-8420d7a91755",
         "https://openactive.io/activity-list#eaa5efed-f7d3-40b3-8f6e-1951c2a09a65",
         "https://openactive.io/activity-list#c26bb4b7-060d-4f73-b4c1-9749f078def1",
-        "https://openactive.io/activity-list#4ba72fbb-fc08-4f3e-b779-342be690bc1c"
+        "https://openactive.io/activity-list#4ba72fbb-fc08-4f3e-b779-342be690bc1c",
+        "https://openactive.io/activity-list#5b4b703d-110c-4e2a-8adb-50151a0bc7ba",
+        "https://openactive.io/activity-list#2a75f0ba-95d9-4ffb-9f8b-c0984aa5f3d0"
       ],
       "definition": "Golf is an adaptable game that it suits everyone, whatever their age, fitness level or ability. Whether you want to keep healthy, burn calories or spend time with friends, golf is for you.",
       "notation": "golf",
@@ -3368,7 +3438,9 @@
         "https://openactive.io/activity-list#87b7d180-d8c0-4721-adf6-9a257c164421",
         "https://openactive.io/activity-list#0c2a1e6b-4b02-4b8a-ae6d-59f225ff5341",
         "https://openactive.io/activity-list#8310ea9c-4785-4472-8899-a541cbcc0359",
-        "https://openactive.io/activity-list#a426499e-fc97-4a56-81ab-09f581ef0a91"
+        "https://openactive.io/activity-list#a426499e-fc97-4a56-81ab-09f581ef0a91",
+        "https://openactive.io/activity-list#01b44d7f-08fd-4936-8b76-953adbd7a585",
+        "https://openactive.io/activity-list#12850851-5f65-44e4-b426-16254501dbce"
       ],
       "notation": "group_exercise",
       "topConceptOf": "https://openactive.io/activity-list"
@@ -4401,6 +4473,15 @@
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {
+      "id": "https://openactive.io/activity-list#08f92189-8181-4614-bb29-4778ded344d7",
+      "identifier": "08f92189-8181-4614-bb29-4778ded344d7",
+      "type": "Concept",
+      "prefLabel": "Laser Tag",
+      "definition": "Laser tag is a recreational shooting sport where participants use infrared-emitting light guns to tag designated targets.",
+      "notation": "laser_tag",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#516c71ac-829e-40cf-82f9-fafa8f30f856",
       "identifier": "516c71ac-829e-40cf-82f9-fafa8f30f856",
       "type": "Concept",
@@ -5199,6 +5280,17 @@
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {
+      "id": "https://openactive.io/activity-list#12850851-5f65-44e4-b426-16254501dbce",
+      "identifier": "12850851-5f65-44e4-b426-16254501dbce",
+      "type": "Concept",
+      "prefLabel": "Paracise",
+      "broader": [
+        "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
+      ],
+      "definition": "Paracise offers an entry point to the millions of people who would benefit physically and mentally from lower intensity exercise. Ideal for those who find regular fitness classes too demanding, or who haven’t exercised for a long time, or who are coming back from injury. It may be accessible to those with a wide range of health conditions such as arthritis, fibromyalgia, bad backs etc.",
+      "notation": "paracise"
+    },
+    {
       "id": "https://openactive.io/activity-list#472e0e33-2efb-4e3f-8e38-8ff4a7be9d6e",
       "identifier": "472e0e33-2efb-4e3f-8e38-8ff4a7be9d6e",
       "type": "Concept",
@@ -5658,6 +5750,17 @@
       "notation": "practice_nets"
     },
     {
+      "id": "https://openactive.io/activity-list#6a240b01-5389-4ce0-87da-35a9d7749877",
+      "identifier": "6a240b01-5389-4ce0-87da-35a9d7749877",
+      "type": "Concept",
+      "prefLabel": "Pregnancy Yoga",
+      "broader": [
+        "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
+      ],
+      "definition": "Yoga in pregnancy is a great way to stay active and is healthy for you and your baby. Yoga classes in pregnancy use relaxation and breathing techniques with postures that are adapted for pregnancy",
+      "notation": "pregnancy_yoga"
+    },
+    {
       "id": "https://openactive.io/activity-list#4b9c1b69-ae55-43c7-9f27-7444e3c56ee5",
       "identifier": "4b9c1b69-ae55-43c7-9f27-7444e3c56ee5",
       "type": "Concept",
@@ -5808,6 +5911,17 @@
       "notation": "resistance_bands"
     },
     {
+      "id": "https://openactive.io/activity-list#01b44d7f-08fd-4936-8b76-953adbd7a585",
+      "identifier": "01b44d7f-08fd-4936-8b76-953adbd7a585",
+      "type": "Concept",
+      "prefLabel": "Resistance Training",
+      "broader": [
+        "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
+      ],
+      "definition": "Strength training using free weights",
+      "notation": "strength_training"
+    },
+    {
       "id": "https://openactive.io/activity-list#0f31b611-d9a0-402d-a3c9-637ddcf02e43",
       "identifier": "0f31b611-d9a0-402d-a3c9-637ddcf02e43",
       "type": "Concept",
@@ -5945,7 +6059,8 @@
         "https://openactive.io/activity-list#f2b21bb0-07a1-4333-9ae3-bd8d089c9490",
         "https://openactive.io/activity-list#7e5cb3ee-8c91-4f85-8c97-e335e0013eb3",
         "https://openactive.io/activity-list#50feff1b-790f-4f0f-9c07-0314557897c4",
-        "https://openactive.io/activity-list#c76625ba-1e2e-4417-bb10-e0ba778fc71a"
+        "https://openactive.io/activity-list#c76625ba-1e2e-4417-bb10-e0ba778fc71a",
+        "https://openactive.io/activity-list#b2d7512a-cc5f-425b-802f-71a710d63d1e"
       ],
       "notation": "roller_sports",
       "topConceptOf": "https://openactive.io/activity-list"
@@ -6201,6 +6316,15 @@
       "notation": "sand_yachting"
     },
     {
+      "id": "https://openactive.io/activity-list#2aceb439-6903-4cdc-b64b-f1717c961148",
+      "identifier": "2aceb439-6903-4cdc-b64b-f1717c961148",
+      "type": "Concept",
+      "prefLabel": "Sauna",
+      "definition": "A sauna is a wood-panelled space with a stove that heats rocks that radiate heat into the enclosed room.",
+      "notation": "sauna",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#bde70671-929f-4167-9181-4c3a2758fd67",
       "identifier": "bde70671-929f-4167-9181-4c3a2758fd67",
       "type": "Concept",
@@ -6219,6 +6343,28 @@
         "https://openactive.io/activity-list#45a372d9-baca-4f6c-859f-04de3efae742"
       ],
       "notation": "schooling"
+    },
+    {
+      "id": "https://openactive.io/activity-list#b2d7512a-cc5f-425b-802f-71a710d63d1e",
+      "identifier": "b2d7512a-cc5f-425b-802f-71a710d63d1e",
+      "type": "Concept",
+      "prefLabel": "Scootering",
+      "broader": [
+        "https://openactive.io/activity-list#ea53d9f6-ae79-4b4d-ac66-8afcf2845926"
+      ],
+      "definition": "Scootering is the sport of riding a push scooter and can include tricks on a variety of obstacles.",
+      "notation": "scootering"
+    },
+    {
+      "id": "https://openactive.io/activity-list#98998e25-9169-4593-973d-d3e534684e71",
+      "identifier": "98998e25-9169-4593-973d-d3e534684e71",
+      "type": "Concept",
+      "prefLabel": "Scottish Country Dancing",
+      "broader": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ],
+      "definition": "Scottish Country Dancing involves dancing in sets to Scottish folk music",
+      "notation": "scottish_country_dancing"
     },
     {
       "id": "https://openactive.io/activity-list#906f392c-1f51-4ef3-83dd-99b387d5aa84",
@@ -6342,7 +6488,8 @@
         "https://openactive.io/activity-list#c62b4571-d717-47a8-978a-453a175e049e",
         "https://openactive.io/activity-list#1f6438b9-d1da-46b3-aa6d-3cd140391567",
         "https://openactive.io/activity-list#b4eeb751-9e31-4308-9296-1c7965fbef40",
-        "https://openactive.io/activity-list#b9f1a766-fdb8-4bb4-9a9d-b86317b20819"
+        "https://openactive.io/activity-list#b9f1a766-fdb8-4bb4-9a9d-b86317b20819",
+        "https://openactive.io/activity-list#0b8c608c-168c-41b2-82de-88c198373154"
       ],
       "definition": "Target shooting today is a popular sport, comprising over 41 different disciplines across 3 main categories (Fullbore Rifle & Pistol, Small-bore Rifle & Pistol, and Shotgun)",
       "notation": "shooting",
@@ -6426,6 +6573,15 @@
       "notation": "show_jumping"
     },
     {
+      "id": "https://openactive.io/activity-list#e2b21a40-66a4-42bb-a24f-3638cc356299",
+      "identifier": "e2b21a40-66a4-42bb-a24f-3638cc356299",
+      "type": "Concept",
+      "prefLabel": "Singing",
+      "definition": "Using your voice to make a tune",
+      "notation": "singing",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#1dae5189-7677-4921-9ad2-e04b23faff57",
       "identifier": "1dae5189-7677-4921-9ad2-e04b23faff57",
       "type": "Concept",
@@ -6474,7 +6630,8 @@
         "https://openactive.io/activity-list#5ab8e88a-fbec-4ff7-b878-dff1ca0ba841",
         "https://openactive.io/activity-list#f9b01e23-68b4-4a60-a2d3-2efcd248ba7c",
         "https://openactive.io/activity-list#9bb258e2-57f2-423e-8dd8-a3796df1cfd1",
-        "https://openactive.io/activity-list#f21b5af1-e230-47d4-a58a-858caee30691"
+        "https://openactive.io/activity-list#f21b5af1-e230-47d4-a58a-858caee30691",
+        "https://openactive.io/activity-list#de952278-c54c-42b9-a026-7bb6dc892ad8"
       ],
       "definition": "Skiing is a popular sport that takes place on snow, artificial surfaces and more recently, on indoor artificial snow slopes. It can be undertaken as a leisure activity or competitive sport and is suitable for most ages.",
       "notation": "skiing",
@@ -6583,6 +6740,17 @@
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {
+      "id": "https://openactive.io/activity-list#de952278-c54c-42b9-a026-7bb6dc892ad8",
+      "identifier": "de952278-c54c-42b9-a026-7bb6dc892ad8",
+      "type": "Concept",
+      "prefLabel": "Snowtubing",
+      "broader": [
+        "https://openactive.io/activity-list#3a25e627-27b4-4f2b-ae93-4caf8278b02c"
+      ],
+      "definition": "This is the sport of moving across snow on a large inflated inner tube",
+      "notation": "snowtubing"
+    },
+    {
       "id": "https://openactive.io/activity-list#b3a34a20-b4ef-402c-8763-a54ce9da422d",
       "identifier": "b3a34a20-b4ef-402c-8763-a54ce9da422d",
       "type": "Concept",
@@ -6619,6 +6787,15 @@
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
       "notation": "sosa"
+    },
+    {
+      "id": "https://openactive.io/activity-list#58e03697-1fdb-4c9f-bcf4-ffef6944fab4",
+      "identifier": "58e03697-1fdb-4c9f-bcf4-ffef6944fab4",
+      "type": "Concept",
+      "prefLabel": "Spa",
+      "definition": "A spa is a resort that offers health and beauty treatments or is located near a natural mineral spring",
+      "notation": "spa",
+      "topConceptOf": "https://openactive.io/activity-list"
     },
     {
       "id": "https://openactive.io/activity-list#72c6ad99-95af-41f8-af7f-b8adc7702fa9",
@@ -6740,6 +6917,15 @@
       ],
       "definition": "Unlike traditional surfing where the rider is sitting until a wave comes, stand up paddle boarders maintain an upright stance on their boards and use a paddle to propel themselves through the water.",
       "notation": "stand_up_paddleboarding"
+    },
+    {
+      "id": "https://openactive.io/activity-list#c8bf1529-5c39-4eeb-870a-8c61924c9a23",
+      "identifier": "c8bf1529-5c39-4eeb-870a-8c61924c9a23",
+      "type": "Concept",
+      "prefLabel": "Steam Room",
+      "definition": "A Steam Room is a small room containing steam that you can sit in to relax and to clean your skin",
+      "notation": "steam_room",
+      "topConceptOf": "https://openactive.io/activity-list"
     },
     {
       "id": "https://openactive.io/activity-list#01e547fd-2a10-40a4-a297-6d827c10529c",
@@ -7233,6 +7419,17 @@
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {
+      "id": "https://openactive.io/activity-list#fec9ecec-baec-46a8-9746-c1cdba3954d7",
+      "identifier": "fec9ecec-baec-46a8-9746-c1cdba3954d7",
+      "type": "Concept",
+      "prefLabel": "Toddler Football",
+      "broader": [
+        "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c"
+      ],
+      "definition": "This is an introduction to football for children under 5 years of age.",
+      "notation": "toddler_football"
+    },
+    {
       "id": "https://openactive.io/activity-list#4acb955c-4084-4588-bbd1-64afe1cace6f",
       "identifier": "4acb955c-4084-4588-bbd1-64afe1cace6f",
       "type": "Concept",
@@ -7401,6 +7598,15 @@
         "https://openactive.io/activity-list#1eb737b6-9962-469d-98cc-0a2e4e86d356"
       ],
       "notation": "turbo_kick"
+    },
+    {
+      "id": "https://openactive.io/activity-list#b7564d57-950a-4982-9191-fb4758faddca",
+      "identifier": "b7564d57-950a-4982-9191-fb4758faddca",
+      "type": "Concept",
+      "prefLabel": "Turkish Baths",
+      "definition": "A Turkish bath is a type of steam bath or a place of public bathing.",
+      "notation": "turkish_baths",
+      "topConceptOf": "https://openactive.io/activity-list"
     },
     {
       "id": "https://openactive.io/activity-list#4aeecde4-1998-4ee9-9c27-01d2ff046c50",
@@ -7860,6 +8066,17 @@
       "notation": "white_water_rafting"
     },
     {
+      "id": "https://openactive.io/activity-list#a2b886fb-e77b-4074-a4be-0b06e2e68c8a",
+      "identifier": "a2b886fb-e77b-4074-a4be-0b06e2e68c8a",
+      "type": "Concept",
+      "prefLabel": "Wild Water Racing",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "Wild Water racing, also called white-water racing, is competitive canoe or kayak racing down swift-flowing, turbulent streams called wild water.",
+      "notation": "wild_water_racing"
+    },
+    {
       "id": "https://openactive.io/activity-list#3cdf195b-a971-4dfa-9602-c2c24da2100c",
       "identifier": "3cdf195b-a971-4dfa-9602-c2c24da2100c",
       "type": "Concept",
@@ -7955,7 +8172,9 @@
         "https://openactive.io/activity-list#df58ee70-fa79-423f-b146-4d719b3e7aac",
         "https://openactive.io/activity-list#bc75bf5e-6023-4601-a159-ddd5e1ec554a",
         "https://openactive.io/activity-list#152c958c-38bf-49a3-87f0-ae83a454f70e",
-        "https://openactive.io/activity-list#e3394d62-1c4c-4318-a500-100d05416a1a"
+        "https://openactive.io/activity-list#e3394d62-1c4c-4318-a500-100d05416a1a",
+        "https://openactive.io/activity-list#6a240b01-5389-4ce0-87da-35a9d7749877",
+        "https://openactive.io/activity-list#16b8fad0-68a1-4159-892d-c9b59dce03c8"
       ],
       "definition": "Yoga is an ancient form of exercise that focuses on strength, flexibility and breathing to boost physical and mental wellbeing.",
       "notation": "yoga"

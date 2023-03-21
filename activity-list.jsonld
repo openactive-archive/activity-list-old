@@ -2074,6 +2074,20 @@
       "notation": "clubbercise_kids"
     },
     {
+      "id": "https://openactive.io/activity-list#0ff678d1-a679-492c-a8b7-e9d7e0061bd1",
+      "identifier": "0ff678d1-a679-492c-a8b7-e9d7e0061bd1",
+      "type": "Concept",
+      "prefLabel": "Cold Water Swimming",
+      "broader": [
+        "https://openactive.io/activity-list#2750229d-b725-4171-9276-376be913957c"
+      ],
+      "related": [
+        "https://openactive.io/activity-list#66063501-0e05-4c45-8209-4291dfe875aa"
+      ],
+      "definition": "Cold water swimming is the activity of open water swimming in cold water, generally defined as 10°C (50°F) or less using standard swimwear rather than using wetsuits or other thermal protection. Cold water swimming is any form of swimming that would be extreme in terms of distance, water temperature or water conditions done in winter.",
+      "notation": "cold_water_swimming"
+    },
+    {
       "id": "https://openactive.io/activity-list#05fe1f0c-71aa-4ae3-91db-e0edd9a34b06",
       "identifier": "05fe1f0c-71aa-4ae3-91db-e0edd9a34b06",
       "type": "Concept",
@@ -5149,6 +5163,9 @@
       "broader": [
         "https://openactive.io/activity-list#2750229d-b725-4171-9276-376be913957c"
       ],
+      "related": [
+        "https://openactive.io/activity-list#0ff678d1-a679-492c-a8b7-e9d7e0061bd1"
+      ],
       "definition": "Open water swimming is a swimming discipline which takes place in outdoor bodies of water such as open oceans, lakes, and rivers.",
       "notation": "open_water_swimming",
       "altLabel": [
@@ -7156,7 +7173,8 @@
         "https://openactive.io/activity-list#35bf3588-f547-482f-a6f2-3e42cbc9691e",
         "https://openactive.io/activity-list#dfaf6bb4-d2fe-4db5-a271-4ceeaaaf55b9",
         "https://openactive.io/activity-list#2571c4c2-a3bd-4a53-b6f5-d3ae296968d6",
-        "https://openactive.io/activity-list#66063501-0e05-4c45-8209-4291dfe875aa"
+        "https://openactive.io/activity-list#66063501-0e05-4c45-8209-4291dfe875aa",
+        "https://openactive.io/activity-list#0ff678d1-a679-492c-a8b7-e9d7e0061bd1"
       ],
       "definition": "Swimming is an excellent form of exercise as it gives a full-body workout.",
       "notation": "swimming",

@@ -14,6 +14,7 @@
       "broader": [
         "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c"
       ],
+      "definition": "The game of football made up of teams of 11 players",
       "notation": "11_a_side"
     },
     {
@@ -3117,7 +3118,6 @@
       "type": "Concept",
       "prefLabel": "Football",
       "narrower": [
-        "https://openactive.io/activity-list#117e7f70-6c42-4b1f-a3bb-620b63ea2632",
         "https://openactive.io/activity-list#1de4c90e-6a27-4bc4-a2be-437a443c7ded",
         "https://openactive.io/activity-list#666cf454-4733-4697-89cb-8e28f6e8595b",
         "https://openactive.io/activity-list#6016ce87-d9ed-4bd6-8cc9-5598c2f59f79",
@@ -3125,7 +3125,8 @@
         "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba",
         "https://openactive.io/activity-list#b8019b67-2ade-406f-a012-91a5c3869652",
         "https://openactive.io/activity-list#858278d2-7e1d-498d-ae73-1fc54da4a81c",
-        "https://openactive.io/activity-list#fec9ecec-baec-46a8-9746-c1cdba3954d7"
+        "https://openactive.io/activity-list#fec9ecec-baec-46a8-9746-c1cdba3954d7",
+        "https://openactive.io/activity-list#117e7f70-6c42-4b1f-a3bb-620b63ea2632"
       ],
       "definition": "Football is widely considered to be the most popular sport in the world. The beautiful game is England's national sport.",
       "notation": "football",

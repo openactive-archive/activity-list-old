@@ -452,6 +452,7 @@
       "identifier": "f440805a-0364-48a8-b722-deb418a87d89",
       "type": "Concept",
       "prefLabel": "Aquathon",
+      "definition": "This is a multisport event which consists of swimming followed by running",
       "notation": "aquathon",
       "topConceptOf": "https://openactive.io/activity-list"
     },

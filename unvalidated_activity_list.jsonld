@@ -2477,12 +2477,12 @@
         "https://openactive.io/activity-list#7cc3c73b-0756-4646-afbc-20f34f15f9ae",
         "https://openactive.io/activity-list#f12daba1-d1e4-49a5-831c-89d83c0cb1f4",
         "https://openactive.io/activity-list#1ab24764-c02e-4a0e-a96e-7c25894b39c8",
-        "https://openactive.io/activity-list#52c0e52d-ac08-45f4-9327-18b6863a961c",
         "https://openactive.io/activity-list#6b0bb823-e720-4934-9a28-150523eefd54",
         "https://openactive.io/activity-list#991c8551-b3ed-4e96-8732-1bd0d05c1257",
         "https://openactive.io/activity-list#75bab9e3-a229-4125-a62f-552a4304b357",
         "https://openactive.io/activity-list#7ad8b8bf-ccc1-4346-8445-c930ff50272f",
         "https://openactive.io/activity-list#a3245596-9505-4b4e-ac9e-db1b5e6732fb",
+        "https://openactive.io/activity-list#52c0e52d-ac08-45f4-9327-18b6863a961c",
         "https://openactive.io/activity-list#481b8c41-ee0b-4665-8e15-c970c1f55ec8",
         "https://openactive.io/activity-list#906f392c-1f51-4ef3-83dd-99b387d5aa84",
         "https://openactive.io/activity-list#b11ad9ab-e737-4342-9033-7ca4398d4a3a",
@@ -2559,6 +2559,7 @@
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
       "narrower": [
+        "https://openactive.io/activity-list#b3061d83-e2cc-4ddf-8179-1c4295e9ee54",
         "https://openactive.io/activity-list#23b8ffe3-4b6e-49d0-805f-a9f09d37b196",
         "https://openactive.io/activity-list#a7e6619b-056c-493a-8577-7183bfc089a1",
         "https://openactive.io/activity-list#2faf7812-4197-4215-a79f-0d8f5d909616",
@@ -2583,7 +2584,6 @@
         "https://openactive.io/activity-list#cb43f105-1d34-4f68-8c04-a8522e987615",
         "https://openactive.io/activity-list#00d8ae15-5e40-4d08-83f4-e0328fed8aab",
         "https://openactive.io/activity-list#18383130-20e1-4a19-980b-ef9c518c3b72",
-        "https://openactive.io/activity-list#b3061d83-e2cc-4ddf-8179-1c4295e9ee54",
         "https://openactive.io/activity-list#cfe3dda0-976e-45cb-a92a-f18a4b06af4d",
         "https://openactive.io/activity-list#f7e0c378-a100-49ea-a239-1a5fa062d5fb",
         "https://openactive.io/activity-list#d101b63b-572f-49d2-a027-d3a5748e6315",
@@ -2863,15 +2863,15 @@
       "type": "Concept",
       "prefLabel": "Equestrian",
       "narrower": [
+        "https://openactive.io/activity-list#a0014119-71aa-429a-b6ae-44d36f39dec7",
+        "https://openactive.io/activity-list#87e79d1d-3a80-4d8b-9d37-67d3e45b6a8e",
+        "https://openactive.io/activity-list#69178f7f-d8fb-447d-934e-50fffddfbd1f",
         "https://openactive.io/activity-list#c07a722b-cf04-4942-84b9-df5e41de6d19",
         "https://openactive.io/activity-list#80f89d89-ec8f-4f2a-95a9-ad1059a9ba4e",
         "https://openactive.io/activity-list#5a21f34d-86ae-49a2-bb71-1ce191e3a1b8",
-        "https://openactive.io/activity-list#a0014119-71aa-429a-b6ae-44d36f39dec7",
         "https://openactive.io/activity-list#159ec3f8-86cc-4a14-8a48-c619e40756bf",
         "https://openactive.io/activity-list#15c92817-bb3b-4734-82ef-de09b8d33ca2",
-        "https://openactive.io/activity-list#b6dfca91-022a-4880-aec8-47962e077a1f",
-        "https://openactive.io/activity-list#69178f7f-d8fb-447d-934e-50fffddfbd1f",
-        "https://openactive.io/activity-list#87e79d1d-3a80-4d8b-9d37-67d3e45b6a8e"
+        "https://openactive.io/activity-list#b6dfca91-022a-4880-aec8-47962e077a1f"
       ],
       "definition": "Horse riding, or equestrian sport, refers to the skill of training and riding horses.",
       "notation": "equestrian",
@@ -3685,6 +3685,7 @@
       "broader": [
         "https://openactive.io/activity-list#45a372d9-baca-4f6c-859f-04de3efae742"
       ],
+      "definition": "Hacking is when you ride your horse for pleasure along a road or in your area,",
       "notation": "hacking"
     },
     {
@@ -3726,6 +3727,7 @@
       "broader": [
         "https://openactive.io/activity-list#ee4d8ab0-524d-49b4-bf02-b5f6fc0fdc5c"
       ],
+      "definition": "Hang gliding is an air sport or recreational activity in which a pilot flies a light, non-motorised foot-launched heavier-than-air aircraft called a hang glider",
       "notation": "hang_gliding"
     },
     {
@@ -3736,6 +3738,7 @@
       "broader": [
         "https://openactive.io/activity-list#45a372d9-baca-4f6c-859f-04de3efae742"
       ],
+      "definition": "Harness racing is a form of horse racing in which the horses race at a specific gait (a trot or a pace). They usually pull a two-wheeled cart called a sulky, or spider, or chariot occupied by a driver.",
       "notation": "harness_racing"
     },
     {
@@ -3795,6 +3798,7 @@
       "broader": [
         "https://openactive.io/activity-list#edc8fd32-92ba-4014-9c81-7afc618bfaba"
       ],
+      "definition": "Highland Hustle is a 45 minute cardio workout that incorporates highland dance steps along with the odd ceilidh move. It's a fun way to keep fit and offers various intensity levels so you can work at a level that's right for you!",
       "notation": "highland_hustle"
     },
     {
@@ -3830,6 +3834,7 @@
       "broader": [
         "https://openactive.io/activity-list#95092977-5a20-4d6e-b312-8fddabe71544"
       ],
+      "definition": "This is the activity of going for long walks, especially across country.",
       "notation": "hiking"
     },
     {
@@ -3840,6 +3845,7 @@
       "broader": [
         "https://openactive.io/activity-list#95092977-5a20-4d6e-b312-8fddabe71544"
       ],
+      "definition": "This is the pastime of walking in hilly country.",
       "notation": "hill_walking"
     },
     {
@@ -3850,6 +3856,7 @@
       "broader": [
         "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2"
       ],
+      "definition": "Hip-hop dance is a fusion dance genre with influences from older street dance styles created in the 1970s. These include uprock, breaking, and the funk styles.",
       "notation": "hip_hop"
     },
     {
@@ -3878,11 +3885,12 @@
         "https://openactive.io/activity-list#73f5b219-e6c2-4d58-bbf1-290307db5881",
         "https://openactive.io/activity-list#da4f03ab-1fee-42b5-9f80-0fa9e9c4cf97",
         "https://openactive.io/activity-list#fb7409ae-0e69-4b65-8406-bab8f40b522c",
-        "https://openactive.io/activity-list#020e0782-66a4-4189-a939-4c55803438be",
-        "https://openactive.io/activity-list#62c660f4-aab5-489c-b237-039d4e7b49bb",
         "https://openactive.io/activity-list#88014533-76c8-49dd-ba7d-f7309b46a5af",
-        "https://openactive.io/activity-list#c372c3bf-ec95-48d8-89c9-d9a2cc824709"
+        "https://openactive.io/activity-list#c372c3bf-ec95-48d8-89c9-d9a2cc824709",
+        "https://openactive.io/activity-list#62c660f4-aab5-489c-b237-039d4e7b49bb",
+        "https://openactive.io/activity-list#020e0782-66a4-4189-a939-4c55803438be"
       ],
+      "definition": "Hoop Dance is one of the individual dances, and it is performed as a show dance in many tribes. It features a solo dancer dancing with a dozen or more hoops and using them to form a variety of both static and dynamic shapes (poses and moves). Most of the hoop dances in tribes across North America belong to modern hoop dance, which was invented in 1930.",
       "notation": "hoop_dance"
     },
     {
@@ -3893,6 +3901,7 @@
       "broader": [
         "https://openactive.io/activity-list#b3061d83-e2cc-4ddf-8179-1c4295e9ee54"
       ],
+      "definition": "A fun cardio workout to spin you into shape with adult size hula hoops",
       "notation": "hooptone"
     },
     {
@@ -3903,6 +3912,7 @@
       "broader": [
         "https://openactive.io/activity-list#45a372d9-baca-4f6c-859f-04de3efae742"
       ],
+      "definition": "the sport in which horses and their riders take part in races, either on a flat course or over hurdles or fences, typically with substantial betting on the outcome.",
       "notation": "horse_racing"
     },
     {
@@ -3910,6 +3920,7 @@
       "identifier": "9c1e407a-6635-4e8c-b36d-b3c20e982e16",
       "type": "Concept",
       "prefLabel": "Horseball",
+      "definition": "Horseball is a fast-paced game, involving players within a team passing and throwing a ball on horseback. It's a team sport, where two teams of four players (plus two substitutes) compete against each other, and it's likened to rugby or basketball on horseback.",
       "notation": "horseball",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -3921,6 +3932,7 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "definition": "Horton's dance technique, which is now commonly known as Horton Technique, has no style, per se. The technique emphasises a whole body, anatomical approach to dance that includes flexibility, strength, coordination and body and spatial awareness to enable unrestricted, dramatic freedom of expression",
       "notation": "horton_technique"
     },
     {
@@ -3931,6 +3943,7 @@
       "broader": [
         "https://openactive.io/activity-list#b3061d83-e2cc-4ddf-8179-1c4295e9ee54"
       ],
+      "definition": "HOT HULA fitness® is a unique and exciting dance workout. It provides a ‚Äútotal body workout\" by isolating your larger muscle groups, increasing strength and definition to your core* and puts specific emphasis on the abs, glutes, quads and arms.",
       "notation": "hot_hula_fitness"
     },
     {
@@ -3941,6 +3954,7 @@
       "broader": [
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ],
+      "definition": "Hot yoga is a form of yoga as exercise performed under hot and humid conditions, resulting in considerable sweating",
       "notation": "hot_yoga"
     },
     {
@@ -3962,6 +3976,7 @@
       "broader": [
         "https://openactive.io/activity-list#261395e5-9e11-4348-8bef-e0fafef0e765"
       ],
+      "definition": "The hour of power is a full-body cardio workout, suitable for all fitness levels and designed to bring your upper and lower body into fitness and energy balance. Set to a great soundtrack and perfect for all ages try this phenomenal class today and you’ll be hooked.",
       "notation": "hour_of_power"
     },
     {
@@ -3972,6 +3987,7 @@
       "broader": [
         "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2"
       ],
+      "definition": "House dance is a freestyle street dance and social dance that has roots in the underground house music scene of Chicago and New York.",
       "notation": "house"
     },
     {
@@ -6616,8 +6632,8 @@
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#4c25b48b-ae07-4864-816a-530041a95795",
-        "https://openactive.io/activity-list#01e18a21-51d5-4779-9419-2843851816f9"
+        "https://openactive.io/activity-list#01e18a21-51d5-4779-9419-2843851816f9",
+        "https://openactive.io/activity-list#4c25b48b-ae07-4864-816a-530041a95795"
       ],
       "related": [
         "https://openactive.io/activity-list#906f392c-1f51-4ef3-83dd-99b387d5aa84"
@@ -7231,6 +7247,7 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#bc18a355-c6af-4801-b673-053af9aa0422",
+        "https://openactive.io/activity-list#19f95881-d3e2-4d65-87aa-8362bebdb024",
         "https://openactive.io/activity-list#3a1c30fc-c02a-4632-b6bc-aaedb73e1582",
         "https://openactive.io/activity-list#ae6106d9-b882-4651-8cf8-f041466f3da5",
         "https://openactive.io/activity-list#6111dd77-6ee6-41cc-87f7-d21aa7406b33",
@@ -7240,7 +7257,6 @@
         "https://openactive.io/activity-list#01f250d7-0a49-448e-a872-b3d51fe266c9",
         "https://openactive.io/activity-list#8f39e848-ec7d-4472-b10e-d929060a0467",
         "https://openactive.io/activity-list#a8258191-c95e-4c7b-8ccb-2272bf6278a8",
-        "https://openactive.io/activity-list#19f95881-d3e2-4d65-87aa-8362bebdb024",
         "https://openactive.io/activity-list#24ad6d76-f62b-49c6-b11b-2f7cf02a65d3",
         "https://openactive.io/activity-list#d1868552-5254-4b14-9204-d8bf24e4e403",
         "https://openactive.io/activity-list#be59cf38-0a17-4dbf-9127-0445244b36fe",
@@ -8001,12 +8017,12 @@
       "type": "Concept",
       "prefLabel": "Walking",
       "narrower": [
-        "https://openactive.io/activity-list#e82ea1b1-2b4f-4269-a4f9-42190e502754",
+        "https://openactive.io/activity-list#619f374a-c1b6-48d2-aabe-a01b6dedb9fd",
         "https://openactive.io/activity-list#f6ec0ab4-6855-48d5-90ad-da87d70c2715",
+        "https://openactive.io/activity-list#e82ea1b1-2b4f-4269-a4f9-42190e502754",
         "https://openactive.io/activity-list#1f198adc-d97b-410e-b661-e439be962155",
         "https://openactive.io/activity-list#26e6e5bb-b316-4e8f-9575-8036a002d0f1",
         "https://openactive.io/activity-list#c72e1713-25c1-4886-926a-4cd549bb4916",
-        "https://openactive.io/activity-list#619f374a-c1b6-48d2-aabe-a01b6dedb9fd",
         "https://openactive.io/activity-list#428391c1-a75a-49aa-b777-56a1c966cc37"
       ],
       "definition": "Walking is the easiest, most accessible, cost effective, and enjoyable way for most people to increase their physical activity.",
@@ -8383,7 +8399,6 @@
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#2fda7187-d1a4-4273-b784-06f062c0ffcd",
         "https://openactive.io/activity-list#90611f8f-fea2-402e-827f-41b487a5f3a0",
         "https://openactive.io/activity-list#949ea0e2-8bc1-4740-9bb7-c6d266669df4",
         "https://openactive.io/activity-list#675f5977-68a3-433a-9bb5-20278bd94e0c",
@@ -8394,6 +8409,7 @@
         "https://openactive.io/activity-list#b8a5bacc-3bd5-407f-81a3-c6dbb3561e57",
         "https://openactive.io/activity-list#06178c28-8f7f-4cb2-8975-f6694dc105d0",
         "https://openactive.io/activity-list#637bfbba-5253-453d-9dc3-59049efbabee",
+        "https://openactive.io/activity-list#2fda7187-d1a4-4273-b784-06f062c0ffcd",
         "https://openactive.io/activity-list#431d5bfd-7ffc-4324-bc69-1c039c7008e1",
         "https://openactive.io/activity-list#56e4a0e9-0b99-4e7e-aab7-137b4712a041",
         "https://openactive.io/activity-list#48382419-4875-4f63-b044-88d2fc4e8eab",

@@ -3881,14 +3881,14 @@
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#c936aa37-4318-4c13-b850-ce394c7bbb0e",
-        "https://openactive.io/activity-list#73f5b219-e6c2-4d58-bbf1-290307db5881",
-        "https://openactive.io/activity-list#da4f03ab-1fee-42b5-9f80-0fa9e9c4cf97",
         "https://openactive.io/activity-list#fb7409ae-0e69-4b65-8406-bab8f40b522c",
         "https://openactive.io/activity-list#88014533-76c8-49dd-ba7d-f7309b46a5af",
         "https://openactive.io/activity-list#c372c3bf-ec95-48d8-89c9-d9a2cc824709",
         "https://openactive.io/activity-list#62c660f4-aab5-489c-b237-039d4e7b49bb",
-        "https://openactive.io/activity-list#020e0782-66a4-4189-a939-4c55803438be"
+        "https://openactive.io/activity-list#020e0782-66a4-4189-a939-4c55803438be",
+        "https://openactive.io/activity-list#da4f03ab-1fee-42b5-9f80-0fa9e9c4cf97",
+        "https://openactive.io/activity-list#73f5b219-e6c2-4d58-bbf1-290307db5881",
+        "https://openactive.io/activity-list#c936aa37-4318-4c13-b850-ce394c7bbb0e"
       ],
       "definition": "Hoop Dance is one of the individual dances, and it is performed as a show dance in many tribes. It features a solo dancer dancing with a dozen or more hoops and using them to form a variety of both static and dynamic shapes (poses and moves). Most of the hoop dances in tribes across North America belong to modern hoop dance, which was invented in 1930.",
       "notation": "hoop_dance"
@@ -3995,6 +3995,7 @@
       "identifier": "102dc002-f755-4b79-8484-562c45391d8e",
       "type": "Concept",
       "prefLabel": "Hovering",
+      "definition": "In a hover, you are resting on your elbows, and with your trunk relatively parallel to the ground, the lever (formed by your trunk and legs) is lengthened out. Your abdominal muscles are working to support a larger area of the trunk and gravity is pulling a longer lever down to the floor.",
       "notation": "hovering",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -4006,6 +4007,7 @@
       "broader": [
         "https://openactive.io/activity-list#b3061d83-e2cc-4ddf-8179-1c4295e9ee54"
       ],
+      "definition": "It is a physical activity where you need to twirl the hoop around your waist, belly, arms, and legs.",
       "notation": "hula_fitness"
     },
     {
@@ -4016,6 +4018,7 @@
       "broader": [
         "https://openactive.io/activity-list#b3061d83-e2cc-4ddf-8179-1c4295e9ee54"
       ],
+      "definition": "Hulacise burns calories, Boosts cardiovascular fitness, Builds core strength, Burns fat and loses inches, Improves balance, Works lower body muscles, Supports heart health, Helps motivation, Improves posture",
       "notation": "hulacise"
     },
     {
@@ -4026,6 +4029,7 @@
       "broader": [
         "https://openactive.io/activity-list#b3061d83-e2cc-4ddf-8179-1c4295e9ee54"
       ],
+      "definition": "At HulaFit® we combine tried and tested fitness techniques with hip shaking hula hoops to give you a highly effective, but most of all FUN, full body cardio workout. Our exercises are easy to follow, combining cardio, dance, toning & combat exercises.",
       "notation": "hulafit"
     },
     {
@@ -4036,6 +4040,7 @@
       "broader": [
         "https://openactive.io/activity-list#f5cb51c4-bf16-47a7-b149-d9463704cb42"
       ],
+      "definition": "a traditionally Irish game played by two teams of 15 players each on a rectangular field 140 yards (128 meters) long, points being scored by hitting, pushing, carrying, or throwing the leather-covered ball between the goalposts at the opponent's end of the field with a wide-bladed stick resembling a hockey stick.",
       "notation": "hurling"
     },
     {
@@ -4046,6 +4051,7 @@
       "broader": [
         "https://openactive.io/activity-list#82057527-8288-4faa-bc2e-11aa734f61f1"
       ],
+      "definition": "Hydrospin is an innovative new way to exercise, which offers participants some real physical benefits. Whilst it may seem an odd concept at first, the idea of riding stationary bikes in a swimming pool actually has many more health benefits than you might expect.",
       "notation": "hydro_spin"
     },
     {
@@ -4056,6 +4062,7 @@
       "broader": [
         "https://openactive.io/activity-list#82057527-8288-4faa-bc2e-11aa734f61f1"
       ],
+      "definition": "Hydrotherapy is the use of water as a treatment. It comes in various forms, such as aquatic exercises or using saunas.",
       "notation": "hydro_therapy"
     },
     {
@@ -4088,6 +4095,7 @@
       "broader": [
         "https://openactive.io/activity-list#e09776e6-f1b4-421b-b667-5c5913cf97aa"
       ],
+      "definition": "Inclusive Zone Basketball is an exciting introduction to wheelchair and running basketball that enables players with different abilities (for example, disabled and non-disabled players) to play together in the same team. This is achieved by dividing the traditional basketball court into zones",
       "notation": "inclusive_zone_basketball"
     },
     {
@@ -8165,8 +8173,8 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#de259fd8-65f1-4318-b4fd-6f0ec2cb59c8",
-        "https://openactive.io/activity-list#a7695eb1-2241-4c94-bea0-67922e643f2e",
         "https://openactive.io/activity-list#5165000e-cd5b-4fd1-b6dc-630c4b989282",
+        "https://openactive.io/activity-list#a7695eb1-2241-4c94-bea0-67922e643f2e",
         "https://openactive.io/activity-list#52a94b4f-2747-4d63-b009-785f0fb43119",
         "https://openactive.io/activity-list#01b61adc-55fb-4c34-801f-3d743e98cf08",
         "https://openactive.io/activity-list#46546be1-fc32-4242-9ef7-e3e37684486b",

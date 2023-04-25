@@ -133,6 +133,15 @@
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {
+      "id": "https://openactive.io/activity-list#051e492d-e053-4d24-a54c-e9de9fc637cf",
+      "identifier": "051e492d-e053-4d24-a54c-e9de9fc637cf",
+      "type": "Concept",
+      "prefLabel": "Activity Holiday Camp",
+      "definition": "Activity Holiday Camps are run by fully trained, enthusiastic staff who create a happy and safe environment for your children. A huge amount of non-stop fun activities ensure your children can have the best possible Summer Holidays or Half Term break.",
+      "notation": "activity_holiday_camp",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#5b4b703d-110c-4e2a-8adb-50151a0bc7ba",
       "identifier": "5b4b703d-110c-4e2a-8adb-50151a0bc7ba",
       "type": "Concept",
@@ -1705,6 +1714,15 @@
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {
+      "id": "https://openactive.io/activity-list#8f458c98-5303-41c6-93ec-8f9f7daec8d3",
+      "identifier": "8f458c98-5303-41c6-93ec-8f9f7daec8d3",
+      "type": "Concept",
+      "prefLabel": "Camping",
+      "definition": "Camping is an outdoor activity that involves staying the night/more than one night in a protective shelter out in nature.",
+      "notation": "camping",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#a893d5cb-d9a3-4153-bfd7-2546c3aa7faa",
       "identifier": "a893d5cb-d9a3-4153-bfd7-2546c3aa7faa",
       "type": "Concept",
@@ -2290,6 +2308,15 @@
       "notation": "country_heat"
     },
     {
+      "id": "https://openactive.io/activity-list#c640bd71-fe4e-40ed-95f9-530f465afc30",
+      "identifier": "c640bd71-fe4e-40ed-95f9-530f465afc30",
+      "type": "Concept",
+      "prefLabel": "Creche",
+      "definition": "A crèche is where young children are cared for during the day while their parents or carers do something else on the same premises",
+      "notation": "creche",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec",
       "identifier": "77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec",
       "type": "Concept",
@@ -2858,6 +2885,15 @@
       "notation": "duathlon"
     },
     {
+      "id": "https://openactive.io/activity-list#36d7c0f9-1831-44ef-abf6-ead8b1cfa80e",
+      "identifier": "36d7c0f9-1831-44ef-abf6-ead8b1cfa80e",
+      "type": "Concept",
+      "prefLabel": "Early Years Play",
+      "definition": "Early Years Play is for children under 5 years exploring and learning as they play.",
+      "notation": "early_years_play",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#45a372d9-baca-4f6c-859f-04de3efae742",
       "identifier": "45a372d9-baca-4f6c-859f-04de3efae742",
       "type": "Concept",
@@ -3286,6 +3322,15 @@
       ],
       "definition": "Footgolf is a precision sport, in which players kick a spherical association football into a cup in as few shots as possible.",
       "notation": "footgolf"
+    },
+    {
+      "id": "https://openactive.io/activity-list#9d8d84b4-3a0b-497b-aefa-c7ae723d262f",
+      "identifier": "9d8d84b4-3a0b-497b-aefa-c7ae723d262f",
+      "type": "Concept",
+      "prefLabel": "Forest School",
+      "definition": "Forest School is an inspirational process, that offers ALL learners regular opportunities to achieve and develop confidence and self-esteem through hands-on learning experiences in a woodland or natural environment with trees.",
+      "notation": "forest_school",
+      "topConceptOf": "https://openactive.io/activity-list"
     },
     {
       "id": "https://openactive.io/activity-list#2a37deaf-01b2-42f8-b961-2b1174ca9054",
@@ -5598,6 +5643,15 @@
       "prefLabel": "Parkour",
       "definition": "Parkour / Freerunning / Art du Deplacement is the non-competitive physical discipline of training to move freely over and through any terrain using only the abilities of the body, principally through running, jumping, climbing and quadrupedal movement.",
       "notation": "parkour",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
+      "id": "https://openactive.io/activity-list#07f8fcbb-8414-4cfd-af3c-da8f83c02ff3",
+      "identifier": "07f8fcbb-8414-4cfd-af3c-da8f83c02ff3",
+      "type": "Concept",
+      "prefLabel": "ParkPlay",
+      "definition": "ParkPlay is two hours of free community play, every Saturday morning in a park or public space. It has active and inclusive games. It’s a safe, welcoming and inclusive way for people to connect and have fun. It’s run by the local community for the local community",
+      "notation": "parkplay",
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {

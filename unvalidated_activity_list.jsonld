@@ -2981,6 +2981,9 @@
         "https://openactive.io/activity-list#f1536a01-4340-472e-99e8-312a58f06660",
         "https://openactive.io/activity-list#45cd1e2e-b994-4b00-9cca-28bebb67aa24"
       ],
+      "related": [
+        "https://openactive.io/activity-list#5705d900-36a2-4fab-a98b-ca197a53397c"
+      ],
       "definition": "An exercise machine is any machine used for physical exercise. These range from simple spring-like devices to computerized electromechanical devices to recirculating-stream swimming pools. Most exercise machines incorporate an ergometer. An ergometer is an apparatus for measuring the work a person exerts while exercising as used in training or cardiac stress tests or other medical tests.",
       "notation": "exercise_machine"
     },
@@ -5992,6 +5995,18 @@
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
       "notation": "pound"
+    },
+    {
+      "id": "https://openactive.io/activity-list#5705d900-36a2-4fab-a98b-ca197a53397c",
+      "identifier": "5705d900-36a2-4fab-a98b-ca197a53397c",
+      "type": "Concept",
+      "prefLabel": "Power Assisted Exercise",
+      "related": [
+        "https://openactive.io/activity-list#de71c5ea-e93e-49aa-808a-f4a2e68cdddd"
+      ],
+      "definition": "Passive exercise machines use an electronic power system that enables users to work passively or actively, depending on their ability. ",
+      "notation": "power_assisted_exercise",
+      "topConceptOf": "https://openactive.io/activity-list"
     },
     {
       "id": "https://openactive.io/activity-list#1c67c00e-2c05-49c7-b400-f2731abd8fe5",

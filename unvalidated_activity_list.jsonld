@@ -1191,6 +1191,17 @@
       "notation": "body_jam"
     },
     {
+      "id": "https://openactive.io/activity-list#cf65bc7a-2e8e-4a75-852c-518c30bff3a8",
+      "identifier": "cf65bc7a-2e8e-4a75-852c-518c30bff3a8",
+      "type": "Concept",
+      "prefLabel": "Body Mind and Soul",
+      "broader": [
+        "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
+      ],
+      "definition": "A mixture of yoga, pilates and mindfulness sessions providing a whole body workout",
+      "notation": "body_mind_and_soul"
+    },
+    {
       "id": "https://openactive.io/activity-list#4e91a965-67da-4135-8787-4bfe3bd1a6e2",
       "identifier": "4e91a965-67da-4135-8787-4bfe3bd1a6e2",
       "type": "Concept",
@@ -2470,6 +2481,7 @@
       "prefLabel": "Cycling",
       "narrower": [
         "https://openactive.io/activity-list#d30c3317-7562-4be6-8e31-b82434fd6690",
+        "https://openactive.io/activity-list#0c77c467-3fee-4786-a9a0-7200c0414d17",
         "https://openactive.io/activity-list#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
         "https://openactive.io/activity-list#3428ded3-04ea-405d-88da-3bf2933ef66a",
         "https://openactive.io/activity-list#2d8eba85-af3d-4d8a-b92f-030d15b4885c",
@@ -4819,6 +4831,17 @@
       "notation": "lead_climbing"
     },
     {
+      "id": "https://openactive.io/activity-list#0c77c467-3fee-4786-a9a0-7200c0414d17",
+      "identifier": "0c77c467-3fee-4786-a9a0-7200c0414d17",
+      "type": "Concept",
+      "prefLabel": "Learn to Ride",
+      "broader": [
+        "https://openactive.io/activity-list#4a19873e-118e-43f4-b86e-05acba8fb1de"
+      ],
+      "definition": "Teaching children, young people and adults how to ride a bicycle",
+      "notation": "learn_to_ride"
+    },
+    {
       "id": "https://openactive.io/activity-list#ffdcfccf-fa85-4e11-9a83-257b7bb7b07b",
       "identifier": "ffdcfccf-fa85-4e11-9a83-257b7bb7b07b",
       "type": "Concept",
@@ -6280,6 +6303,14 @@
         "https://openactive.io/activity-list#4a19873e-118e-43f4-b86e-05acba8fb1de"
       ],
       "notation": "recreational_cycling"
+    },
+    {
+      "id": "https://openactive.io/activity-list#9770bdb2-ebb0-4208-8477-137011a8bdf8",
+      "identifier": "9770bdb2-ebb0-4208-8477-137011a8bdf8",
+      "type": "Concept",
+      "prefLabel": "RescueFit Adult Bootcamp",
+      "definition": "An emergency service themed physical bootcamp",
+      "notation": "rescuefit_adult_bootcamp"
     },
     {
       "id": "https://openactive.io/activity-list#6fffbfae-1ba9-4999-b8d2-86ff570e999e",
@@ -7794,6 +7825,17 @@
       "notation": "texas_scramble_golf"
     },
     {
+      "id": "https://openactive.io/activity-list#df35a8bf-3083-47ff-9611-a085bebe6394",
+      "identifier": "df35a8bf-3083-47ff-9611-a085bebe6394",
+      "type": "Concept",
+      "prefLabel": "The Melt Method",
+      "broader": [
+        "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
+      ],
+      "definition": "A self care restorative treatment using soft roller and mini ball",
+      "notation": "the_melt_method"
+    },
+    {
       "id": "https://openactive.io/activity-list#063105f3-070a-485e-892e-6dd42bc48a56",
       "identifier": "063105f3-070a-485e-892e-6dd42bc48a56",
       "type": "Concept",
@@ -8546,6 +8588,8 @@
         "https://openactive.io/activity-list#48382419-4875-4f63-b044-88d2fc4e8eab",
         "https://openactive.io/activity-list#1a8e23f3-5e12-411f-99fc-a4fe98010f7d",
         "https://openactive.io/activity-list#06178c28-8f7f-4cb2-8975-f6694dc105d0",
+        "https://openactive.io/activity-list#df35a8bf-3083-47ff-9611-a085bebe6394",
+        "https://openactive.io/activity-list#cf65bc7a-2e8e-4a75-852c-518c30bff3a8",
         "https://openactive.io/activity-list#2fda7187-d1a4-4273-b784-06f062c0ffcd",
         "https://openactive.io/activity-list#56e4a0e9-0b99-4e7e-aab7-137b4712a041",
         "https://openactive.io/activity-list#47ab2b4b-1217-4330-a9bc-0921083610b8",

@@ -2286,6 +2286,17 @@
       "notation": "core_stability"
     },
     {
+      "id": "https://openactive.io/activity-list#59fe714a-bcb0-473f-84b1-518bfefea5cf",
+      "identifier": "59fe714a-bcb0-473f-84b1-518bfefea5cf",
+      "type": "Concept",
+      "prefLabel": "Cornish Pilot Gig Rowing",
+      "broader": [
+        "https://openactive.io/activity-list#d2733a1c-662c-427a-a270-400171c07320"
+      ],
+      "definition": "Cornish pilot gig rowing is the sport of racing boats built to a specification managed by the Cornish Pilot Gig Association",
+      "notation": "cornish_pilot_gig_rowing"
+    },
+    {
       "id": "https://openactive.io/activity-list#1375887d-41f3-442d-a9b0-847512d060a1",
       "identifier": "1375887d-41f3-442d-a9b0-847512d060a1",
       "type": "Concept",
@@ -5200,6 +5211,9 @@
       "identifier": "f86a4b91-be64-4cee-a217-79b08b06d5a6",
       "type": "Concept",
       "prefLabel": "Mini Volleyball",
+      "broader": [
+        "https://openactive.io/activity-list#065c8564-144a-4833-b95a-db8550e6ac86"
+      ],
       "definition": "A game of volleyball of 2 & 3 a side for children up to the age of eleven",
       "notation": "mini_volleyball"
     },
@@ -6330,7 +6344,8 @@
       "type": "Concept",
       "prefLabel": "RescueFit Adult Bootcamp",
       "definition": "An emergency service themed physical bootcamp",
-      "notation": "rescuefit_adult_bootcamp"
+      "notation": "rescuefit_adult_bootcamp",
+      "topConceptOf": "https://openactive.io/activity-list"
     },
     {
       "id": "https://openactive.io/activity-list#6fffbfae-1ba9-4999-b8d2-86ff570e999e",
@@ -6536,6 +6551,9 @@
       "identifier": "d2733a1c-662c-427a-a270-400171c07320",
       "type": "Concept",
       "prefLabel": "Rowing",
+      "narrower": [
+        "https://openactive.io/activity-list#59fe714a-bcb0-473f-84b1-518bfefea5cf"
+      ],
       "definition": "Rowing can be either recreational or competitive, indoor or outdoor.",
       "notation": "rowing",
       "topConceptOf": "https://openactive.io/activity-list"
@@ -8171,6 +8189,7 @@
       "type": "Concept",
       "prefLabel": "Volleyball",
       "narrower": [
+        "https://openactive.io/activity-list#f86a4b91-be64-4cee-a217-79b08b06d5a6",
         "https://openactive.io/activity-list#4a2ba988-045a-45d0-91a8-dbbfb33886b7",
         "https://openactive.io/activity-list#ba8f0f90-de5e-4abf-88a8-6d1a7c1e0f91",
         "https://openactive.io/activity-list#1731f73f-ed27-487c-86fc-d76fc2cf7984"

@@ -921,6 +921,17 @@
       "notation": "beam_fit"
     },
     {
+      "id": "https://openactive.io/activity-list#f1d21d20-807f-422b-b4bc-72ad6ea6b2f1",
+      "identifier": "f1d21d20-807f-422b-b4bc-72ad6ea6b2f1",
+      "type": "Concept",
+      "prefLabel": "Bell Boating",
+      "broader": [
+        "https://openactive.io/activity-list#e0425262-6f1d-4c58-ba8a-dd790c5351b1"
+      ],
+      "definition": "Bell Boats are twin hulled open canoes which seat 8-14 people plus a helm. They are propelled through the use of single bladed paddles and helmed via a single, stern mounted, steering oar.",
+      "notation": "bell_boating"
+    },
+    {
       "id": "https://openactive.io/activity-list#24c7442b-19de-4cc5-90bf-91e943ebe81c",
       "identifier": "24c7442b-19de-4cc5-90bf-91e943ebe81c",
       "type": "Concept",
@@ -1806,6 +1817,7 @@
       "prefLabel": "Canoeing",
       "narrower": [
         "https://openactive.io/activity-list#cb174be9-744b-46ff-b5b8-623257590b0d",
+        "https://openactive.io/activity-list#f1d21d20-807f-422b-b4bc-72ad6ea6b2f1",
         "https://openactive.io/activity-list#eefd65c9-2842-4940-8753-18386411071a",
         "https://openactive.io/activity-list#673694a5-96a5-4fbe-b211-01398495f383",
         "https://openactive.io/activity-list#6248ad5f-afd9-4b3b-88fe-91f363b4a23b",

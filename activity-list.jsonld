@@ -357,11 +357,11 @@
         "https://openactive.io/activity-list#82057527-8288-4faa-bc2e-11aa734f61f1"
       ],
       "narrower": [
+        "https://openactive.io/activity-list#c94a2240-0c3b-4478-bda7-1c0cea162367",
         "https://openactive.io/activity-list#1646bc29-dda3-4a97-a2ad-48c21bce8bb5",
         "https://openactive.io/activity-list#9a4ecdc3-5f70-48e8-9718-8542db315230",
         "https://openactive.io/activity-list#ddc48677-d3af-47e0-84a9-d6f6514ea001",
         "https://openactive.io/activity-list#a9de3e47-f47d-459e-b2ab-b1bee054dfa1",
-        "https://openactive.io/activity-list#c94a2240-0c3b-4478-bda7-1c0cea162367",
         "https://openactive.io/activity-list#ad730396-0431-41e9-83cb-3468c8df8443"
       ],
       "definition": "Aqua aerobics (also called water aerobics and aquafit) is a form of exercise which provides cardiovascular conditioning, increasing your pulse and your breathing rate.",
@@ -746,20 +746,20 @@
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#4a48d4f4-23b5-495c-9f1d-f8c5d0ee766a",
         "https://openactive.io/activity-list#af66a0a0-4d1f-41a0-b6f3-4913cfb305c1",
+        "https://openactive.io/activity-list#2b83c71b-436c-4f14-92db-9ad9d9d38c6f",
         "https://openactive.io/activity-list#001fbbe6-757f-4186-9e9f-2f180ca5a4a6",
-        "https://openactive.io/activity-list#3492077c-f460-46e9-a6e7-5cb2384a0345",
         "https://openactive.io/activity-list#bfb734f6-52a6-4751-940b-fd1ddced39ab",
         "https://openactive.io/activity-list#18ccf049-3c7d-46a5-b2ea-c6ce5a6e520f",
         "https://openactive.io/activity-list#516c71ac-829e-40cf-82f9-fafa8f30f856",
         "https://openactive.io/activity-list#2801bb07-9364-4309-baef-00b9e1a526ad",
         "https://openactive.io/activity-list#4547052c-b656-4710-b6fc-9ecf9831ff0f",
-        "https://openactive.io/activity-list#2667bc56-f0a1-4a43-8e93-d68400022c51",
-        "https://openactive.io/activity-list#2b83c71b-436c-4f14-92db-9ad9d9d38c6f",
+        "https://openactive.io/activity-list#4a48d4f4-23b5-495c-9f1d-f8c5d0ee766a",
         "https://openactive.io/activity-list#e5ab8ce2-ee98-493e-aab7-28b6b8545c38",
-        "https://openactive.io/activity-list#718dd868-54ad-4626-bb51-cf15019f62fc",
         "https://openactive.io/activity-list#63c8acb8-f465-41bd-b517-708efa863d42",
+        "https://openactive.io/activity-list#2667bc56-f0a1-4a43-8e93-d68400022c51",
+        "https://openactive.io/activity-list#718dd868-54ad-4626-bb51-cf15019f62fc",
+        "https://openactive.io/activity-list#3492077c-f460-46e9-a6e7-5cb2384a0345",
         "https://openactive.io/activity-list#51e011a6-7e06-45c5-8ad9-ceaccc9ad1e4",
         "https://openactive.io/activity-list#aaffbbb4-1af5-4111-8677-2a2b464bbf48"
       ],
@@ -1476,8 +1476,8 @@
       "type": "Concept",
       "prefLabel": "Bowls",
       "narrower": [
-        "https://openactive.io/activity-list#3f0def6f-600f-43d2-b86b-d4114231d50a",
         "https://openactive.io/activity-list#46f94a25-a024-4b0a-be2f-3aef1dfea5ec",
+        "https://openactive.io/activity-list#3f0def6f-600f-43d2-b86b-d4114231d50a",
         "https://openactive.io/activity-list#d0796a7e-9ed9-4b45-921d-6b0a20780c27",
         "https://openactive.io/activity-list#e2d7a898-09a9-4342-8ea8-0446936682bf",
         "https://openactive.io/activity-list#7e3d7efd-d2da-4d42-86e6-4466a3062ceb",
@@ -1536,13 +1536,13 @@
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
       "narrower": [
+        "https://openactive.io/activity-list#0a4f1f2b-5ca1-458b-b90a-b488f4a9f569",
         "https://openactive.io/activity-list#0771fcb2-b5f7-4247-8d54-90648c839d46",
         "https://openactive.io/activity-list#bc6152ae-f97a-4181-a0c5-d4474db41f17",
         "https://openactive.io/activity-list#25b963ea-e01e-4fd9-ba38-275f1d278ed6",
-        "https://openactive.io/activity-list#424a5a34-5b68-44e8-a348-cd17445edb00",
         "https://openactive.io/activity-list#9b84edd8-1934-409a-965e-77a74e9b3609",
-        "https://openactive.io/activity-list#0a4f1f2b-5ca1-458b-b90a-b488f4a9f569",
-        "https://openactive.io/activity-list#279d3250-6f78-482b-85aa-99e83c6a2cd0"
+        "https://openactive.io/activity-list#279d3250-6f78-482b-85aa-99e83c6a2cd0",
+        "https://openactive.io/activity-list#424a5a34-5b68-44e8-a348-cd17445edb00"
       ],
       "related": [
         "https://openactive.io/activity-list#d4417bb3-383f-489b-b0c7-731b82f3b220"
@@ -1920,9 +1920,9 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#89270ae0-9e0e-47af-97fa-8975d706701d",
+        "https://openactive.io/activity-list#1dae5189-7677-4921-9ad2-e04b23faff57",
         "https://openactive.io/activity-list#ea5f74c7-6d69-44c5-8bdc-42e46488f4e0",
         "https://openactive.io/activity-list#e6d04eaa-a1b9-4e5f-97a3-445783f51bae",
-        "https://openactive.io/activity-list#1dae5189-7677-4921-9ad2-e04b23faff57",
         "https://openactive.io/activity-list#11d19f2e-9888-4ee9-9393-f8d8faa4c21b"
       ],
       "definition": "Chair based exercise classes are designed to help improve strength and balance, from the comfort of a chair.",
@@ -2177,10 +2177,10 @@
       "narrower": [
         "https://openactive.io/activity-list#b3d9964a-3a8f-4ac0-a96c-322eeb462ef6",
         "https://openactive.io/activity-list#ae0fdf39-41c2-492a-9a69-2853914d0413",
-        "https://openactive.io/activity-list#4acb955c-4084-4588-bbd1-64afe1cace6f",
         "https://openactive.io/activity-list#72c6ad99-95af-41f8-af7f-b8adc7702fa9",
         "https://openactive.io/activity-list#ef33414f-b228-4b65-b5e1-329c0215490d",
-        "https://openactive.io/activity-list#e3f7b1de-71f1-4e2c-aa41-9ca109f563ca"
+        "https://openactive.io/activity-list#e3f7b1de-71f1-4e2c-aa41-9ca109f563ca",
+        "https://openactive.io/activity-list#4acb955c-4084-4588-bbd1-64afe1cace6f"
       ],
       "definition": "This is the act of climbing single- or multi-pitch routes, protected by permanently-fixed bolts and anchors drilled into the rock, using a rope and the aid of a belayer",
       "notation": "climbing",
@@ -2519,13 +2519,13 @@
       "narrower": [
         "https://openactive.io/activity-list#d30c3317-7562-4be6-8e31-b82434fd6690",
         "https://openactive.io/activity-list#0c77c467-3fee-4786-a9a0-7200c0414d17",
-        "https://openactive.io/activity-list#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
-        "https://openactive.io/activity-list#3428ded3-04ea-405d-88da-3bf2933ef66a",
         "https://openactive.io/activity-list#2d8eba85-af3d-4d8a-b92f-030d15b4885c",
-        "https://openactive.io/activity-list#caf9d732-a551-48c3-8cda-ce6c9c27b906",
-        "https://openactive.io/activity-list#36353bac-315d-4b88-bcf3-3696c6f3b164",
         "https://openactive.io/activity-list#7a0af13b-23da-4ff1-9862-3734f3f55289",
-        "https://openactive.io/activity-list#be4762de-b26c-4bd2-bcf2-4e54b58e7830"
+        "https://openactive.io/activity-list#be4762de-b26c-4bd2-bcf2-4e54b58e7830",
+        "https://openactive.io/activity-list#caf9d732-a551-48c3-8cda-ce6c9c27b906",
+        "https://openactive.io/activity-list#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+        "https://openactive.io/activity-list#36353bac-315d-4b88-bcf3-3696c6f3b164",
+        "https://openactive.io/activity-list#3428ded3-04ea-405d-88da-3bf2933ef66a"
       ],
       "definition": "Cycling is a great sport, loved by millions around the world.",
       "notation": "cycling",
@@ -2552,16 +2552,14 @@
         "https://openactive.io/activity-list#481b8c41-ee0b-4665-8e15-c970c1f55ec8",
         "https://openactive.io/activity-list#7cc3c73b-0756-4646-afbc-20f34f15f9ae",
         "https://openactive.io/activity-list#f12daba1-d1e4-49a5-831c-89d83c0cb1f4",
-        "https://openactive.io/activity-list#1ab24764-c02e-4a0e-a96e-7c25894b39c8",
         "https://openactive.io/activity-list#991c8551-b3ed-4e96-8732-1bd0d05c1257",
         "https://openactive.io/activity-list#6b0bb823-e720-4934-9a28-150523eefd54",
+        "https://openactive.io/activity-list#906f392c-1f51-4ef3-83dd-99b387d5aa84",
         "https://openactive.io/activity-list#7ad8b8bf-ccc1-4346-8445-c930ff50272f",
         "https://openactive.io/activity-list#b11ad9ab-e737-4342-9033-7ca4398d4a3a",
         "https://openactive.io/activity-list#a3245596-9505-4b4e-ac9e-db1b5e6732fb",
         "https://openactive.io/activity-list#52c0e52d-ac08-45f4-9327-18b6863a961c",
-        "https://openactive.io/activity-list#906f392c-1f51-4ef3-83dd-99b387d5aa84",
-        "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2",
-        "https://openactive.io/activity-list#46430d83-7f1a-4970-9788-860687b39df2",
+        "https://openactive.io/activity-list#1ab24764-c02e-4a0e-a96e-7c25894b39c8",
         "https://openactive.io/activity-list#b38f9ea7-87db-40fc-b86f-eb1a8e71dc7c",
         "https://openactive.io/activity-list#ed8ad685-cd60-41d1-acd9-68a11f0f3c7b",
         "https://openactive.io/activity-list#1ae7395a-27a7-4e33-9f6d-a1a6c17d0757",
@@ -2570,6 +2568,7 @@
         "https://openactive.io/activity-list#0969ddf0-16fa-4ea1-a4f8-d2aeefb46900",
         "https://openactive.io/activity-list#a454c7e6-52da-426d-9bd1-743e9d7d266d",
         "https://openactive.io/activity-list#0b254ccb-26bb-457c-ae68-ad6cb40b17ea",
+        "https://openactive.io/activity-list#f5cad176-efcd-495a-b249-03c9027ab368",
         "https://openactive.io/activity-list#34cabe03-72b3-4539-ac52-e69a52393330",
         "https://openactive.io/activity-list#bfab0fb7-85c3-4440-9e34-d4045b832aad",
         "https://openactive.io/activity-list#07ba80dd-a7b6-4d4d-96e6-48aef4643a9a",
@@ -2577,6 +2576,7 @@
         "https://openactive.io/activity-list#51555787-12cd-4b09-b1c7-e03415c47a4c",
         "https://openactive.io/activity-list#2679770b-f86d-40b5-82a9-59fb6b764d1f",
         "https://openactive.io/activity-list#19254731-5f47-4ec4-a137-6993a1af9c33",
+        "https://openactive.io/activity-list#46430d83-7f1a-4970-9788-860687b39df2",
         "https://openactive.io/activity-list#24c7442b-19de-4cc5-90bf-91e943ebe81c",
         "https://openactive.io/activity-list#e158efb1-d57d-40f7-8b1e-9320bcc0868a",
         "https://openactive.io/activity-list#1375887d-41f3-442d-a9b0-847512d060a1",
@@ -2584,7 +2584,7 @@
         "https://openactive.io/activity-list#75bab9e3-a229-4125-a62f-552a4304b357",
         "https://openactive.io/activity-list#8a8354d9-8055-4830-ac4c-0997ca86dd51",
         "https://openactive.io/activity-list#b1b89ce8-9330-4bbb-b11d-104fc20014f9",
-        "https://openactive.io/activity-list#f5cad176-efcd-495a-b249-03c9027ab368",
+        "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2",
         "https://openactive.io/activity-list#98998e25-9169-4593-973d-d3e534684e71",
         "https://openactive.io/activity-list#d768ed4a-6235-41d6-8dea-58466b31d913",
         "https://openactive.io/activity-list#560624c2-d64c-462a-acc3-0e6d551069e7",
@@ -2613,15 +2613,15 @@
         "https://openactive.io/activity-list#76b3f9ce-b214-43d6-8390-2b8765b0067d",
         "https://openactive.io/activity-list#5dcf53a8-8408-4298-b6f7-169aec0e5d0e",
         "https://openactive.io/activity-list#d5b07b1e-d5a7-4bdf-80cf-abce650cc671",
+        "https://openactive.io/activity-list#a58a4e1b-ee15-437a-9d7e-de201b3daaf7",
         "https://openactive.io/activity-list#0771fcb2-b5f7-4247-8d54-90648c839d46",
         "https://openactive.io/activity-list#0a2a036f-2f60-45c7-98e3-276aee015732",
         "https://openactive.io/activity-list#64f6baac-a0b1-4072-9e33-c4a34e6d44f7",
-        "https://openactive.io/activity-list#f0f0e53d-1416-4aca-96dc-fe49df0d18a4",
         "https://openactive.io/activity-list#3ab9ba4c-d0cd-4521-8c70-acbed5c3d5f0",
         "https://openactive.io/activity-list#b9437d88-fe3f-4cd6-b5a6-9aafc7758a6a",
-        "https://openactive.io/activity-list#6490e361-ffde-44ff-b779-be7607297b44",
         "https://openactive.io/activity-list#6a3eece8-bca4-4159-a5de-094a0c10cf6a",
-        "https://openactive.io/activity-list#a58a4e1b-ee15-437a-9d7e-de201b3daaf7"
+        "https://openactive.io/activity-list#f0f0e53d-1416-4aca-96dc-fe49df0d18a4",
+        "https://openactive.io/activity-list#6490e361-ffde-44ff-b779-be7607297b44"
       ],
       "definition": "This is a system of exercises combining aerobics with dance steps and usually done to music.",
       "notation": "dance_aerobics"
@@ -2635,8 +2635,10 @@
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
       "narrower": [
+        "https://openactive.io/activity-list#cb43f105-1d34-4f68-8c04-a8522e987615",
         "https://openactive.io/activity-list#95875523-6fca-4eb6-b53e-9250e31bdb6a",
         "https://openactive.io/activity-list#b3061d83-e2cc-4ddf-8179-1c4295e9ee54",
+        "https://openactive.io/activity-list#edc8fd32-92ba-4014-9c81-7afc618bfaba",
         "https://openactive.io/activity-list#23b8ffe3-4b6e-49d0-805f-a9f09d37b196",
         "https://openactive.io/activity-list#6ec422f3-0524-476b-aadf-7e67df46a63d",
         "https://openactive.io/activity-list#20532927-bb47-4bdf-b341-4966336baf11",
@@ -2644,26 +2646,24 @@
         "https://openactive.io/activity-list#4b3f737f-7266-487f-b89b-bb5ba189162e",
         "https://openactive.io/activity-list#433cd2b6-d661-409a-a6c5-76f0a34bbb4c",
         "https://openactive.io/activity-list#a7e6619b-056c-493a-8577-7183bfc089a1",
+        "https://openactive.io/activity-list#f8483e8d-2976-4fa4-91b4-4d19b379802a",
         "https://openactive.io/activity-list#2faf7812-4197-4215-a79f-0d8f5d909616",
+        "https://openactive.io/activity-list#f582e0e9-459b-4425-b8c7-e7f03e4d92fb",
         "https://openactive.io/activity-list#08c42d3a-6a36-445a-9f04-1b2af78b976a",
         "https://openactive.io/activity-list#75cbc726-05a8-417c-8329-127d6ceeea9f",
+        "https://openactive.io/activity-list#78503fa2-ed24-4a80-a224-e2e94581d8a8",
         "https://openactive.io/activity-list#f7e0c378-a100-49ea-a239-1a5fa062d5fb",
         "https://openactive.io/activity-list#d101b63b-572f-49d2-a027-d3a5748e6315",
         "https://openactive.io/activity-list#6851b00d-d573-4f0b-bfd9-e785c35c3c0c",
-        "https://openactive.io/activity-list#38bfaac1-8fdf-4b5d-b076-d53d681738ab",
-        "https://openactive.io/activity-list#78503fa2-ed24-4a80-a224-e2e94581d8a8",
-        "https://openactive.io/activity-list#edc8fd32-92ba-4014-9c81-7afc618bfaba",
         "https://openactive.io/activity-list#8087a5b8-41ad-4537-8cb3-563d23f31a1f",
+        "https://openactive.io/activity-list#38bfaac1-8fdf-4b5d-b076-d53d681738ab",
+        "https://openactive.io/activity-list#51e77d9b-beda-4f48-b55d-d4abe936c785",
         "https://openactive.io/activity-list#2c61b0e1-80c1-488b-9255-836d2bf4188e",
         "https://openactive.io/activity-list#2cc156d8-0bee-4e38-bd84-89f41da6f9da",
-        "https://openactive.io/activity-list#51e77d9b-beda-4f48-b55d-d4abe936c785",
-        "https://openactive.io/activity-list#f582e0e9-459b-4425-b8c7-e7f03e4d92fb",
         "https://openactive.io/activity-list#5cdf5ead-e19d-4619-9585-cfe509c3fe52",
-        "https://openactive.io/activity-list#cb43f105-1d34-4f68-8c04-a8522e987615",
         "https://openactive.io/activity-list#00d8ae15-5e40-4d08-83f4-e0328fed8aab",
         "https://openactive.io/activity-list#18383130-20e1-4a19-980b-ef9c518c3b72",
         "https://openactive.io/activity-list#cfe3dda0-976e-45cb-a92a-f18a4b06af4d",
-        "https://openactive.io/activity-list#f8483e8d-2976-4fa4-91b4-4d19b379802a",
         "https://openactive.io/activity-list#6b176d87-b82b-4fab-aec1-6d6f94ba8e4c",
         "https://openactive.io/activity-list#182b0c14-988d-44eb-aab1-538aaa3caee6",
         "https://openactive.io/activity-list#bd8e72f6-f342-4884-8063-d2f996bad56c"
@@ -2951,12 +2951,12 @@
       "narrower": [
         "https://openactive.io/activity-list#a0014119-71aa-429a-b6ae-44d36f39dec7",
         "https://openactive.io/activity-list#87e79d1d-3a80-4d8b-9d37-67d3e45b6a8e",
+        "https://openactive.io/activity-list#159ec3f8-86cc-4a14-8a48-c619e40756bf",
         "https://openactive.io/activity-list#69178f7f-d8fb-447d-934e-50fffddfbd1f",
         "https://openactive.io/activity-list#c07a722b-cf04-4942-84b9-df5e41de6d19",
         "https://openactive.io/activity-list#80f89d89-ec8f-4f2a-95a9-ad1059a9ba4e",
         "https://openactive.io/activity-list#5a21f34d-86ae-49a2-bb71-1ce191e3a1b8",
         "https://openactive.io/activity-list#b6dfca91-022a-4880-aec8-47962e077a1f",
-        "https://openactive.io/activity-list#159ec3f8-86cc-4a14-8a48-c619e40756bf",
         "https://openactive.io/activity-list#15c92817-bb3b-4734-82ef-de09b8d33ca2"
       ],
       "definition": "Horse riding, or equestrian sport, refers to the skill of training and riding horses.",
@@ -2997,9 +2997,9 @@
         "https://openactive.io/activity-list#08d9368c-6c6c-44a3-84ef-a42ed00d529a"
       ],
       "narrower": [
+        "https://openactive.io/activity-list#e30df90a-fd99-4545-b5fe-2f8a34a01eae",
         "https://openactive.io/activity-list#30f96504-5e46-4925-8e6f-79c910a84ddb",
-        "https://openactive.io/activity-list#1c34e4a5-d36a-4c04-a9bf-03586524d93d",
-        "https://openactive.io/activity-list#e30df90a-fd99-4545-b5fe-2f8a34a01eae"
+        "https://openactive.io/activity-list#1c34e4a5-d36a-4c04-a9bf-03586524d93d"
       ],
       "definition": "Stability balls are a popular and versatile piece of fitness equipment used in gyms, homes, physical therapy sessions and even the workplace. Also known as exercise balls, Swiss balls, Physio balls, and balance balls, the purpose of the stability ball is to improve balance, muscle tone and core strength.",
       "notation": "exercise_ball"
@@ -3024,13 +3024,13 @@
         "https://openactive.io/activity-list#08d9368c-6c6c-44a3-84ef-a42ed00d529a"
       ],
       "narrower": [
+        "https://openactive.io/activity-list#45cd1e2e-b994-4b00-9cca-28bebb67aa24",
         "https://openactive.io/activity-list#ab4c1a81-a7c5-4368-b254-a066d68b8662",
         "https://openactive.io/activity-list#831ce34c-0218-48f5-8de4-54332e983b01",
-        "https://openactive.io/activity-list#0f31b611-d9a0-402d-a3c9-637ddcf02e43",
-        "https://openactive.io/activity-list#1c650bc5-a7a3-4f75-b318-47a394118588",
         "https://openactive.io/activity-list#23a62930-761a-4dd0-a54e-72e946904c43",
+        "https://openactive.io/activity-list#0f31b611-d9a0-402d-a3c9-637ddcf02e43",
         "https://openactive.io/activity-list#f1536a01-4340-472e-99e8-312a58f06660",
-        "https://openactive.io/activity-list#45cd1e2e-b994-4b00-9cca-28bebb67aa24"
+        "https://openactive.io/activity-list#1c650bc5-a7a3-4f75-b318-47a394118588"
       ],
       "related": [
         "https://openactive.io/activity-list#5705d900-36a2-4fab-a98b-ca197a53397c"
@@ -3293,11 +3293,11 @@
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#ed91a872-e006-424d-9e94-a0d7bdec5df9",
         "https://openactive.io/activity-list#fc2308ff-aae7-46c9-83e3-d857dd641ad1",
-        "https://openactive.io/activity-list#da71f513-a3b3-44f5-8268-c45f92fdcd55",
         "https://openactive.io/activity-list#b6402e8e-e405-4b97-8c76-4868324bc907",
-        "https://openactive.io/activity-list#abe7a21d-1dfe-4d5e-9007-a4e09f1970b0"
+        "https://openactive.io/activity-list#abe7a21d-1dfe-4d5e-9007-a4e09f1970b0",
+        "https://openactive.io/activity-list#ed91a872-e006-424d-9e94-a0d7bdec5df9",
+        "https://openactive.io/activity-list#da71f513-a3b3-44f5-8268-c45f92fdcd55"
       ],
       "definition": "A flexibility exercise is a movement or position designed to stretch specific muscles, with the goal of increasing flexibility and range of motion in that specific area. A flexibility exercise can be any kind of stretch, as long as it increases your range of motion and lengthens your muscles and joints.",
       "notation": "flexibilitystretching"
@@ -3354,10 +3354,10 @@
       "prefLabel": "Football",
       "narrower": [
         "https://openactive.io/activity-list#1de4c90e-6a27-4bc4-a2be-437a443c7ded",
-        "https://openactive.io/activity-list#666cf454-4733-4697-89cb-8e28f6e8595b",
         "https://openactive.io/activity-list#6016ce87-d9ed-4bd6-8cc9-5598c2f59f79",
         "https://openactive.io/activity-list#f6301564-93d5-41ff-91a1-7ac2dd833951",
         "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba",
+        "https://openactive.io/activity-list#666cf454-4733-4697-89cb-8e28f6e8595b",
         "https://openactive.io/activity-list#b8019b67-2ade-406f-a012-91a5c3869652",
         "https://openactive.io/activity-list#858278d2-7e1d-498d-ae73-1fc54da4a81c",
         "https://openactive.io/activity-list#fec9ecec-baec-46a8-9746-c1cdba3954d7",
@@ -3632,8 +3632,8 @@
       "prefLabel": "Golf",
       "narrower": [
         "https://openactive.io/activity-list#920c6d6b-a912-43bb-ae3c-0378b8ca0855",
-        "https://openactive.io/activity-list#7be1393f-6b55-4d00-818f-ed58c9ea81bc",
         "https://openactive.io/activity-list#ff6d2caa-ee67-4b79-a3bd-0b497e31b0f7",
+        "https://openactive.io/activity-list#7be1393f-6b55-4d00-818f-ed58c9ea81bc",
         "https://openactive.io/activity-list#dba4de0f-b94d-4aff-bda1-46c20f8dfff0",
         "https://openactive.io/activity-list#858d08bb-6f3d-477d-8a96-8df275a7d7d8",
         "https://openactive.io/activity-list#62c96301-5aa3-4cef-bf68-8420d7a91755",
@@ -3687,20 +3687,22 @@
       "type": "Concept",
       "prefLabel": "Group Exercise",
       "narrower": [
+        "https://openactive.io/activity-list#9ed1c7b0-46ad-465b-9697-036791e41abf",
         "https://openactive.io/activity-list#9518746d-17e6-4ec4-9559-73c8d0fcb266",
+        "https://openactive.io/activity-list#97d38fa5-70bd-4c69-acc9-e08c885aab7b",
         "https://openactive.io/activity-list#72871f24-fdcd-4a88-9400-9cb08b911e70",
         "https://openactive.io/activity-list#5f4e5193-b074-4a64-b1a6-0ddc98d08331",
+        "https://openactive.io/activity-list#1bdf3fac-9d6b-401b-a773-87a9a1c86ed1",
+        "https://openactive.io/activity-list#82057527-8288-4faa-bc2e-11aa734f61f1",
         "https://openactive.io/activity-list#12756b9e-de31-4372-8df8-027ca02ef5ff",
+        "https://openactive.io/activity-list#25905e33-e0a3-466c-986e-aaed6bccdaef",
         "https://openactive.io/activity-list#89f3254e-0d8b-4d43-9dc3-ddbd0d5ddfea",
         "https://openactive.io/activity-list#fb4c0f65-7b9b-438b-b215-65013d2edb7c",
         "https://openactive.io/activity-list#a426499e-fc97-4a56-81ab-09f581ef0a91",
         "https://openactive.io/activity-list#1eb737b6-9962-469d-98cc-0a2e4e86d356",
         "https://openactive.io/activity-list#74a424c2-94d7-4e2b-a262-c6b492216704",
         "https://openactive.io/activity-list#4ad68772-7dc5-4635-8a0f-d4cd9c656c25",
-        "https://openactive.io/activity-list#97d38fa5-70bd-4c69-acc9-e08c885aab7b",
         "https://openactive.io/activity-list#8310ea9c-4785-4472-8899-a541cbcc0359",
-        "https://openactive.io/activity-list#1bdf3fac-9d6b-401b-a773-87a9a1c86ed1",
-        "https://openactive.io/activity-list#9ed1c7b0-46ad-465b-9697-036791e41abf",
         "https://openactive.io/activity-list#01e547fd-2a10-40a4-a297-6d827c10529c",
         "https://openactive.io/activity-list#08cf6ab5-ae0f-45c2-aaff-7f701d30931f",
         "https://openactive.io/activity-list#ea5f74c7-6d69-44c5-8bdc-42e46488f4e0",
@@ -3708,21 +3710,18 @@
         "https://openactive.io/activity-list#5f09c2ca-ceeb-4e0c-871f-e2d0b9971317",
         "https://openactive.io/activity-list#c31ac4c7-5c95-4915-8528-adebaacbb39d",
         "https://openactive.io/activity-list#56be8d24-0c9b-438c-8679-192e5714daf9",
-        "https://openactive.io/activity-list#faccd7f9-982d-43cc-acd7-cf45964eeabd",
-        "https://openactive.io/activity-list#82057527-8288-4faa-bc2e-11aa734f61f1",
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e",
         "https://openactive.io/activity-list#493b7750-01d7-493f-811d-335929afeb77",
         "https://openactive.io/activity-list#2f6a2f82-ba95-444e-b895-c2878d00dff7",
         "https://openactive.io/activity-list#ee3cf3ee-082e-4f53-9cb2-3ef0589497ed",
         "https://openactive.io/activity-list#063105f3-070a-485e-892e-6dd42bc48a56",
-        "https://openactive.io/activity-list#25905e33-e0a3-466c-986e-aaed6bccdaef",
-        "https://openactive.io/activity-list#3f3bb0c5-0373-43d9-a75c-c6a7590c14de",
         "https://openactive.io/activity-list#3a6b1c08-7aa6-48d4-9690-dca9e0133057",
         "https://openactive.io/activity-list#fa2d7665-bb7f-4596-a157-e08c975d6073",
         "https://openactive.io/activity-list#678b9fc4-1860-4377-85b9-e4c01628582a",
         "https://openactive.io/activity-list#87b7d180-d8c0-4721-adf6-9a257c164421",
         "https://openactive.io/activity-list#01b44d7f-08fd-4936-8b76-953adbd7a585",
         "https://openactive.io/activity-list#12850851-5f65-44e4-b426-16254501dbce",
+        "https://openactive.io/activity-list#3f3bb0c5-0373-43d9-a75c-c6a7590c14de",
         "https://openactive.io/activity-list#fa58a756-6094-4c7d-8716-2aadc27a655f",
         "https://openactive.io/activity-list#64878c69-2512-4d0e-81bb-5a323e0141e7",
         "https://openactive.io/activity-list#e4c2656d-983d-4126-b824-72c6713879fb",
@@ -3734,6 +3733,7 @@
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764",
         "https://openactive.io/activity-list#7a72e0e1-73ab-488e-872c-33e825360ddb",
         "https://openactive.io/activity-list#0c2a1e6b-4b02-4b8a-ae6d-59f225ff5341",
+        "https://openactive.io/activity-list#faccd7f9-982d-43cc-acd7-cf45964eeabd",
         "https://openactive.io/activity-list#261395e5-9e11-4348-8bef-e0fafef0e765"
       ],
       "definition": "Group exercise is when you train with others for fitness or as a form of physical recreation for fun. Group exercise can be a fitness class such as a cardio or spin (stationary bicycles) class.",
@@ -3883,12 +3883,12 @@
       "type": "Concept",
       "prefLabel": "Highland Games",
       "narrower": [
-        "https://openactive.io/activity-list#700989ef-a6d2-492c-a3c8-d028f08d8eba",
-        "https://openactive.io/activity-list#512ee498-f70d-466d-a11b-7940322de3d6",
-        "https://openactive.io/activity-list#5d01e863-5273-43cf-b854-709261cd3694",
-        "https://openactive.io/activity-list#bcfb61fb-2756-44ac-a69c-742b62303bc1",
         "https://openactive.io/activity-list#8a1fd08b-d1a7-44fa-9b7e-6db43e3a9f45",
-        "https://openactive.io/activity-list#569414aa-290f-4f84-afd6-8ad7a5c27377"
+        "https://openactive.io/activity-list#5d01e863-5273-43cf-b854-709261cd3694",
+        "https://openactive.io/activity-list#569414aa-290f-4f84-afd6-8ad7a5c27377",
+        "https://openactive.io/activity-list#700989ef-a6d2-492c-a3c8-d028f08d8eba",
+        "https://openactive.io/activity-list#bcfb61fb-2756-44ac-a69c-742b62303bc1",
+        "https://openactive.io/activity-list#512ee498-f70d-466d-a11b-7940322de3d6"
       ],
       "definition": "Highland games (Scottish Gaelic: geamannan Gàidhealach) are events held in spring and summer in Scotland and other countries with a large Scottish diaspora, as a way of celebrating Scottish and Celtic culture, especially that of the Scottish Highlands",
       "notation": "highland_games",
@@ -3923,8 +3923,8 @@
         "https://openactive.io/activity-list#e86a5ec6-6376-4398-a013-a7aeae7904c2",
         "https://openactive.io/activity-list#8e1264db-697b-480b-b492-d3dc88bd0b2b",
         "https://openactive.io/activity-list#09ed21f1-c969-434d-8866-7ff5c8b83ef9",
-        "https://openactive.io/activity-list#296c2a05-e224-4c9e-ba1a-944b769335d0",
         "https://openactive.io/activity-list#d53cc35b-08b4-4a10-9626-6abbbcc79473",
+        "https://openactive.io/activity-list#296c2a05-e224-4c9e-ba1a-944b769335d0",
         "https://openactive.io/activity-list#8a75b5bd-812d-4dfd-aff6-87f799770d8c"
       ],
       "definition": "A form of interval training, a cardiovascular exercise strategy alternating short periods of intense anaerobic exercise with less intense recovery periods, until too exhausted to continue.",
@@ -3985,14 +3985,14 @@
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#fb7409ae-0e69-4b65-8406-bab8f40b522c",
         "https://openactive.io/activity-list#88014533-76c8-49dd-ba7d-f7309b46a5af",
         "https://openactive.io/activity-list#c372c3bf-ec95-48d8-89c9-d9a2cc824709",
         "https://openactive.io/activity-list#62c660f4-aab5-489c-b237-039d4e7b49bb",
         "https://openactive.io/activity-list#020e0782-66a4-4189-a939-4c55803438be",
         "https://openactive.io/activity-list#da4f03ab-1fee-42b5-9f80-0fa9e9c4cf97",
         "https://openactive.io/activity-list#73f5b219-e6c2-4d58-bbf1-290307db5881",
-        "https://openactive.io/activity-list#c936aa37-4318-4c13-b850-ce394c7bbb0e"
+        "https://openactive.io/activity-list#c936aa37-4318-4c13-b850-ce394c7bbb0e",
+        "https://openactive.io/activity-list#fb7409ae-0e69-4b65-8406-bab8f40b522c"
       ],
       "definition": "Hoop Dance is one of the individual dances, and it is performed as a show dance in many tribes. It features a solo dancer dancing with a dozen or more hoops and using them to form a variety of both static and dynamic shapes (poses and moves). Most of the hoop dances in tribes across North America belong to modern hoop dance, which was invented in 1930.",
       "notation": "hoop_dance"
@@ -4860,10 +4860,10 @@
         "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469"
       ],
       "narrower": [
+        "https://openactive.io/activity-list#d9fa56b8-960a-4eac-b932-c6277106e174",
         "https://openactive.io/activity-list#1f688be3-434c-4d91-9f5a-6ce45824f018",
         "https://openactive.io/activity-list#7619ce32-24ad-46e4-97fd-897b833ab7d8",
         "https://openactive.io/activity-list#2aee03d2-800a-4c49-bf41-7a8d5dc0a1f4",
-        "https://openactive.io/activity-list#d9fa56b8-960a-4eac-b932-c6277106e174",
         "https://openactive.io/activity-list#ce759794-142e-43b8-8136-72bcbee1892e"
       ],
       "definition": "Latin dancing consists of five dances: the Rumba, Cha Cha, Samba, Paso Doble' and the Jive.",
@@ -5069,19 +5069,19 @@
       "type": "Concept",
       "prefLabel": "Martial Arts",
       "narrower": [
+        "https://openactive.io/activity-list#1b88144e-91cf-4642-8e6a-8e4524f7c56f",
+        "https://openactive.io/activity-list#9f80ffea-d562-4118-a767-c03095bdfd27",
+        "https://openactive.io/activity-list#18974180-5901-4297-95b3-f6d7147e106c",
         "https://openactive.io/activity-list#22584a2a-fafc-4710-863c-8a1fc3f96b2c",
         "https://openactive.io/activity-list#657aa7cf-d879-498d-93c2-f762ffaac5e9",
         "https://openactive.io/activity-list#1653aaaf-cb1e-4611-b45e-95a32d4a7db5",
         "https://openactive.io/activity-list#9bc83d83-c651-4f37-b7e8-8ae4885d1899",
         "https://openactive.io/activity-list#831828a2-b7de-4a6a-81dd-0bec66ba1163",
         "https://openactive.io/activity-list#75f342fd-a42a-4c64-b583-c08a43ff4c94",
-        "https://openactive.io/activity-list#18974180-5901-4297-95b3-f6d7147e106c",
-        "https://openactive.io/activity-list#84448fa6-6e63-49dc-8659-737bd6b24710",
         "https://openactive.io/activity-list#c16df6ed-a4a0-4275-a8c3-1c8cff56856f",
         "https://openactive.io/activity-list#a570d2bd-f6e3-4838-9c7f-cb5c458dcd19",
         "https://openactive.io/activity-list#8662c76c-b73e-4429-af33-90a122064cf6",
         "https://openactive.io/activity-list#a9e57033-47f4-4247-af62-15fbbc8d0628",
-        "https://openactive.io/activity-list#1b88144e-91cf-4642-8e6a-8e4524f7c56f",
         "https://openactive.io/activity-list#704a7e7f-8a3b-411f-8c9e-175815eaddaf",
         "https://openactive.io/activity-list#38fb5265-2234-4499-b930-ee6d132f72d8",
         "https://openactive.io/activity-list#50e6f8dc-59a8-4899-af75-7ac344a85a06",
@@ -5089,10 +5089,10 @@
         "https://openactive.io/activity-list#6fd10510-8569-4759-b876-58d51c2e5c0b",
         "https://openactive.io/activity-list#11b06df1-ccf5-4176-b1be-b4c39c5377c7",
         "https://openactive.io/activity-list#b66a1a57-3dfe-4536-96d6-ed22c87564a1",
-        "https://openactive.io/activity-list#9f80ffea-d562-4118-a767-c03095bdfd27",
-        "https://openactive.io/activity-list#a05b8aae-2dd1-4869-89a4-6255b197be77",
         "https://openactive.io/activity-list#e7aecf57-6c9a-4f75-87c3-28204b4a0717",
-        "https://openactive.io/activity-list#57735ba2-26cb-44c2-b03f-7982869d64c5"
+        "https://openactive.io/activity-list#57735ba2-26cb-44c2-b03f-7982869d64c5",
+        "https://openactive.io/activity-list#84448fa6-6e63-49dc-8659-737bd6b24710",
+        "https://openactive.io/activity-list#a05b8aae-2dd1-4869-89a4-6255b197be77"
       ],
       "related": [
         "https://openactive.io/activity-list#7a72e0e1-73ab-488e-872c-33e825360ddb"
@@ -5408,12 +5408,12 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#22ca9f17-edda-4425-b905-3867e19d4873",
+        "https://openactive.io/activity-list#377ea9ea-656f-4d7f-8cba-034e30572c72",
+        "https://openactive.io/activity-list#8b8421c1-1fc2-4b70-9ebc-ef7baf6d590e",
         "https://openactive.io/activity-list#aff38834-4a9c-4ec3-b7e4-7089126b6498",
         "https://openactive.io/activity-list#21b6faae-c7cd-431f-9f2f-7d151e82de33",
         "https://openactive.io/activity-list#d22d1d7d-8a2f-4e18-88c8-80abcbdded9d",
         "https://openactive.io/activity-list#7231ae66-c9f4-4e1a-9bab-e454323c0b35",
-        "https://openactive.io/activity-list#8b8421c1-1fc2-4b70-9ebc-ef7baf6d590e",
-        "https://openactive.io/activity-list#377ea9ea-656f-4d7f-8cba-034e30572c72",
         "https://openactive.io/activity-list#a2863690-4973-4408-bdb3-0f29f93ae221",
         "https://openactive.io/activity-list#a71d477f-7263-43d7-8d17-3d69bda8991b",
         "https://openactive.io/activity-list#6971ba4b-60e9-4f94-b11f-1f6436a88451",
@@ -5682,8 +5682,8 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#376ac090-f1ba-49d6-87f5-e2640494798a",
-        "https://openactive.io/activity-list#8f59fab3-ea66-401b-8e5b-4fdeab28e668",
-        "https://openactive.io/activity-list#05fe1f0c-71aa-4ae3-91db-e0edd9a34b06"
+        "https://openactive.io/activity-list#05fe1f0c-71aa-4ae3-91db-e0edd9a34b06",
+        "https://openactive.io/activity-list#8f59fab3-ea66-401b-8e5b-4fdeab28e668"
       ],
       "definition": "Para dance sport is an extremely elegant, graceful and stylish sport which involves athletes with a physical impairment that affects the lower limbs. Participants can compete combi style, dancing with an able-bodied (standing) partner, or duo dance for two wheelchair users together.",
       "notation": "para_dance"
@@ -5768,18 +5768,18 @@
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#221eeae9-f696-4b62-b065-556e9720c54b",
         "https://openactive.io/activity-list#ff29e6fa-bc3d-4b29-97eb-9ae0c970d0ae",
         "https://openactive.io/activity-list#55cc1b4d-6181-47d9-bd85-7f8a15ba6130",
         "https://openactive.io/activity-list#fe2c9859-aa69-43c5-bcc3-ba5a6c7d9815",
-        "https://openactive.io/activity-list#6bdea630-ad22-4e58-98a3-bca26ee3f1da",
         "https://openactive.io/activity-list#2ebbedb5-d841-46c4-b031-5b7ac68d8b7d",
         "https://openactive.io/activity-list#6837e64f-04d7-48c2-b99e-f36847f9e7b9",
         "https://openactive.io/activity-list#71bf180d-d28c-4822-a7ee-25e97c7e4662",
         "https://openactive.io/activity-list#9c39316e-6d6a-4101-9e88-c721d784fe20",
         "https://openactive.io/activity-list#a1a27e85-f64b-44e7-98c9-efdb5be83a02",
         "https://openactive.io/activity-list#97fb991a-50a7-488a-be64-4dc2759fc5d3",
-        "https://openactive.io/activity-list#df2f0608-7124-4833-8cc1-bbb5b9da34fe"
+        "https://openactive.io/activity-list#df2f0608-7124-4833-8cc1-bbb5b9da34fe",
+        "https://openactive.io/activity-list#6bdea630-ad22-4e58-98a3-bca26ee3f1da",
+        "https://openactive.io/activity-list#221eeae9-f696-4b62-b065-556e9720c54b"
       ],
       "definition": "This is an exercise that combines a high-energy cardiovascular workout with pulsating Latin music into a fun, calorie-burning experience.",
       "notation": "party_fitness"
@@ -6207,6 +6207,7 @@
         "https://openactive.io/activity-list#25905e33-e0a3-466c-986e-aaed6bccdaef",
         "https://openactive.io/activity-list#b3061d83-e2cc-4ddf-8179-1c4295e9ee54"
       ],
+      "definition": "Powerhoop classes are choreographed to alternate between waist hooping tracks and Muscle Strength & Conditioning (MSC) tracks where the weighted hoop is used as an aid to perform other exercises such as squats, lunges, chest press and tricep curls meaning a Powerhoop class provides a full body workout!",
       "notation": "powerhoop"
     },
     {
@@ -6214,6 +6215,7 @@
       "identifier": "16640aee-2d2e-41c9-92e2-175f605d308f",
       "type": "Concept",
       "prefLabel": "Powerkiting",
+      "definition": "A parafoil controlled by a line or lines attached to a control bar and often a harness, flown as a source of pull in sports such as kiteboarding.",
       "notation": "powerkiting",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -6225,6 +6227,7 @@
       "broader": [
         "https://openactive.io/activity-list#8e2dcbed-9ec9-46b0-a1c8-af2a4d0d2e01"
       ],
+      "definition": "This is a form of competitive weightlifting in which contestants attempt three types of lift in a set sequence.",
       "notation": "powerlifting"
     },
     {
@@ -6235,6 +6238,7 @@
       "broader": [
         "https://openactive.io/activity-list#25905e33-e0a3-466c-986e-aaed6bccdaef"
       ],
+      "definition": "\r\nPowerWave is a new approach to health, wellness, and weight loss that helps you get incredible results without ever leaving your home.  When you combine the power of the PowerWave Bag and our award-winning PowerWave App, you’ll be able to enjoy thousands of unique, effective, and engaging workouts from your favorite spot in the house. ",
       "notation": "powerwave"
     },
     {
@@ -6245,6 +6249,7 @@
       "broader": [
         "https://openactive.io/activity-list#77e3f8fa-c8b3-4e4e-bf1a-ff4b914bb6ec"
       ],
+      "definition": "Cricket nets are used by batters and bowlers to practice their cricketing techniques. They consist of a cricket pitch (natural or artificial) enclosed by netting on either side, behind, and optionally above. The bowling end is left open.",
       "notation": "practice_nets"
     },
     {
@@ -6277,6 +6282,7 @@
       "broader": [
         "https://openactive.io/activity-list#25905e33-e0a3-466c-986e-aaed6bccdaef"
       ],
+      "definition": "Pump FX is a progressive complete body workout from Fitness FX using barbells and weight plates. Traditional resistance training exercises such as squats, lunges, presses and rows take on another dimension through the use of functional, muti-plane movement.",
       "notation": "pump_fx"
     },
     {
@@ -6287,6 +6293,7 @@
       "broader": [
         "https://openactive.io/activity-list#1eb737b6-9962-469d-98cc-0a2e4e86d356"
       ],
+      "definition": "This is a program with serious power and strength cardio workout suitable for both men and women. It combines the Bokwa® rhythms of popular music with structured steps that will take you on a journey which will make your heart race and burn your fats like never before.",
       "notation": "punch_and_strike"
     },
     {
@@ -6319,6 +6326,7 @@
       "broader": [
         "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469"
       ],
+      "definition": "Quickstep consists of a partner ballroom hold in closed position. It's basic step is at a nearly running pace with hops, skips, points, flicks, crossing of the feet, kicks and more",
       "notation": "quick_step"
     },
     {
@@ -6326,6 +6334,7 @@
       "identifier": "76f7d884-ca72-4005-a5cb-47cc00649c7c",
       "type": "Concept",
       "prefLabel": "Quoits",
+      "definition": "Quoits is a traditional game which involves the throwing of metal, rope or rubber rings over a set distance, usually to land over or near a spike",
       "notation": "quoits",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -6337,6 +6346,7 @@
       "broader": [
         "https://openactive.io/activity-list#261395e5-9e11-4348-8bef-e0fafef0e765"
       ],
+      "definition": "A Rabble session is an hour of immersive team games. Each game disguises high intensity intervals within the rules, giving you an effective, all-body workout.",
       "notation": "rabble"
     },
     {
@@ -6347,6 +6357,7 @@
       "broader": [
         "https://openactive.io/activity-list#4a19873e-118e-43f4-b86e-05acba8fb1de"
       ],
+      "definition": "Road bicycle racing is the cycle sport discipline of road cycling, held primarily on paved roads. Road racing is the most popular professional form of bicycle racing, in terms of numbers of competitors, events and spectators",
       "notation": "racing"
     },
     {
@@ -6355,9 +6366,10 @@
       "type": "Concept",
       "prefLabel": "Rafting",
       "narrower": [
-        "https://openactive.io/activity-list#2ba0661d-fd28-479d-b00c-d48264330c68",
-        "https://openactive.io/activity-list#3cdf195b-a971-4dfa-9602-c2c24da2100c"
+        "https://openactive.io/activity-list#3cdf195b-a971-4dfa-9602-c2c24da2100c",
+        "https://openactive.io/activity-list#2ba0661d-fd28-479d-b00c-d48264330c68"
       ],
+      "definition": "Rafting and whitewater rafting are recreational outdoor activities which use an inflatable raft to navigate a river or other body of water. This is often done on whitewater or different degrees of rough water. Dealing with risk is often a part of the experience",
       "notation": "rafting",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -6369,6 +6381,7 @@
       "broader": [
         "https://openactive.io/activity-list#6ec422f3-0524-476b-aadf-7e67df46a63d"
       ],
+      "definition": "Our Rave Fit experience is a healthy way to keep up with your favourite clubbing lifestyle – with glow sticks, chart topping music and a great cardio workout, this class is perfect for those who just can't stop moving!",
       "notation": "rave_fitness"
     },
     {
@@ -6379,6 +6392,7 @@
       "broader": [
         "https://openactive.io/activity-list#6ec422f3-0524-476b-aadf-7e67df46a63d"
       ],
+      "definition": "Ravercise is a HIIT dance workout with energising high bpm drum & bass music on a low lit club dance floor with a DJ and laser lights.",
       "notation": "ravercise"
     },
     {
@@ -6386,6 +6400,7 @@
       "identifier": "ef19cbfc-1e0a-4d1e-9a63-cec70474d322",
       "type": "Concept",
       "prefLabel": "Real Tennis",
+      "definition": "This is the original form of tennis, played with a solid ball on an enclosed court divided into equal but dissimilar halves, the service side (from which service is always delivered) and the hazard side (on which service is received). A similar game was played in monastery cloisters in the 11th century.",
       "notation": "real_tennis",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -6397,6 +6412,7 @@
       "broader": [
         "https://openactive.io/activity-list#faccd7f9-982d-43cc-acd7-cf45964eeabd"
       ],
+      "definition": "Rebound exercise (or “rebounding”) is a type of elastically leveraged low-impact exercise usually performed on a device known as a rebounder—sometimes called a \"mini-trampoline\" or \"fitness trampoline\"—which is directly descended from regular sports or athletic trampolines.",
       "notation": "rebound"
     },
     {
@@ -6407,6 +6423,7 @@
       "broader": [
         "https://openactive.io/activity-list#4a19873e-118e-43f4-b86e-05acba8fb1de"
       ],
+      "definition": "People can ride bicycles recreationally in a variety of ways. Some people join a cycling or touring club when they wish to ride recreationally. These clubs organise group rides between various points, and members can ride with other cyclists.",
       "notation": "recreational_cycling"
     },
     {
@@ -6448,6 +6465,7 @@
       "broader": [
         "https://openactive.io/activity-list#de71c5ea-e93e-49aa-808a-f4a2e68cdddd"
       ],
+      "definition": "Resistance machines have a predetermined range of motion, meaning you can only lift and lower the weight in the correct way. This helps you to learn the exercise, build up strength and learn to engage the right muscles before progressing onto free weights",
       "notation": "resistance_weights_machines"
     },
     {
@@ -6458,6 +6476,7 @@
       "broader": [
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ],
+      "definition": "Restorative yoga enables deep relaxation as you holding poses for longer periods of time with the help of props to completely support you. The main focus of Restorative Yoga is that by relaxing in poses, with the aid of props, without strain or pain, we can achieve physical, mental and emotional relaxation. Restorative yoga classes are very relaxing and slow paced",
       "notation": "restorative_yoga"
     },
     {
@@ -6479,6 +6498,7 @@
       "broader": [
         "https://openactive.io/activity-list#36359d6f-33ab-44c3-80c0-4076b57c9fed"
       ],
+      "definition": "In rifle and pistol events, competitors have to hit a 10-ring target from a distance of 10, 25 or 50 metres. Depending on the event, competitors need to shoot while standing up, on their knees or lying down",
       "notation": "rifle"
     },
     {
@@ -6489,6 +6509,7 @@
       "broader": [
         "https://openactive.io/activity-list#4a19873e-118e-43f4-b86e-05acba8fb1de"
       ],
+      "definition": "Road cycling is the most widespread form of cycling in which cyclists ride on paved roadways. It includes recreational, racing, commuting, and utility cycling.",
       "notation": "road_cycling"
     },
     {
@@ -6499,6 +6520,7 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "definition": "This is a fast, athletic, physically demanding form of partner dance that originated from Lindy Hop but has evolved to a choreographed sport, often done in formal competition. It is danced by both couples (usually of mixed gender) and groups, either all-female or four to eight couples together.",
       "notation": "rock_and_roll"
     },
     {
@@ -6581,6 +6603,7 @@
         "https://openactive.io/activity-list#c76625ba-1e2e-4417-bb10-e0ba778fc71a",
         "https://openactive.io/activity-list#b2d7512a-cc5f-425b-802f-71a710d63d1e"
       ],
+      "definition": "Roller sports are sports that use human powered vehicles which use rolling either by gravity or various pushing techniques. Typically ball bearings and polyurethane wheels are used for momentum and traction respectively, and attached to devices or vehicles that the roller puts his weight on.",
       "notation": "roller_sports",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -6637,6 +6660,7 @@
       "broader": [
         "https://openactive.io/activity-list#de71c5ea-e93e-49aa-808a-f4a2e68cdddd"
       ],
+      "definition": "An indoor rower, or rowing machine, is a machine used to simulate the action of watercraft rowing for the purpose of exercise or training for rowing.",
       "notation": "rowing_machine"
     },
     {
@@ -6661,6 +6685,7 @@
         "https://openactive.io/activity-list#9e143963-8f17-41ab-8915-3828c5a9ddae",
         "https://openactive.io/activity-list#e5772d77-79cd-45fa-97b9-10dd86a78dc7"
       ],
+      "definition": "This is a team game played with an oval ball that may be kicked, carried, and passed from hand to hand. Points are scored by grounding the ball behind the opponents' goal line (thereby scoring a try) or by kicking it between the two posts and over the crossbar of the opponents' goal.",
       "notation": "rugby",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -6673,8 +6698,8 @@
         "https://openactive.io/activity-list#5d528d2f-83df-482e-bfb9-fcaee5b85f4a"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#71b5aaaa-72d7-43c5-82d8-3157021e7cb6",
-        "https://openactive.io/activity-list#31d6ca75-4844-4899-8da7-a61ca9d10c5f"
+        "https://openactive.io/activity-list#31d6ca75-4844-4899-8da7-a61ca9d10c5f",
+        "https://openactive.io/activity-list#71b5aaaa-72d7-43c5-82d8-3157021e7cb6"
       ],
       "definition": "Rugby league is a full contact game, played by two teams of 13 players.",
       "notation": "rugby_league"
@@ -6687,6 +6712,7 @@
       "broader": [
         "https://openactive.io/activity-list#9e143963-8f17-41ab-8915-3828c5a9ddae"
       ],
+      "definition": "Rugby sevens is an abbreviated form of rugby, featuring two teams of seven players. Played on a full-size rugby pitch, the opposing teams compete to score points via tries, conversions, penalties and drop goals. The winning team is the one with the most points at the end of the match",
       "notation": "rugby_sevens"
     },
     {
@@ -6713,6 +6739,7 @@
       "broader": [
         "https://openactive.io/activity-list#516c71ac-829e-40cf-82f9-fafa8f30f856"
       ],
+      "definition": "The Rumba originated among the African slaves in Cuba in the sixteenth century. It began as a fast and sensual dance with exaggerated hip movements. The dance was said to be representing the male pursuit of a woman and the music played with a staccato beat to keep time with the expressive movements of the dancers.",
       "notation": "rumba"
     },
     {
@@ -6723,6 +6750,7 @@
       "broader": [
         "https://openactive.io/activity-list#c4e6c711-66fc-438e-b206-1dfdddc2d912"
       ],
+      "definition": "\r\nA duathlon is a two-sport race which involves running and cycling in three stages (run-bike-run). A duathlon is great for those looking to move into multi-sport racing but may not be comfortable with an open water swim or for triathletes who cannot get in the open water over winter.",
       "notation": "runbike"
     },
     {
@@ -6746,6 +6774,7 @@
       "broader": [
         "https://openactive.io/activity-list#de71c5ea-e93e-49aa-808a-f4a2e68cdddd"
       ],
+      "definition": "This is a machine for exercising on which you run or walk on a strip that moves back, so that you must move at the same speed as the strip",
       "notation": "running_machine"
     },
     {
@@ -6797,6 +6826,7 @@
       "broader": [
         "https://openactive.io/activity-list#5cdf5ead-e19d-4619-9585-cfe509c3fe52"
       ],
+      "definition": "Salsa dancing is a unique form of exercise because it provides the heart-healthy benefits of an aerobic exercise while also allowing you to engage in a social activity.",
       "notation": "salsa_aerobics"
     },
     {
@@ -6825,6 +6855,7 @@
       "broader": [
         "https://openactive.io/activity-list#516c71ac-829e-40cf-82f9-fafa8f30f856"
       ],
+      "definition": "The Samba is an energetic and lively dance that is currently popular in many parts of the world. Syncopated rhythms, bouncing actions, and rolling hip movements characterize the dance. It may be danced with or without a partner.",
       "notation": "samba"
     },
     {
@@ -6835,6 +6866,7 @@
       "broader": [
         "https://openactive.io/activity-list#879a76f4-4403-45d1-9fa3-76f387407787"
       ],
+      "definition": "Land sailing, also known as sand yachting, land yachting or dirtboating, entails overland travel with a sail-powered vehicle, similar to sailing on water.",
       "notation": "sand_yachting"
     },
     {
@@ -6854,6 +6886,7 @@
       "broader": [
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ],
+      "definition": "Scaravelli inspired yoga is a gentle yet powerful form of Hatha yoga that uses gravity and breath to release the spine and energise the body. This approach focuses on ‘the intelligent heart’, an innate sense of our natural patterns of movement to bring harmony and ease to the asanas (postures)",
       "notation": "scaravelli_inspired_yoga"
     },
     {
@@ -6864,6 +6897,7 @@
       "broader": [
         "https://openactive.io/activity-list#45a372d9-baca-4f6c-859f-04de3efae742"
       ],
+      "definition": "Schooling or flat work comprises taking a horse through the scales of training - of rhythm, suppleness, contact, impulsion, straightness and collection - to the ultimate of having a truly athletic horse which is thoroughly balanced and coordinated.",
       "notation": "schooling"
     },
     {
@@ -6899,6 +6933,7 @@
       "related": [
         "https://openactive.io/activity-list#edc8fd32-92ba-4014-9c81-7afc618bfaba"
       ],
+      "definition": "The traditional Scottish dance is usually described as having four different styles: Ceilidh dance, Highland dance, Scottish country dance and Step dance. They all have some common moves, footworks and patterns.",
       "notation": "scottish_dance"
     },
     {
@@ -6916,6 +6951,7 @@
       "related": [
         "https://openactive.io/activity-list#906f392c-1f51-4ef3-83dd-99b387d5aa84"
       ],
+      "definition": "Think Scottish Highland dancing, add to that the odd ceilidh step set to funky high – beat music, then you get the picture…",
       "notation": "scottish_dance_fitness"
     },
     {
@@ -6926,6 +6962,7 @@
       "broader": [
         "https://openactive.io/activity-list#01792ac1-4111-4814-9942-cb8a7f9c58c2"
       ],
+      "definition": "The hammer throwing event features a hammer made from a metal ball weighing around 22 lb for men or 16 lb for women, attached to a wooden pole or handle. Participants use the handle to whirl the hammer around their head and then throw it as far as they can.",
       "notation": "scottish_hammer_throw"
     },
     {
@@ -6945,6 +6982,7 @@
       "broader": [
         "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
       ],
+      "definition": "The difference between Martial Arts and self-defense is more than just a question of semantics. Martial arts are a type of physical activity that uses techniques from sports and other types of fighting, while self-defense is more about defending yourself physically or verbally against an attacker",
       "notation": "self_defence"
     },
     {
@@ -6955,6 +6993,7 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "definition": "This is a type of ballroom dancing in which the couples all perform the same steps and movements simultaneously.",
       "notation": "sequence_dancing"
     },
     {
@@ -6965,6 +7004,7 @@
       "broader": [
         "https://openactive.io/activity-list#21b6faae-c7cd-431f-9f2f-7d151e82de33"
       ],
+      "definition": "SH1FT– Smart high intensity functional training for all levels. L1FT – Strength and conditioning to build a strong and healthy body. R1ZE – High Intensity functional training using the Step. M1ND – Functional stretching, mobility and stability training for non-yogis.",
       "notation": "sh1ft"
     },
     {
@@ -6975,6 +7015,7 @@
       "broader": [
         "https://openactive.io/activity-list#6b176d87-b82b-4fab-aec1-6d6f94ba8e4c"
       ],
+      "definition": "A fun-loving, insanely addictive dance workout. SH’BAM™ is an ego-free zone – no dance experience required. All you need is a playful attitude and a cheeky smile so forget being a wallflower – even if you walk in thinking you can’t, you’ll walk out knowing you can!",
       "notation": "shbam"
     },
     {
@@ -6985,6 +7026,7 @@
       "broader": [
         "https://openactive.io/activity-list#01792ac1-4111-4814-9942-cb8a7f9c58c2"
       ],
+      "definition": "The sheaf toss (Scottish Gaelic: sguab) is a traditional Scottish agricultural sport event originally contested at country fairs. A pitchfork is used to hurl a burlap bag stuffed with straw over a horizontal bar above the competitor's head",
       "notation": "sheaf_toss"
     },
     {
@@ -6992,6 +7034,7 @@
       "identifier": "d279360d-4c00-42c0-816e-be361ce5cd19",
       "type": "Concept",
       "prefLabel": "Shinty",
+      "definition": "Shinty (Scottish Gaelic: camanachd, iomain) is a team game played with sticks and a ball. In shinty a player is allowed to play the ball in the air and is allowed to use both sides of the stick, called a caman, which is wooden and slanted on both sides. The stick may also be used to block and to tackle, although a player may not come down on an opponent's stick, a practice called hacking. Players may also tackle using the body as long as it is shoulder-to-shoulder.",
       "notation": "shinty",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -7002,15 +7045,15 @@
       "prefLabel": "Shooting",
       "narrower": [
         "https://openactive.io/activity-list#b9f1a766-fdb8-4bb4-9a9d-b86317b20819",
-        "https://openactive.io/activity-list#a653dcda-a3b4-4a68-9d00-87b0b4335c66",
         "https://openactive.io/activity-list#f1d9b809-d7fd-4c9b-9e16-c9b090377521",
+        "https://openactive.io/activity-list#a653dcda-a3b4-4a68-9d00-87b0b4335c66",
         "https://openactive.io/activity-list#0a9e77ca-ef73-4221-abd9-c3d1485d6ec6",
-        "https://openactive.io/activity-list#d1bee9bf-b637-4e7a-bb73-1425047744fe",
         "https://openactive.io/activity-list#b4eeb751-9e31-4308-9296-1c7965fbef40",
         "https://openactive.io/activity-list#c62b4571-d717-47a8-978a-453a175e049e",
-        "https://openactive.io/activity-list#1f6438b9-d1da-46b3-aa6d-3cd140391567",
+        "https://openactive.io/activity-list#d1bee9bf-b637-4e7a-bb73-1425047744fe",
         "https://openactive.io/activity-list#3c6a077b-da02-4519-aa87-b2a114669f56",
         "https://openactive.io/activity-list#0b8c608c-168c-41b2-82de-88c198373154",
+        "https://openactive.io/activity-list#1f6438b9-d1da-46b3-aa6d-3cd140391567",
         "https://openactive.io/activity-list#a202df8a-a1b1-46c3-bdd8-4e72e4f6ec1e"
       ],
       "definition": "Target shooting today is a popular sport, comprising over 41 different disciplines across 3 main categories (Fullbore Rifle & Pistol, Small-bore Rifle & Pistol, and Shotgun)",
@@ -7025,6 +7068,7 @@
       "broader": [
         "https://openactive.io/activity-list#7ae6067a-07f7-4aea-9e1f-eeeea5ae9047"
       ],
+      "definition": "The definition of a \"Short course\" is any course that is less than a par 70 or 6,000 yards. This means everything from par-3 courses to regulation-length 9-hole courses to 18-hole executive courses are eligible as long as they are publicly accessible",
       "notation": "short_course_golf"
     },
     {
@@ -7046,6 +7090,7 @@
       "broader": [
         "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624"
       ],
+      "definition": "Short mat bowls is an indoor sport in which players attempt to score points by rolling a heavy ball along a fairly flat surface, to gain as many shots as possible by getting their bowls nearer to the jack than their opponents, and so outscore them. The game is a modern variation on lawn bowls, from which it is derived.",
       "notation": "short_mat_bowls"
     },
     {
@@ -7081,6 +7126,7 @@
       "broader": [
         "https://openactive.io/activity-list#36359d6f-33ab-44c3-80c0-4076b57c9fed"
       ],
+      "definition": "The shotgun is the name of the sport discipline assigned in the international shooting sports competitions, organised by the International Shooting Sport Federation (ISSF), which includes the three clay shooting disciplines of trap, double trap and skeet.",
       "notation": "shotgun"
     },
     {
@@ -7111,6 +7157,7 @@
       "broader": [
         "https://openactive.io/activity-list#ee3cf3ee-082e-4f53-9cb2-3ef0589497ed"
       ],
+      "definition": "Sit and Be Fit is a television exercise program for older adults and anyone needing slow gentle movement. The show's mission statement is: \"Sit and Be Fit is committed to improving the quality of life of older adults and physically limited individuals through safe, effective exercises especially for moderately active seniors or those managing chronic conditions or needing rehabilitation from strokes, heart attacks or other injuries.",
       "notation": "sit_n_b_fit"
     },
     {
@@ -7140,6 +7187,7 @@
       "identifier": "eed5e947-6e67-44e8-a0c0-c5c640e1edbe",
       "type": "Concept",
       "prefLabel": "Skeleton Racing",
+      "definition": "Skeleton is a winter sliding sport in which a person rides a small sled, known as a skeleton bobsled (or -sleigh), down a frozen track while lying face down and head-first. The sport and the sled may have been named from the bony appearance of the sled",
       "notation": "skeleton_racing",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -7167,6 +7215,7 @@
       "broader": [
         "https://openactive.io/activity-list#1bdf3fac-9d6b-401b-a773-87a9a1c86ed1"
       ],
+      "definition": "SKIP FIT® is the leading jump rope fitness program for people who want to get fit, have fun, and become the best version of themselves.",
       "notation": "skipfit"
     },
     {
@@ -7178,9 +7227,10 @@
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#673a6aeb-0838-4d80-8814-365487317d53",
-        "https://openactive.io/activity-list#ec70ff71-965c-4033-9308-4ab2d38539fc"
+        "https://openactive.io/activity-list#ec70ff71-965c-4033-9308-4ab2d38539fc",
+        "https://openactive.io/activity-list#673a6aeb-0838-4d80-8814-365487317d53"
       ],
+      "definition": "This is the act of jumping over a rope that is held and swung either by the person jumping or by two other people, as a game or for exercise.",
       "notation": "skipping"
     },
     {
@@ -7209,6 +7259,7 @@
         "https://openactive.io/activity-list#19b36744-bbcd-4999-8c0d-0a7985dc475e",
         "https://openactive.io/activity-list#2c21b96d-1286-4e17-9079-d268c0a276d5"
       ],
+      "definition": "Small-sided football formats is anything below 11-a-side football (including 7v7, 9v9 and 5v5)",
       "notation": "small_sided_football"
     },
     {
@@ -7219,6 +7270,7 @@
       "broader": [
         "https://openactive.io/activity-list#8e2dcbed-9ec9-46b0-a1c8-af2a4d0d2e01"
       ],
+      "definition": "The snatch is the first of two lifts contested in the sport of weightlifting (also known as Olympic weightlifting) followed by the clean and jerk.",
       "notation": "snatch"
     },
     {
@@ -7235,6 +7287,7 @@
       "identifier": "84cfc236-7934-4668-9206-dbd753254a20",
       "type": "Concept",
       "prefLabel": "Snorkelling",
+      "definition": "Snorkeling is an underwater activity that involves a breathing tube. A mask is a common add-on so you can actually see underwater. It's designed so you can explore underwater canyons and vivid green moss without having to worry about breathing — it's all sorted out for you.",
       "notation": "snorkelling",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -7246,6 +7299,7 @@
       "broader": [
         "https://openactive.io/activity-list#7baa967e-87db-4346-84f8-5045ed49fd6a"
       ],
+      "definition": "Snowboard racing is a form of snowboarding where competitors attempt to obtain the fastest time down a course. Snowboard racing can be done against the clock, or by two or more competitors racing in a head-to-head format.",
       "notation": "snowboard_racing"
     },
     {
@@ -7298,6 +7352,7 @@
       "broader": [
         "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
       ],
+      "definition": "Sambo (Russian: са́мбо, pronounced [ˈsambə]) is a martial art with Soviet origins, an internationally practiced combat sport, and a recognised style of amateur wrestling included by UWW in the World Wrestling Championships along with Greco-Roman wrestling and freestyle wrestling",
       "notation": "sombo"
     },
     {
@@ -7308,6 +7363,7 @@
       "broader": [
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
+      "definition": "\r\nSOSA Dance Fitness is an exciting fusion of ballroom, latin and international dance styles in a high energy but low impact fun fitness class. Routines are choreographed to be danced without a partner and classes are specifically designed to be fully inclusive of all participants, regardless of age or ability.",
       "notation": "sosa"
     },
     {
@@ -7382,6 +7438,7 @@
       "broader": [
         "https://openactive.io/activity-list#5f09c2ca-ceeb-4e0c-871f-e2d0b9971317"
       ],
+      "definition": "spinning’ is a high-intensity exercise on a stationary bike. It combines cardio and endurance in a 45-minute calorie-crunching session! Not only is it great for giving you all the cardiovascular gains, but it’s great at toning muscles to make you super strong.",
       "notation": "spinning"
     },
     {
@@ -7392,6 +7449,7 @@
       "broader": [
         "https://openactive.io/activity-list#5f09c2ca-ceeb-4e0c-871f-e2d0b9971317"
       ],
+      "definition": "Sprint workouts help cyclists improve power for accelerations and are effective for time-crunched cyclists to boost aerobic conditioning.",
       "notation": "sprint"
     },
     {
@@ -7402,6 +7460,7 @@
       "broader": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
+      "definition": "This is a type of country dancing that starts with four couples facing one another in a square, with the steps and movements shouted out by a caller.",
       "notation": "square_dancing"
     },
     {
@@ -7438,6 +7497,7 @@
       "broader": [
         "https://openactive.io/activity-list#f7b4d296-7b3d-466d-b138-b668a268b402"
       ],
+      "definition": "Stability balls are a popular and versatile piece of fitness equipment used in gyms, homes, physical therapy sessions and even the workplace. Also known as exercise balls, Swiss balls, Physio balls, and balance balls, the purpose of the stability ball is to improve balance, muscle tone and core strength.",
       "notation": "stability_ball"
     },
     {
@@ -7483,6 +7543,7 @@
       "broader": [
         "https://openactive.io/activity-list#de71c5ea-e93e-49aa-808a-f4a2e68cdddd"
       ],
+      "definition": "A step machine is a stationary piece of equipment that allows you to “climb stairs” at a speed that works for you wherever you are in your fitness journey – helping you meet your goals in a unique and challenging way.",
       "notation": "step_machine"
     },
     {
@@ -7493,6 +7554,7 @@
       "broader": [
         "https://openactive.io/activity-list#01792ac1-4111-4814-9942-cb8a7f9c58c2"
       ],
+      "definition": "The stone put (Scottish Gaelic: clach air a chur) is one of the main Scottish heavy athletic events at modern-day Highland games gatherings.",
       "notation": "stone_put"
     },
     {
@@ -7513,6 +7575,7 @@
         "https://openactive.io/activity-list#0141d752-088f-4bab-99fa-9a3d61ee5cf9",
         "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2"
       ],
+      "definition": "Street Cheer is one of the many exciting areas of Cheerleading. It combines traditional Cheer discipline with Urban Street Dance and makes up an important part of UKCA's annual competitive events.",
       "notation": "street_cheer"
     },
     {
@@ -7524,25 +7587,26 @@
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
       "narrower": [
+        "https://openactive.io/activity-list#24ad6d76-f62b-49c6-b11b-2f7cf02a65d3",
+        "https://openactive.io/activity-list#304ffd59-4389-4c7b-bcab-90f9dad8aaf5",
+        "https://openactive.io/activity-list#01f250d7-0a49-448e-a872-b3d51fe266c9",
         "https://openactive.io/activity-list#bc18a355-c6af-4801-b673-053af9aa0422",
         "https://openactive.io/activity-list#19f95881-d3e2-4d65-87aa-8362bebdb024",
         "https://openactive.io/activity-list#3a1c30fc-c02a-4632-b6bc-aaedb73e1582",
         "https://openactive.io/activity-list#6111dd77-6ee6-41cc-87f7-d21aa7406b33",
-        "https://openactive.io/activity-list#304ffd59-4389-4c7b-bcab-90f9dad8aaf5",
+        "https://openactive.io/activity-list#a8258191-c95e-4c7b-8ccb-2272bf6278a8",
         "https://openactive.io/activity-list#154d3567-7203-4977-b946-d3708a268590",
         "https://openactive.io/activity-list#e00f8c2f-092b-4dd3-ac1e-573c2c04d3db",
-        "https://openactive.io/activity-list#01f250d7-0a49-448e-a872-b3d51fe266c9",
         "https://openactive.io/activity-list#8f39e848-ec7d-4472-b10e-d929060a0467",
-        "https://openactive.io/activity-list#a8258191-c95e-4c7b-8ccb-2272bf6278a8",
         "https://openactive.io/activity-list#d1868552-5254-4b14-9204-d8bf24e4e403",
         "https://openactive.io/activity-list#be59cf38-0a17-4dbf-9127-0445244b36fe",
-        "https://openactive.io/activity-list#24ad6d76-f62b-49c6-b11b-2f7cf02a65d3",
         "https://openactive.io/activity-list#ae6106d9-b882-4651-8cf8-f041466f3da5",
         "https://openactive.io/activity-list#6e5bbb26-4aa1-4ab7-947b-fa58687ab374"
       ],
       "related": [
         "https://openactive.io/activity-list#8087a5b8-41ad-4537-8cb3-563d23f31a1f"
       ],
+      "definition": "This is an informal style of dancing with energetic movements, that was developed outside in the street or in nightclubs; one of the different forms of this style of dancing : Breakdancing is a street dance style that evolved as part of the hip hop movement in the 1970s",
       "notation": "street_dance"
     },
     {
@@ -7554,19 +7618,20 @@
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#e6d9364a-f024-4c81-9d01-564856bed52c",
-        "https://openactive.io/activity-list#2f590a5b-bb2e-40ad-ae15-5db383408ad8",
         "https://openactive.io/activity-list#4aeecde4-1998-4ee9-9c27-01d2ff046c50",
-        "https://openactive.io/activity-list#7aafc311-42f0-41e3-9891-b924e0645f8f",
-        "https://openactive.io/activity-list#790f5139-ea63-4d0c-85cf-bcf1ccb4e272",
         "https://openactive.io/activity-list#949ea0e2-8bc1-4740-9bb7-c6d266669df4",
+        "https://openactive.io/activity-list#e6d9364a-f024-4c81-9d01-564856bed52c",
+        "https://openactive.io/activity-list#790f5139-ea63-4d0c-85cf-bcf1ccb4e272",
         "https://openactive.io/activity-list#03f33259-16af-44d9-b37b-ce240a33ad3f",
         "https://openactive.io/activity-list#4d569686-4971-4ea8-bda1-cd34bf17ba67",
-        "https://openactive.io/activity-list#a4b01c1f-0668-4e2b-853f-8bf393b208f1"
+        "https://openactive.io/activity-list#a4b01c1f-0668-4e2b-853f-8bf393b208f1",
+        "https://openactive.io/activity-list#2f590a5b-bb2e-40ad-ae15-5db383408ad8",
+        "https://openactive.io/activity-list#7aafc311-42f0-41e3-9891-b924e0645f8f"
       ],
       "related": [
         "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2"
       ],
+      "definition": "Street dancing is a broad umbrella term that describes a range of funk and hip-hop dance styles that have grown from the USA since the 1970s. Popular forms of street dance include break-dance, popping, locking and house dance. Street dancing offers a great workout for the body, with squats, turns and jumps stretching a variety of muscles.",
       "notation": "street_dance_fitness"
     },
     {
@@ -7577,6 +7642,7 @@
       "broader": [
         "https://openactive.io/activity-list#8087a5b8-41ad-4537-8cb3-563d23f31a1f"
       ],
+      "definition": "Street Fit Scotland’s mission is to provide Scotland’s homeless and vulnerably housed population with a programme of fitness to improve their mental, physical health and wellbeing.",
       "notation": "street_fit"
     },
     {
@@ -7587,6 +7653,7 @@
       "broader": [
         "https://openactive.io/activity-list#8087a5b8-41ad-4537-8cb3-563d23f31a1f"
       ],
+      "definition": "Street dance is a term that covers lots of different social dance styles and the eclectic nature of the style has given way to new vocabulary such as popping, locking, krumping and waving. Street dance was once used as an expression of resistance and cultural identity outside the mainstream",
       "notation": "street_step"
     },
     {
@@ -7597,6 +7664,7 @@
       "broader": [
         "https://openactive.io/activity-list#56be8d24-0c9b-438c-8679-192e5714daf9"
       ],
+      "definition": "Stretch & Tone is based on the Pilates method, the art of strength, balance and control. This workout focuses on strengthening the core with exercises that train the muscles in your pelvis, lower back, hips and abdomen to work in harmony. This leads to better balance and stability.",
       "notation": "stretch_and_tone"
     },
     {
@@ -7607,6 +7675,7 @@
       "broader": [
         "https://openactive.io/activity-list#56be8d24-0c9b-438c-8679-192e5714daf9"
       ],
+      "definition": "The general goal of group stretch classes, which are taught by fitness pros of varying credentials, is to help attendees learn and practice stretching techniques, though the format, style, and underlying philosophy of these classes varies from studio to studio.",
       "notation": "stretch_class"
     },
     {
@@ -7617,6 +7686,7 @@
       "broader": [
         "https://openactive.io/activity-list#6b176d87-b82b-4fab-aec1-6d6f94ba8e4c"
       ],
+      "definition": "Strutology® is a super sassy dance class which harnesses the power of the strut, teaches you to walk tall and feel “strutterly fabulous” regardless of shape or size",
       "notation": "strutology"
     },
     {
@@ -7656,6 +7726,7 @@
       "narrower": [
         "https://openactive.io/activity-list#c3d3f498-e7f0-4b80-be4e-ee11da9b5765"
       ],
+      "definition": "The field of suspension training is a form of resistance training that includes bodyweight exercises in which a variety of multi-planar, compound exercise movements can be performed. These are done with the aim of developing strength, balance, flexibility, and joint stability simultaneously",
       "notation": "suspension"
     },
     {
@@ -7687,9 +7758,9 @@
       "prefLabel": "Swimming",
       "narrower": [
         "https://openactive.io/activity-list#35bf3588-f547-482f-a6f2-3e42cbc9691e",
-        "https://openactive.io/activity-list#dfaf6bb4-d2fe-4db5-a271-4ceeaaaf55b9",
         "https://openactive.io/activity-list#2571c4c2-a3bd-4a53-b6f5-d3ae296968d6",
         "https://openactive.io/activity-list#66063501-0e05-4c45-8209-4291dfe875aa",
+        "https://openactive.io/activity-list#dfaf6bb4-d2fe-4db5-a271-4ceeaaaf55b9",
         "https://openactive.io/activity-list#0ff678d1-a679-492c-a8b7-e9d7e0061bd1"
       ],
       "definition": "Swimming is an excellent form of exercise as it gives a full-body workout.",
@@ -7704,6 +7775,7 @@
       "broader": [
         "https://openactive.io/activity-list#2750229d-b725-4171-9276-376be913957c"
       ],
+      "definition": "Swimming lessons are the process of learning to swim. In most countries there is a definition of a number of swimming levels that are reached in the process of the curriculum. The respective certificates of swimming tests are required for further training in aquatic abilities. Many countries have defined a minimum swimming level that children should reach by the end of primary education, in most cases with the help of school swimming classes being part of the normal curriculum.",
       "notation": "swimming_lessons"
     },
     {
@@ -7714,6 +7786,7 @@
       "broader": [
         "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469"
       ],
+      "definition": "Swing dance is a group of social dances that developed with the swing style of jazz music in the 1920s–1940s, with the origins of each dance predating the popular \"swing era\". Hundreds of styles of swing dancing were developed; those that have survived beyond that era include Lindy Hop, Balboa, Collegiate Shag, and Charleston",
       "notation": "swing"
     },
     {
@@ -7724,6 +7797,7 @@
       "broader": [
         "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469"
       ],
+      "definition": "SwingTrain is a high-intensity dance cardio workout inspired by the joyful, energetic sounds of Charleston, Swing, Gospel, Rhythm & Blues, Electro Swing, and Hot Jazz.",
       "notation": "swing_train"
     },
     {
@@ -7734,6 +7808,7 @@
       "broader": [
         "https://openactive.io/activity-list#f7b4d296-7b3d-466d-b138-b668a268b402"
       ],
+      "definition": "An exercise ball is a ball constructed of soft elastic, typically in 5 diameters of 10-centimeter increments, from 35 centimeters (14 inches) to 85 centimeters (34 inches), and filled with air. The air pressure is changed by removing a valve stem and either filling with air or letting the ball deflate. It is most often used in physical therapy, athletic training and exercise. It can also be used for weight training.",
       "notation": "swiss_ball"
     },
     {
@@ -7755,6 +7830,7 @@
       "broader": [
         "https://openactive.io/activity-list#6b176d87-b82b-4fab-aec1-6d6f94ba8e4c"
       ],
+      "definition": "Synergy Dance® is a one-stop package in leisure centres and schools. We offer an innovative range of activities. These include live dance clubs, yoga classes, parties, holiday activities, workshops and online courses. The company works to empower leisure chains, charities and schools.",
       "notation": "synergy"
     },
     {
@@ -7765,6 +7841,7 @@
       "broader": [
         "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
       ],
+      "definition": "Systema is a Russian martial art. Training includes, but is not limited to: hand-to-hand combat, grappling, knife fighting, and firearms training. Training involves drills and sparring without set kata.",
       "notation": "systema"
     },
     {
@@ -7775,6 +7852,7 @@
       "broader": [
         "https://openactive.io/activity-list#21b6faae-c7cd-431f-9f2f-7d151e82de33"
       ],
+      "definition": "Tabata is a type of HIIT workout that aims to yield the most benefits in a short amount of time. For each exercise, you do eight rounds of 20 seconds of strenuous exercise followed by 10 seconds of rest. Read on to take a look at some of the key differences between Tabata and HIIT, sample workouts, and the benefits",
       "notation": "tabata"
     },
     {
@@ -7838,6 +7916,7 @@
       "broader": [
         "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
       ],
+      "definition": "Tang Soo Do refers to a Korean martial art based on Karate and may include fighting principles from taekkyeon, subak, as well as northern Chinese martial arts.",
       "notation": "tang_soo_do"
     },
     {
@@ -7848,6 +7927,7 @@
       "broader": [
         "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469"
       ],
+      "definition": "Tango is a partner dance and social dance that originated in the 1880s along the Río de la Plata, the natural border between Argentina and Uruguay. ",
       "notation": "tango"
     },
     {
@@ -7875,6 +7955,7 @@
       "related": [
         "https://openactive.io/activity-list#a3245596-9505-4b4e-ac9e-db1b5e6732fb"
       ],
+      "definition": "The full-body workout of rhythmic movement develops stronger muscles from the neck down to the feet with improved flexibility and balance. Other cardiovascular benefits also include improved endurance.",
       "notation": "tap_fitness"
     },
     {
@@ -7885,6 +7966,7 @@
       "broader": [
         "https://openactive.io/activity-list#36359d6f-33ab-44c3-80c0-4076b57c9fed"
       ],
+      "definition": "Target shooting. means shooting at an inanimate object that usually has some type of physical reaction or scoring markings.",
       "notation": "target_shooting"
     },
     {
@@ -7911,11 +7993,11 @@
       "type": "Concept",
       "prefLabel": "Tennis",
       "narrower": [
-        "https://openactive.io/activity-list#7aa2af56-7454-4061-919e-21be6e3a6a4d",
+        "https://openactive.io/activity-list#36295b69-22b9-4554-8a87-6ba7ae75426d",
         "https://openactive.io/activity-list#868ff4fe-9fdf-4b94-9bb3-52b1acb80740",
         "https://openactive.io/activity-list#178ac9d5-9042-41e4-b8b9-12edf824afbf",
+        "https://openactive.io/activity-list#7aa2af56-7454-4061-919e-21be6e3a6a4d",
         "https://openactive.io/activity-list#cd63149a-d6ab-4278-8ce2-033f65e0a9f6",
-        "https://openactive.io/activity-list#36295b69-22b9-4554-8a87-6ba7ae75426d",
         "https://openactive.io/activity-list#b277b02b-f17e-4cce-8f97-a81ed4bf97c5"
       ],
       "definition": "Tennis involves hitting a ball over a net using a racket.",
@@ -7960,6 +8042,7 @@
       "identifier": "6c572662-df79-44cf-a4f0-19bb0c8dbd73",
       "type": "Concept",
       "prefLabel": "Tobagganing",
+      "definition": "tobogganing, the sport of sliding down snow-covered slopes and artificial-ice-covered chutes on a runnerless sled called a toboggan. In Europe, small sleds with runners are also called toboggans",
       "notation": "tobagganing",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -7982,6 +8065,7 @@
       "broader": [
         "https://openactive.io/activity-list#d09970bc-e11c-40cc-a594-38e4ff32d611"
       ],
+      "definition": "Top rope climbing (or top roping) is a type of rock climbing where the climber is securely attached to a rope that runs through a fixed anchor at the top of the climbing route, and back down to the belayer (or \"second\") at the base of the climb",
       "notation": "top_rope_climbing"
     },
     {
@@ -7992,6 +8076,7 @@
       "broader": [
         "https://openactive.io/activity-list#a7f0a364-a496-4446-aec6-594a629353b3"
       ],
+      "definition": "Touch rugby refers to games derived from rugby football in which players do not tackle each other but instead touch their opponents using their hands on any part of the body, clothing, or the ball.",
       "notation": "touch_rugby_league"
     },
     {
@@ -8013,6 +8098,7 @@
       "broader": [
         "https://openactive.io/activity-list#4d280e1b-a370-4582-ab4d-442b2eeaf5d4"
       ],
+      "definition": "Track and field is a sport that includes athletic contests based on running, jumping, and throwing skills",
       "notation": "track_and_field"
     },
     {
@@ -8023,6 +8109,7 @@
       "broader": [
         "https://openactive.io/activity-list#4a19873e-118e-43f4-b86e-05acba8fb1de"
       ],
+      "definition": "Track cycling is a bicycle racing sport usually held on specially built banked tracks or velodromes using purpose-designed track bicycles.",
       "notation": "track_cycling"
     },
     {
@@ -8035,15 +8122,16 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#8a4abff3-c616-4f33-80a1-398b88c672a3",
-        "https://openactive.io/activity-list#fb3d49c9-5eb5-44cc-b65c-76c86b0e0651",
         "https://openactive.io/activity-list#7e817909-2a95-42a3-90d0-22cc48594f9f",
         "https://openactive.io/activity-list#a31c6b89-7794-4cc6-9a4f-3cc0e03b428f",
+        "https://openactive.io/activity-list#fb3d49c9-5eb5-44cc-b65c-76c86b0e0651",
         "https://openactive.io/activity-list#a6b74795-3c06-4538-860f-06cc6170c896",
         "https://openactive.io/activity-list#94ab96ff-c17d-4f20-a2fc-234f0b4bfb54"
       ],
       "related": [
         "https://openactive.io/activity-list#0082b27f-8be5-4ade-ae1f-5f0b2be9e164"
       ],
+      "definition": "Trampoline exercises are a convenient and enjoyable way to boost your cardiovascular health, improve endurance, and relieve stress and tension. They can help you develop better balance, coordination, and motor skills. These exercises target your back, core, and leg muscles",
       "notation": "trampoline_fitness"
     },
     {
@@ -8066,6 +8154,7 @@
       "broader": [
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
+      "definition": "TRE® includes a series of easy stretches using the muscles of the lower body and builds up a little shaking in the legs. Once the body is shaking, you lie on the floor, and encourage these natural vibrations to move through the body, without trying to control them.",
       "notation": "tre"
     },
     {
@@ -8076,6 +8165,7 @@
       "broader": [
         "https://openactive.io/activity-list#de71c5ea-e93e-49aa-808a-f4a2e68cdddd"
       ],
+      "definition": "This is a machine for exercising on which you run or walk on a strip that moves back, so that you must move at the same speed as the strip:",
       "notation": "treadmill"
     },
     {
@@ -8096,8 +8186,8 @@
       "prefLabel": "Triathlon",
       "narrower": [
         "https://openactive.io/activity-list#7a0d4399-d7a2-43e4-b9dc-5bf88c7a7eea",
-        "https://openactive.io/activity-list#9fee9fb7-9279-4b79-806e-0dc78782e308",
         "https://openactive.io/activity-list#0bf97666-e55f-4f16-a709-84b433d67612",
+        "https://openactive.io/activity-list#9fee9fb7-9279-4b79-806e-0dc78782e308",
         "https://openactive.io/activity-list#4b8ca2a9-1758-4bcf-bc63-4c39f6d3ecab"
       ],
       "definition": "Triathlon is an exciting multi-discipline sport made up of a swim, then a bike ride and then a run.",
@@ -8112,6 +8202,7 @@
       "broader": [
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
+      "definition": "Trigger point therapy is a neuromuscular therapy designed to speed up recovery from injury, correct muscular imbalances and relieve pain. Your physiotherapist will stretch the muscle and then apply pressure to areas of muscle tightness or 'knots'. This helps to relive muscle tension and promote healing.",
       "notation": "trigger_point"
     },
     {
@@ -8120,9 +8211,10 @@
       "type": "Concept",
       "prefLabel": "Trx®",
       "broader": [
-        "https://openactive.io/activity-list#25905e33-e0a3-466c-986e-aaed6bccdaef",
-        "https://openactive.io/activity-list#3f3bb0c5-0373-43d9-a75c-c6a7590c14de"
+        "https://openactive.io/activity-list#3f3bb0c5-0373-43d9-a75c-c6a7590c14de",
+        "https://openactive.io/activity-list#25905e33-e0a3-466c-986e-aaed6bccdaef"
       ],
+      "definition": "TRX stands for \"Total Resistance Exercise\" and describes a workout method for which you use your body weight and gravity as resistance to improve your fitness",
       "notation": "trx"
     },
     {
@@ -8142,6 +8234,7 @@
       "broader": [
         "https://openactive.io/activity-list#1eb737b6-9962-469d-98cc-0a2e4e86d356"
       ],
+      "definition": "Turbo Kick® is an interval based, full body workout that begins with a sports-specific warm-up. High-paced intervals follow with kickboxing-specific strength/endurance training sequences and easy-to-follow combinations. Class ends with a mind/body-like (think Tai-Chi) cool-down.",
       "notation": "turbo_kick"
     },
     {
@@ -8161,6 +8254,7 @@
       "broader": [
         "https://openactive.io/activity-list#8087a5b8-41ad-4537-8cb3-563d23f31a1f"
       ],
+      "definition": "TYGA® is a fierce 50 minute twerk-inducing, booty poppin, heart pounding dance workout choreographed to the latest hip hop, dancehall, latin & afro beats. You can slay up to 600 calories in each sweat-session while toning up your physique & elevating your mood.",
       "notation": "tyga"
     },
     {
@@ -8180,6 +8274,7 @@
       "broader": [
         "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2"
       ],
+      "definition": "Urban Dance is a style of dance, community, and lifestyle revolving around choreographed pieces and performances by a dancer or groups of dancers. Choreography is influenced by several different dance styles, but is ultimately based on the choreographer's own interpretation of the music",
       "notation": "urban"
     },
     {
@@ -8190,6 +8285,7 @@
       "broader": [
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
+      "definition": "VeraFlow is a dance-based stretch class with mindfulness.",
       "notation": "veraflow"
     },
     {
@@ -8200,6 +8296,7 @@
       "broader": [
         "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469"
       ],
+      "definition": "It is a fast paced (180 beats a minute) rotary dance where the dancers are constantly turning either in a clockwise (natural) or counter-clockwise (reverse) direction interspersed with non-rotating change steps to switch between the directions of rotation. A true Viennese waltz consists only of turns and change steps",
       "notation": "viennese_waltz"
     },
     {
@@ -8210,6 +8307,7 @@
       "broader": [
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ],
+      "definition": "Vinyasa is an approach to yoga in which you move from one pose directly into the next. There's a flow to a Vinyasa yoga session, though the specific poses and the pace of the flow vary from one instructor to the next. You may also hear the term Ashtanga yoga used interchangeably with Vinyasa",
       "notation": "vinyasa_yoga"
     },
     {
@@ -8220,6 +8318,7 @@
       "broader": [
         "https://openactive.io/activity-list#25905e33-e0a3-466c-986e-aaed6bccdaef"
       ],
+      "definition": "ViPR bridges the gap between movement and strength. It’s the ultimate functional, whole-body training tool, combining the programming of a traditional resistance workout together with the physical agility needed for an optimal sports or fitness performance, easily making ViPR the most innovative fitness breakthrough in years.",
       "notation": "vipr"
     },
     {
@@ -8230,6 +8329,7 @@
       "broader": [
         "https://openactive.io/activity-list#f2ea7405-6098-4378-b0fe-4e398a659fc4"
       ],
+      "definition": "\r\nBlind Tennis often called Soundball Tennis is played on either a badminton court or a standard tennis court using a junior tennis racket and an adapted sponge ball that makes a noise when it bounces. Balls can be either black or fluorescent yellow to give maximum contrast with the colour of the sports hall.",
       "notation": "visually_impaired_tennis"
     },
     {
@@ -8241,6 +8341,7 @@
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e",
         "https://openactive.io/activity-list#8087a5b8-41ad-4537-8cb3-563d23f31a1f"
       ],
+      "definition": "VOGA is Fitness and Fashion fused with Yoga and Dance. It's inspired by Ibiza, House Music, Vogue, and 80s Pop Culture. It bridges the gap between Yoga and Dance mixing Breath Synchonized Movement with Stylised Body Talk",
       "notation": "voga"
     },
     {
@@ -8252,6 +8353,7 @@
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e",
         "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2"
       ],
+      "definition": "Vogue, or voguing, is a highly stylised, modern house dance originating in the late 1980s that evolved out of the Harlem ballroom scene of the 1960s.",
       "notation": "voguing"
     },
     {
@@ -8277,6 +8379,7 @@
       "broader": [
         "https://openactive.io/activity-list#21b6faae-c7cd-431f-9f2f-7d151e82de33"
       ],
+      "definition": "VYPA® is a high energy workout combining boxing, cardio, plyometrics and sculpting moves all set to a motivating hip hop and electronic playlist.",
       "notation": "vypa"
     },
     {
@@ -8287,6 +8390,7 @@
       "broader": [
         "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2"
       ],
+      "definition": "Waacking is an extremely expressive, free and musical form of dance that is characterised by arm movements and posing with a strong emphasis on musicality and improvised performance",
       "notation": "waacking"
     },
     {
@@ -8416,6 +8520,7 @@
       "broader": [
         "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469"
       ],
+      "definition": "This is a dance in triple time performed by a couple, who as a pair turn rhythmically round and round as they progress around the dance floor.",
       "notation": "waltz"
     },
     {
@@ -8426,6 +8531,7 @@
       "broader": [
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ],
+      "definition": "\r\nBikram yoga, founded in the 1970s by Bikram Choudhury, is generally recognized as the first style of hot yoga. Bikram yoga classes all include a very specific sequence of 26 yoga poses and two breathing exercises performed in the same order, within 90 minutes, in a room heated to over 100 degrees Fahrenheit. ",
       "notation": "warm_yoga"
     },
     {
@@ -8442,6 +8548,7 @@
       "identifier": "ba9a2508-fbc7-4cd2-bf5a-398211ba88a4",
       "type": "Concept",
       "prefLabel": "Water Skiing",
+      "definition": "This is a sport in which you are pulled along the surface of a lake or ocean by a boat while balancing on a pair of skis fastened to your feet.",
       "notation": "water_skiing",
       "topConceptOf": "https://openactive.io/activity-list"
     },
@@ -8462,6 +8569,7 @@
         "https://openactive.io/activity-list#46546be1-fc32-4242-9ef7-e3e37684486b",
         "https://openactive.io/activity-list#6e31262b-ce37-4fc7-b3e3-d827ac5e8b42"
       ],
+      "definition": "Water aerobics is a form of aerobic exercise that requires water-immersed participants. Most water aerobics is in a group fitness class setting with a trained professional teaching for about an hour. The classes focus on aerobic endurance, resistance training, and creating an enjoyable atmosphere with music.",
       "notation": "waterbased_classes"
     },
     {
@@ -8472,6 +8580,7 @@
       "broader": [
         "https://openactive.io/activity-list#6e31262b-ce37-4fc7-b3e3-d827ac5e8b42"
       ],
+      "definition": "WATERWORKS is an effective total body water workout where you are immersed in a fun environment and can choose your intensity level.",
       "notation": "waterworks"
     },
     {
@@ -8482,6 +8591,7 @@
       "broader": [
         "https://openactive.io/activity-list#01792ac1-4111-4814-9942-cb8a7f9c58c2"
       ],
+      "definition": "Sometimes referred to as 'weight over the bar', this game requires competitors to throw a weight over a raised bar. The object thrown is a 25.4kg (56lb) weight with a handle at the end of a short bar which must be thrown using just one hand.",
       "notation": "weight_over_the_bar"
     },
     {
@@ -8492,6 +8602,7 @@
       "broader": [
         "https://openactive.io/activity-list#01792ac1-4111-4814-9942-cb8a7f9c58c2"
       ],
+      "definition": "Two sports have events that fall under the name of weight throw (Scottish Gaelic: caitheamh cuideam) one being the track and field event and the other being the Scottish highland games events. The track and field event is most popular in the United States as an indoor equivalent to the hammer throw event, which can only be held outdoors. The 35 lb weight throw (men) and 20 lb weight throw (women) are not recognised by the International Association of Athletics Federations.",
       "notation": "weight_throw"
     },
     {
@@ -8503,15 +8614,16 @@
         "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
       ],
       "narrower": [
+        "https://openactive.io/activity-list#c3d3f498-e7f0-4b80-be4e-ee11da9b5765",
+        "https://openactive.io/activity-list#f801638f-bf5a-44b9-8cf8-a47b44791480",
+        "https://openactive.io/activity-list#b8cc8058-1d31-4509-903a-f798493f1b0b",
+        "https://openactive.io/activity-list#5e78bcbe-36db-425a-9064-bf96d09cc351",
+        "https://openactive.io/activity-list#c58fb951-3607-42b7-b5d6-baf2b5d70a98",
         "https://openactive.io/activity-list#fb7409ae-0e69-4b65-8406-bab8f40b522c",
         "https://openactive.io/activity-list#e811bbc7-5d82-430f-a417-13472006a63a",
-        "https://openactive.io/activity-list#b8cc8058-1d31-4509-903a-f798493f1b0b",
-        "https://openactive.io/activity-list#c3d3f498-e7f0-4b80-be4e-ee11da9b5765",
-        "https://openactive.io/activity-list#5e78bcbe-36db-425a-9064-bf96d09cc351",
-        "https://openactive.io/activity-list#4b9c1b69-ae55-43c7-9f27-7444e3c56ee5",
-        "https://openactive.io/activity-list#c58fb951-3607-42b7-b5d6-baf2b5d70a98",
-        "https://openactive.io/activity-list#f801638f-bf5a-44b9-8cf8-a47b44791480"
+        "https://openactive.io/activity-list#4b9c1b69-ae55-43c7-9f27-7444e3c56ee5"
       ],
+      "definition": "This is a system of conditioning involving lifting weights especially for strength and endurance",
       "notation": "weight_training"
     },
     {
@@ -8521,8 +8633,8 @@
       "prefLabel": "Weightlifting",
       "narrower": [
         "https://openactive.io/activity-list#04f7b51f-752c-4856-8d11-87da39ac4dad",
-        "https://openactive.io/activity-list#b4ededac-c921-47a8-a689-23fbdecab8d8",
-        "https://openactive.io/activity-list#1bf1695a-d0e9-4c2c-8a02-8853ab619324"
+        "https://openactive.io/activity-list#1bf1695a-d0e9-4c2c-8a02-8853ab619324",
+        "https://openactive.io/activity-list#b4ededac-c921-47a8-a689-23fbdecab8d8"
       ],
       "definition": "Olympic Weight Lifting is one of the world's oldest competitive sports.",
       "notation": "weightlifting",
@@ -8536,6 +8648,7 @@
       "broader": [
         "https://openactive.io/activity-list#b11ad9ab-e737-4342-9033-7ca4398d4a3a"
       ],
+      "definition": "Wheelchair dancing is a partner dance where at least one of the dancers is in a wheelchair. The physical benefits of wheelchair dancing include the maintenance of physical balance, flexibility, range of motion, coordination and improved respiratory control.",
       "notation": "wheelchair_ballroom_dancing"
     },
     {
@@ -8579,6 +8692,7 @@
       "broader": [
         "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c"
       ],
+      "definition": "Wheelchair Football is a fast-paced sport that is best played when athletes are in maximum physical condition, and at the top of their game in teamwork, strategy and wheelchair-handling skills, for both manual wheelchair and power wheelchair users",
       "notation": "wheelchair_football"
     },
     {
@@ -8598,6 +8712,7 @@
       "broader": [
         "https://openactive.io/activity-list#f2ea7405-6098-4378-b0fe-4e398a659fc4"
       ],
+      "definition": "Wheelchair tennis is one of the forms of tennis adapted for wheelchair users. The size of the court, net height and rackets are the same, but there are two major differences from pedestrian tennis: athletes use specially designed wheelchairs, and the ball may bounce up to two times, where the second bounce may also occur outside the court",
       "notation": "wheelchair_tennis"
     },
     {
@@ -8630,6 +8745,7 @@
       "broader": [
         "https://openactive.io/activity-list#f508fd6d-26ea-4004-b489-6ae1fadb14e4"
       ],
+      "definition": "This is the activity of being moved quickly in a raft (= small boat filled with air) along rivers where the current is very strong",
       "notation": "wild_water_rafting"
     },
     {
@@ -8649,6 +8765,7 @@
       "broader": [
         "https://openactive.io/activity-list#faccd7f9-982d-43cc-acd7-cf45964eeabd"
       ],
+      "definition": "A WorldJumping trampoline consists of a closed steel octagonal frame supported by eight legs at the bottom. A removable and height adjustable handrail can be attached at the front. The jumping mat is fitted to the frame with a custom made rubber belt. The trampoline is 120 cm wide in diameter, while its total weight does not exceed 10 kg.",
       "notation": "world_jumping"
     },
     {
@@ -8668,6 +8785,7 @@
       "broader": [
         "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
       ],
+      "definition": "The name of the martial art \"wushu\" derives from the Beijing dialect of Chinese, where it was formed by combining the words for \"martial\" or \"military\" (\"wǔ\") and \"art\" (\"shù\")",
       "notation": "wushu"
     },
     {
@@ -8678,6 +8796,7 @@
       "broader": [
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ],
+      "definition": "Yin Yoga is slow-paced style of yoga as exercise, incorporating principles of traditional Chinese medicine, with asanas (postures) that are held for longer periods of time than in other styles. Advanced practitioners may stay in one asana for five minutes or more. The sequences of postures are meant to stimulate the channels of the subtle body known as meridians in Chinese medicine and as nadis in Hatha yoga.",
       "notation": "yin_yoga"
     },
     {
@@ -8690,31 +8809,31 @@
       ],
       "narrower": [
         "https://openactive.io/activity-list#90611f8f-fea2-402e-827f-41b487a5f3a0",
-        "https://openactive.io/activity-list#949ea0e2-8bc1-4740-9bb7-c6d266669df4",
         "https://openactive.io/activity-list#f50df69c-8910-4a8a-8285-416340c4ada2",
         "https://openactive.io/activity-list#c5e5beaf-0af7-4f43-a28f-6f4ef0e6da92",
-        "https://openactive.io/activity-list#304ffd59-4389-4c7b-bcab-90f9dad8aaf5",
+        "https://openactive.io/activity-list#df58ee70-fa79-423f-b146-4d719b3e7aac",
         "https://openactive.io/activity-list#48382419-4875-4f63-b044-88d2fc4e8eab",
         "https://openactive.io/activity-list#72ab185f-cd57-44da-a310-753fd2646d40",
         "https://openactive.io/activity-list#1a8e23f3-5e12-411f-99fc-a4fe98010f7d",
-        "https://openactive.io/activity-list#06178c28-8f7f-4cb2-8975-f6694dc105d0",
+        "https://openactive.io/activity-list#bde70671-929f-4167-9181-4c3a2758fd67",
+        "https://openactive.io/activity-list#949ea0e2-8bc1-4740-9bb7-c6d266669df4",
+        "https://openactive.io/activity-list#304ffd59-4389-4c7b-bcab-90f9dad8aaf5",
         "https://openactive.io/activity-list#df35a8bf-3083-47ff-9611-a085bebe6394",
         "https://openactive.io/activity-list#cf65bc7a-2e8e-4a75-852c-518c30bff3a8",
         "https://openactive.io/activity-list#2fda7187-d1a4-4273-b784-06f062c0ffcd",
-        "https://openactive.io/activity-list#56e4a0e9-0b99-4e7e-aab7-137b4712a041",
+        "https://openactive.io/activity-list#38ac6e05-5b54-4d59-a27d-d8cba6de28d3",
         "https://openactive.io/activity-list#675f5977-68a3-433a-9bb5-20278bd94e0c",
         "https://openactive.io/activity-list#47ab2b4b-1217-4330-a9bc-0921083610b8",
         "https://openactive.io/activity-list#431d5bfd-7ffc-4324-bc69-1c039c7008e1",
         "https://openactive.io/activity-list#b8a5bacc-3bd5-407f-81a3-c6dbb3561e57",
         "https://openactive.io/activity-list#2a37deaf-01b2-42f8-b961-2b1174ca9054",
-        "https://openactive.io/activity-list#bde70671-929f-4167-9181-4c3a2758fd67",
-        "https://openactive.io/activity-list#1b7d6a89-1f6b-4e3d-89c9-c32fc539a7dd",
+        "https://openactive.io/activity-list#56e4a0e9-0b99-4e7e-aab7-137b4712a041",
+        "https://openactive.io/activity-list#06178c28-8f7f-4cb2-8975-f6694dc105d0",
         "https://openactive.io/activity-list#f582e0e9-459b-4425-b8c7-e7f03e4d92fb",
-        "https://openactive.io/activity-list#38ac6e05-5b54-4d59-a27d-d8cba6de28d3",
-        "https://openactive.io/activity-list#b6402e8e-e405-4b97-8c76-4868324bc907",
         "https://openactive.io/activity-list#e94cfd93-802d-49d9-8f47-190a385ade1c",
+        "https://openactive.io/activity-list#1b7d6a89-1f6b-4e3d-89c9-c32fc539a7dd",
+        "https://openactive.io/activity-list#b6402e8e-e405-4b97-8c76-4868324bc907",
         "https://openactive.io/activity-list#637bfbba-5253-453d-9dc3-59049efbabee",
-        "https://openactive.io/activity-list#df58ee70-fa79-423f-b146-4d719b3e7aac",
         "https://openactive.io/activity-list#bc75bf5e-6023-4601-a159-ddd5e1ec554a",
         "https://openactive.io/activity-list#152c958c-38bf-49a3-87f0-ae83a454f70e",
         "https://openactive.io/activity-list#e3394d62-1c4c-4318-a500-100d05416a1a",
@@ -8735,6 +8854,7 @@
       "broader": [
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ],
+      "definition": "Yoga nidra or yogic sleep in modern usage is a state of consciousness between waking and sleeping, typically induced by a guided meditation.",
       "notation": "yoga_nidra"
     },
     {
@@ -8743,9 +8863,10 @@
       "type": "Concept",
       "prefLabel": "Yoga Rave",
       "broader": [
-        "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e",
-        "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
+        "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764",
+        "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ],
+      "definition": "Rave Yoga is the type of yoga that blends music and yoga to create a supercharged party atmosphere. Whether it's cheesy hits, the Top 40 or something more mellow, you'll be sharing your love of music with fellow yogis. Most Rave Yoga classes practice vinyasa flow, while some also offer chanting and meditating.",
       "notation": "yoga_rave"
     },
     {
@@ -8756,6 +8877,7 @@
       "broader": [
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ],
+      "definition": "Yogalates is a beautiful combination of the gentle stretch of yoga with its asanas and mindfulness and the core-building strength and posture awareness of Pilates. Yogalates is quite simply the perfect East meets West fitness class which has the benefits of both Yoga and Pilates. You will leave feeling energised, calm and stretched in all the right places!",
       "notation": "yogalates"
     },
     {
@@ -8766,6 +8888,7 @@
       "broader": [
         "https://openactive.io/activity-list#78503fa2-ed24-4a80-a224-e2e94581d8a8"
       ],
+      "definition": "With the use of glow sticks and lighting effects it is a fusion of Latin dance and easy to follow moves. With a combination of fast and slow rhythms it is excellent for weight loss and coordination whilst toning your entire body. It boosts your heart health and helps you de-stress.",
       "notation": "zumba_glow"
     },
     {
@@ -8776,6 +8899,7 @@
       "broader": [
         "https://openactive.io/activity-list#78503fa2-ed24-4a80-a224-e2e94581d8a8"
       ],
+      "definition": "Zumba Sentao® combines strength and resistance training with innovative dance moves, using a chair as your dance partner. A high intensity workout that focuses on defining your muscles, improving overall cardiovascular health and burning major calories in the process",
       "notation": "zumba_sentao"
     },
     {
@@ -8784,9 +8908,10 @@
       "type": "Concept",
       "prefLabel": "Zumba Strong®",
       "broader": [
-        "https://openactive.io/activity-list#78503fa2-ed24-4a80-a224-e2e94581d8a8",
-        "https://openactive.io/activity-list#261395e5-9e11-4348-8bef-e0fafef0e765"
+        "https://openactive.io/activity-list#261395e5-9e11-4348-8bef-e0fafef0e765",
+        "https://openactive.io/activity-list#78503fa2-ed24-4a80-a224-e2e94581d8a8"
       ],
+      "definition": "STRONG by Zumba is a high-intensity cardio program with a focus on bodyweight and plyometric exercises",
       "notation": "zumba_strong"
     },
     {
@@ -8798,17 +8923,18 @@
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
       "narrower": [
-        "https://openactive.io/activity-list#f1ef142d-7607-46e5-9406-5e12ae0c00a7",
-        "https://openactive.io/activity-list#de8cb1f4-176a-4744-9978-ae23a0089b64",
-        "https://openactive.io/activity-list#54706d22-5a4b-4298-97d3-8b19be20d47a",
         "https://openactive.io/activity-list#21ab8610-1377-4308-939c-bfeb966f1b05",
-        "https://openactive.io/activity-list#7d5a96a4-3539-4b76-a116-6fa05edb77f1",
-        "https://openactive.io/activity-list#bfe10990-df14-4252-8e96-296051478db7",
+        "https://openactive.io/activity-list#de8cb1f4-176a-4744-9978-ae23a0089b64",
         "https://openactive.io/activity-list#7f4fffb6-f136-46e0-9fac-7142567b41b5",
+        "https://openactive.io/activity-list#7d5a96a4-3539-4b76-a116-6fa05edb77f1",
         "https://openactive.io/activity-list#377ea9ea-656f-4d7f-8cba-034e30572c72",
-        "https://openactive.io/activity-list#38ed9492-6530-47f6-9021-1a584721275d",
-        "https://openactive.io/activity-list#3f81af32-414a-4d05-a7a8-dbe4375aefa8"
+        "https://openactive.io/activity-list#3f81af32-414a-4d05-a7a8-dbe4375aefa8",
+        "https://openactive.io/activity-list#bfe10990-df14-4252-8e96-296051478db7",
+        "https://openactive.io/activity-list#f1ef142d-7607-46e5-9406-5e12ae0c00a7",
+        "https://openactive.io/activity-list#54706d22-5a4b-4298-97d3-8b19be20d47a",
+        "https://openactive.io/activity-list#38ed9492-6530-47f6-9021-1a584721275d"
       ],
+      "definition": "This is an aerobic fitness programme featuring movements inspired by various styles of Latin American dance and performed primarily to Latin American dance music.",
       "notation": "zumba"
     },
     {
@@ -8852,6 +8978,7 @@
       "broader": [
         "https://openactive.io/activity-list#78503fa2-ed24-4a80-a224-e2e94581d8a8"
       ],
+      "definition": "Zumba® Kids, Jr classes are rockin', high-energy dance parties packed with kid-friendly routines. We break down steps, add games, activities and cultural exploration elements into the class structure. Benefits. Helps develop a healthy lifestyle and incorporate fitness as a natural part of children's lives",
       "notation": "zumba_kids_jr"
     },
     {
@@ -8863,6 +8990,7 @@
         "https://openactive.io/activity-list#01e547fd-2a10-40a4-a297-6d827c10529c",
         "https://openactive.io/activity-list#78503fa2-ed24-4a80-a224-e2e94581d8a8"
       ],
+      "definition": "Zumba® Step combines the awesome toning and strengthening power of Step aerobics, with the fun fitness-party that only Zumba® brings to the dance-floor. Zumba® Step increase cardio and calorie burning, while adding moves that define and sculpt your core and legs",
       "notation": "zumba_step"
     },
     {
@@ -8873,6 +9001,7 @@
       "broader": [
         "https://openactive.io/activity-list#78503fa2-ed24-4a80-a224-e2e94581d8a8"
       ],
+      "definition": "Zumba Toning does follow the same party-inspired principles of an original Zumba class, but with a little added resistance to help tone and sculpt the body. In a Zumba Toning class you'll use very lightweight maraca-style shaker hand weights called Zumba toning sticks",
       "notation": "zumba_toning"
     },
     {
@@ -8883,6 +9012,7 @@
       "broader": [
         "https://openactive.io/activity-list#78503fa2-ed24-4a80-a224-e2e94581d8a8"
       ],
+      "definition": "Created in partnership with Zumba and BabyFirst, Zumbini is a unique, effective, and fun early childhood education programme that uses the power of music and movement to promote cognitive, social, emotional and motor skill development for children aged zero to five, all while promoting a strong bond between parent and child",
       "notation": "zumbini"
     }
   ]

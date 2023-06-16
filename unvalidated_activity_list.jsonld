@@ -245,6 +245,7 @@
       "broader": [
         "https://openactive.io/activity-list#36359d6f-33ab-44c3-80c0-4076b57c9fed"
       ],
+      "definition": "An air gun or airgun is a gun that fires projectiles using energy from compressed air or other gases that are mechanically pressurised.",
       "notation": "air"
     },
     {
@@ -7045,12 +7046,12 @@
       "prefLabel": "Shooting",
       "narrower": [
         "https://openactive.io/activity-list#b9f1a766-fdb8-4bb4-9a9d-b86317b20819",
-        "https://openactive.io/activity-list#f1d9b809-d7fd-4c9b-9e16-c9b090377521",
         "https://openactive.io/activity-list#a653dcda-a3b4-4a68-9d00-87b0b4335c66",
         "https://openactive.io/activity-list#0a9e77ca-ef73-4221-abd9-c3d1485d6ec6",
         "https://openactive.io/activity-list#b4eeb751-9e31-4308-9296-1c7965fbef40",
         "https://openactive.io/activity-list#c62b4571-d717-47a8-978a-453a175e049e",
         "https://openactive.io/activity-list#d1bee9bf-b637-4e7a-bb73-1425047744fe",
+        "https://openactive.io/activity-list#f1d9b809-d7fd-4c9b-9e16-c9b090377521",
         "https://openactive.io/activity-list#3c6a077b-da02-4519-aa87-b2a114669f56",
         "https://openactive.io/activity-list#0b8c608c-168c-41b2-82de-88c198373154",
         "https://openactive.io/activity-list#1f6438b9-d1da-46b3-aa6d-3cd140391567",

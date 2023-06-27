@@ -3574,6 +3574,14 @@
       "topConceptOf": "https://openactive.io/activity-list"
     },
     {
+      "id": "https://openactive.io/activity-list#808e1337-0ab2-4db3-b269-0ee3565c3ac9",
+      "identifier": "808e1337-0ab2-4db3-b269-0ee3565c3ac9",
+      "type": "Concept",
+      "prefLabel": "General Fitness for Older Adults",
+      "definition": "This is moderate and general fitness for adults in later years who want to exercise, keep fit, improve flexibility, aerobic health, balance and strength. These exercises can be done either seated or standing up.",
+      "notation": "general_fitness_for_older_adults"
+    },
+    {
       "id": "https://openactive.io/activity-list#05ac6c7c-1479-43cc-9985-4119f1d8fce0",
       "identifier": "05ac6c7c-1479-43cc-9985-4119f1d8fce0",
       "type": "Concept",

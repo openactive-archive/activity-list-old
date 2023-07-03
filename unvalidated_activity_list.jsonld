@@ -358,6 +358,8 @@
         "https://openactive.io/activity-list#82057527-8288-4faa-bc2e-11aa734f61f1"
       ],
       "narrower": [
+        "https://openactive.io/activity-list#07242c21-fcc5-4853-8fe8-2467f1e43ff8",
+        "https://openactive.io/activity-list#6102c1ac-7f9b-4358-87d5-ace44088b2ff",
         "https://openactive.io/activity-list#c94a2240-0c3b-4478-bda7-1c0cea162367",
         "https://openactive.io/activity-list#1646bc29-dda3-4a97-a2ad-48c21bce8bb5",
         "https://openactive.io/activity-list#9a4ecdc3-5f70-48e8-9718-8542db315230",
@@ -466,6 +468,17 @@
       ],
       "definition": "A type of physical exercise practiced in water mostly vertically and without swimming, typically in a swimming pool in waist deep or deeper water",
       "notation": "aquacise"
+    },
+    {
+      "id": "https://openactive.io/activity-list#07242c21-fcc5-4853-8fe8-2467f1e43ff8",
+      "identifier": "07242c21-fcc5-4853-8fe8-2467f1e43ff8",
+      "type": "Concept",
+      "prefLabel": "Aquanatal",
+      "broader": [
+        "https://openactive.io/activity-list#6e31262b-ce37-4fc7-b3e3-d827ac5e8b42"
+      ],
+      "definition": "Aquanatal is a great way to get active and feel great throughout your pregnancy.  The classes are specifically designed for pregnant women from 12 weeks to full term and beyond! Classes focus on a programme of exercises, which aim to build your stamina through cardio and muscle strengthening routines.  Classes take place in a small, intimate pool which is always beautifully warm. ",
+      "notation": "aquanatal"
     },
     {
       "id": "https://openactive.io/activity-list#9fee9fb7-9279-4b79-806e-0dc78782e308",
@@ -3579,7 +3592,8 @@
       "type": "Concept",
       "prefLabel": "General Fitness for Older Adults",
       "definition": "This is moderate and general fitness for adults in later years who want to exercise, keep fit, improve flexibility, aerobic health, balance and strength. These exercises can be done either seated or standing up.",
-      "notation": "general_fitness_for_older_adults"
+      "notation": "general_fitness_for_older_adults",
+      "topConceptOf": "https://openactive.io/activity-list"
     },
     {
       "id": "https://openactive.io/activity-list#05ac6c7c-1479-43cc-9985-4119f1d8fce0",
@@ -6117,6 +6131,17 @@
       ],
       "definition": "Popping is a funk dance and street dance style based on the technique of quickly contracting and relaxing muscles to cause a jerk in the dancer's body, referred to as a pop or a hit. This is done continuously to the rhythm of a song in combination with various movements and poses.",
       "notation": "popping"
+    },
+    {
+      "id": "https://openactive.io/activity-list#6102c1ac-7f9b-4358-87d5-ace44088b2ff",
+      "identifier": "6102c1ac-7f9b-4358-87d5-ace44088b2ff",
+      "type": "Concept",
+      "prefLabel": "Postnatal Aqua",
+      "broader": [
+        "https://openactive.io/activity-list#6e31262b-ce37-4fc7-b3e3-d827ac5e8b42"
+      ],
+      "definition": "Get active and feel great– a dedicated aqua-based fitness class designed for new mums returning to exercise following the birth of your baby. The class combines cardio, strengthening, stretching and relaxation exercises to give you a full body workout. The water helps to cushion all your joints so you can experience a gentle return to exercise.",
+      "notation": "postnatal_aqua"
     },
     {
       "id": "https://openactive.io/activity-list#89f3254e-0d8b-4d43-9dc3-ddbd0d5ddfea",

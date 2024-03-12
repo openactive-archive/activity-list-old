@@ -437,6 +437,17 @@
       "notation": "aqua_jogging"
     },
     {
+      "id": "https://openactive.io/activity-list#f9561840-a117-40cc-b7f8-52a7df9d5e83",
+      "identifier": "f9561840-a117-40cc-b7f8-52a7df9d5e83",
+      "type": "Concept",
+      "prefLabel": "Aqua Park",
+      "broader": [
+        "https://openactive.io/activity-list#2750229d-b725-4171-9276-376be913957c"
+      ],
+      "definition": "A water based activity in which participants navigate a series of giant, inflatable obstacles on water.",
+      "notation": "aqua_park"
+    },
+    {
       "id": "https://openactive.io/activity-list#1646bc29-dda3-4a97-a2ad-48c21bce8bb5",
       "identifier": "1646bc29-dda3-4a97-a2ad-48c21bce8bb5",
       "type": "Concept",
@@ -600,6 +611,17 @@
       "definition": "This is a contact sport played between two teams of 18 players on an oval field, often a modified cricket ground. Points are scored by kicking the oval ball between the central goal posts (worth six points), or between a central and outer post (worth one point, otherwise known as a \"behind\")",
       "notation": "australian_rules_football",
       "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
+      "id": "https://openactive.io/activity-list#3db9957a-22b0-4ec5-94a6-672a6ad972cd",
+      "identifier": "3db9957a-22b0-4ec5-94a6-672a6ad972cd",
+      "type": "Concept",
+      "prefLabel": "Axe Throwing",
+      "broader": [
+        "https://openactive.io/activity-list#533f022a-3e3e-400c-ac06-1cf28f3dfaaf"
+      ],
+      "definition": "Throwing an axe at a target, attempting to hit the bullseye as near as possible.",
+      "notation": "axe_throwing"
     },
     {
       "id": "https://openactive.io/activity-list#ed8ad685-cd60-41d1-acd9-68a11f0f3c7b",
@@ -1495,6 +1517,7 @@
         "https://openactive.io/activity-list#d0796a7e-9ed9-4b45-921d-6b0a20780c27",
         "https://openactive.io/activity-list#e2d7a898-09a9-4342-8ea8-0446936682bf",
         "https://openactive.io/activity-list#7e3d7efd-d2da-4d42-86e6-4466a3062ceb",
+        "https://openactive.io/activity-list#e759300c-0794-4362-9fdd-85a725504217",
         "https://openactive.io/activity-list#5574585d-3f21-493c-8860-54077f7e9bb2"
       ],
       "definition": "Played outdoors on a flat square of grass, or indoors on an artificial surface, bowls involves throwing/rolling a ball to end up as close to a target as possible.",
@@ -1769,6 +1792,21 @@
       "definition": "Camping is an outdoor activity that involves staying the night/more than one night in a protective shelter out in nature.",
       "notation": "camping",
       "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
+      "id": "https://openactive.io/activity-list#6f1e35d6-e09b-46a2-9290-5db7d32bfbb0",
+      "identifier": "6f1e35d6-e09b-46a2-9290-5db7d32bfbb0",
+      "type": "Concept",
+      "prefLabel": "Canal and River Walking",
+      "broader": [
+        "https://openactive.io/activity-list#95092977-5a20-4d6e-b312-8fddabe71544"
+      ],
+      "definition": "Walking along paths which follow canals or rivers.",
+      "notation": "canal_and_river_walking",
+      "altLabel": [
+        "Canal Walking",
+        "River Walking"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#a893d5cb-d9a3-4153-bfd7-2546c3aa7faa",
@@ -2562,6 +2600,7 @@
       "type": "Concept",
       "prefLabel": "Dance",
       "narrower": [
+        "https://openactive.io/activity-list#e3334ebc-7568-48fa-8c93-151626101e5b",
         "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469",
         "https://openactive.io/activity-list#481b8c41-ee0b-4665-8e15-c970c1f55ec8",
         "https://openactive.io/activity-list#7cc3c73b-0756-4646-afbc-20f34f15f9ae",
@@ -2927,6 +2966,18 @@
       "notation": "dru_yoga"
     },
     {
+      "id": "https://openactive.io/activity-list#7d309e76-d794-4f40-8fb0-b4a43e13562e",
+      "identifier": "7d309e76-d794-4f40-8fb0-b4a43e13562e",
+      "type": "Concept",
+      "prefLabel": "Drumming",
+      "narrower": [
+        "https://openactive.io/activity-list#7c9f61fd-20f9-45dc-a0cc-6a5d4546afc4"
+      ],
+      "definition": "The action of playing the drums.",
+      "notation": "drumming",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#d5b07b1e-d5a7-4bdf-80cf-abce650cc671",
       "identifier": "d5b07b1e-d5a7-4bdf-80cf-abce650cc671",
       "type": "Concept",
@@ -3086,6 +3137,20 @@
       ],
       "definition": "FABS CLASS is ideal for participants that wish to keep mobile into older age. Chair based exercises. The FABS Training Programme has been developed by Move it or Lose it, collaborating partners with the Centre for Healthy Ageing Research at University of Birmingham.",
       "notation": "fabs"
+    },
+    {
+      "id": "https://openactive.io/activity-list#35f999ac-8ed5-46fa-87d0-1c7721aca77e",
+      "identifier": "35f999ac-8ed5-46fa-87d0-1c7721aca77e",
+      "type": "Concept",
+      "prefLabel": "Falls and Exercise Management",
+      "broader": [
+        "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
+      ],
+      "definition": "Structured exercise programme aiming to prevent or reduce falls.",
+      "notation": "falls_and_exercise_management",
+      "altLabel": [
+        "FaME"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#e25ca06f-937b-4fb3-8783-4dd32ab8f6c2",
@@ -3713,6 +3778,8 @@
         "https://openactive.io/activity-list#9ed1c7b0-46ad-465b-9697-036791e41abf",
         "https://openactive.io/activity-list#9518746d-17e6-4ec4-9559-73c8d0fcb266",
         "https://openactive.io/activity-list#97d38fa5-70bd-4c69-acc9-e08c885aab7b",
+        "https://openactive.io/activity-list#35f999ac-8ed5-46fa-87d0-1c7721aca77e",
+        "https://openactive.io/activity-list#22368ce1-56d0-4ce9-ad45-bbb7e89ebb00",
         "https://openactive.io/activity-list#72871f24-fdcd-4a88-9400-9cb08b911e70",
         "https://openactive.io/activity-list#5f4e5193-b074-4a64-b1a6-0ddc98d08331",
         "https://openactive.io/activity-list#1bdf3fac-9d6b-401b-a773-87a9a1c86ed1",
@@ -3757,11 +3824,15 @@
         "https://openactive.io/activity-list#7a72e0e1-73ab-488e-872c-33e825360ddb",
         "https://openactive.io/activity-list#0c2a1e6b-4b02-4b8a-ae6d-59f225ff5341",
         "https://openactive.io/activity-list#faccd7f9-982d-43cc-acd7-cf45964eeabd",
-        "https://openactive.io/activity-list#261395e5-9e11-4348-8bef-e0fafef0e765"
+        "https://openactive.io/activity-list#261395e5-9e11-4348-8bef-e0fafef0e765",
+        "https://openactive.io/activity-list#99363c95-ed8a-4fac-afd4-c55b138f0eba"
       ],
       "definition": "Group exercise is when you train with others for fitness or as a form of physical recreation for fun. Group exercise can be a fitness class such as a cardio or spin (stationary bicycles) class.",
       "notation": "group_exercise",
-      "topConceptOf": "https://openactive.io/activity-list"
+      "topConceptOf": "https://openactive.io/activity-list",
+      "altLabel": [
+        "Keep-Fit"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#08d9368c-6c6c-44a3-84ef-a42ed00d529a",
@@ -4224,6 +4295,17 @@
       ],
       "definition": "Inclusive Zone Basketball is an exciting introduction to wheelchair and running basketball that enables players with different abilities (for example, disabled and non-disabled players) to play together in the same team. This is achieved by dividing the traditional basketball court into zones",
       "notation": "inclusive_zone_basketball"
+    },
+    {
+      "id": "https://openactive.io/activity-list#e759300c-0794-4362-9fdd-85a725504217",
+      "identifier": "e759300c-0794-4362-9fdd-85a725504217",
+      "type": "Concept",
+      "prefLabel": "Indoor Bowls",
+      "broader": [
+        "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624"
+      ],
+      "definition": "Bowls which takes place indoors.",
+      "notation": "indoor_bowls"
     },
     {
       "id": "https://openactive.io/activity-list#5f09c2ca-ceeb-4e0c-871f-e2d0b9971317",
@@ -4737,6 +4819,17 @@
       "notation": "knee_boarding"
     },
     {
+      "id": "https://openactive.io/activity-list#912b1b61-c800-4212-b255-04f475de2827",
+      "identifier": "912b1b61-c800-4212-b255-04f475de2827",
+      "type": "Concept",
+      "prefLabel": "Knife Throwing",
+      "broader": [
+        "https://openactive.io/activity-list#533f022a-3e3e-400c-ac06-1cf28f3dfaaf"
+      ],
+      "definition": "Throwing a knife at a target, attempting to hit the bullseye as near as possible.",
+      "notation": "knife_throwing"
+    },
+    {
       "id": "https://openactive.io/activity-list#657aa7cf-d879-498d-93c2-f762ffaac5e9",
       "identifier": "657aa7cf-d879-498d-93c2-f762ffaac5e9",
       "type": "Concept",
@@ -4891,6 +4984,17 @@
       ],
       "definition": "Latin dancing consists of five dances: the Rumba, Cha Cha, Samba, Paso Doble' and the Jive.",
       "notation": "latin"
+    },
+    {
+      "id": "https://openactive.io/activity-list#0aa8f5dd-c726-43bf-9921-494521d02ee5",
+      "identifier": "0aa8f5dd-c726-43bf-9921-494521d02ee5",
+      "type": "Concept",
+      "prefLabel": "Laughter Yoga",
+      "broader": [
+        "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
+      ],
+      "definition": "A form of yoga which uses exercises designed to make people laugh.",
+      "notation": "laughter_yoga"
     },
     {
       "id": "https://openactive.io/activity-list#e3f7b1de-71f1-4e2c-aa41-9ca109f563ca",
@@ -5871,7 +5975,10 @@
         "https://openactive.io/activity-list#b6402e8e-e405-4b97-8c76-4868324bc907",
         "https://openactive.io/activity-list#0771fcb2-b5f7-4247-8d54-90648c839d46",
         "https://openactive.io/activity-list#675f5977-68a3-433a-9bb5-20278bd94e0c",
-        "https://openactive.io/activity-list#1c67c00e-2c05-49c7-b400-f2731abd8fe5"
+        "https://openactive.io/activity-list#1c67c00e-2c05-49c7-b400-f2731abd8fe5",
+        "https://openactive.io/activity-list#2a6fbcf8-e180-4213-844d-2ea17ce519e9",
+        "https://openactive.io/activity-list#53313edb-f20a-43a9-adee-a1bcf9055cfc",
+        "https://openactive.io/activity-list#ced88c35-a39f-4b1c-9d94-093ee4fc0e7e"
       ],
       "definition": "Pilates improves flexibility, builds strength and develops control and endurance in the body.",
       "notation": "pilates"
@@ -6142,6 +6249,20 @@
       ],
       "definition": "Get active and feel great– a dedicated aqua-based fitness class designed for new mums returning to exercise following the birth of your baby. The class combines cardio, strengthening, stretching and relaxation exercises to give you a full body workout. The water helps to cushion all your joints so you can experience a gentle return to exercise.",
       "notation": "postnatal_aqua"
+    },
+    {
+      "id": "https://openactive.io/activity-list#22368ce1-56d0-4ce9-ad45-bbb7e89ebb00",
+      "identifier": "22368ce1-56d0-4ce9-ad45-bbb7e89ebb00",
+      "type": "Concept",
+      "prefLabel": "Postural Stability Instruction",
+      "broader": [
+        "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
+      ],
+      "definition": "Structured exercise programme which aims to prevent or reduce falls.",
+      "notation": "postural_stability_instruction",
+      "altLabel": [
+        "PSI"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#89f3254e-0d8b-4d43-9dc3-ddbd0d5ddfea",
@@ -6459,6 +6580,31 @@
       ],
       "definition": "People can ride bicycles recreationally in a variety of ways. Some people join a cycling or touring club when they wish to ride recreationally. These clubs organise group rides between various points, and members can ride with other cyclists.",
       "notation": "recreational_cycling"
+    },
+    {
+      "id": "https://openactive.io/activity-list#2a6fbcf8-e180-4213-844d-2ea17ce519e9",
+      "identifier": "2a6fbcf8-e180-4213-844d-2ea17ce519e9",
+      "type": "Concept",
+      "prefLabel": "Reformer Pilates",
+      "broader": [
+        "https://openactive.io/activity-list#3a6b1c08-7aa6-48d4-9690-dca9e0133057"
+      ],
+      "definition": "A form of pilates which uses a machine consisting of a frame, platform and a set of springs which provide resistance.",
+      "notation": "reformer_pilates"
+    },
+    {
+      "id": "https://openactive.io/activity-list#ced88c35-a39f-4b1c-9d94-093ee4fc0e7e",
+      "identifier": "ced88c35-a39f-4b1c-9d94-093ee4fc0e7e",
+      "type": "Concept",
+      "prefLabel": "Rehab Pilates",
+      "broader": [
+        "https://openactive.io/activity-list#3a6b1c08-7aa6-48d4-9690-dca9e0133057"
+      ],
+      "definition": "A form of pilates which uses exercises to help in recovery from injury or surgery.",
+      "notation": "rehab_pilates",
+      "altLabel": [
+        "Rehabilitation Pilates"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#9770bdb2-ebb0-4208-8477-137011a8bdf8",
@@ -7042,6 +7188,17 @@
       "notation": "sh1ft"
     },
     {
+      "id": "https://openactive.io/activity-list#7c9f61fd-20f9-45dc-a0cc-6a5d4546afc4",
+      "identifier": "7c9f61fd-20f9-45dc-a0cc-6a5d4546afc4",
+      "type": "Concept",
+      "prefLabel": "Shamanic Drumming",
+      "broader": [
+        "https://openactive.io/activity-list#7d309e76-d794-4f40-8fb0-b4a43e13562e"
+      ],
+      "definition": "A technique or style of drumming which uses a repetitive rhythm to induce a spiritual state.",
+      "notation": "shamanic_drumming"
+    },
+    {
       "id": "https://openactive.io/activity-list#a58a4e1b-ee15-437a-9d7e-de201b3daaf7",
       "identifier": "a58a4e1b-ee15-437a-9d7e-de201b3daaf7",
       "type": "Concept",
@@ -7367,7 +7524,10 @@
       "prefLabel": "Soft Play",
       "definition": "An activity for children that involves playing in a specially designed area with soft surfaces and equipment.",
       "notation": "soft_play",
-      "topConceptOf": "https://openactive.io/activity-list"
+      "topConceptOf": "https://openactive.io/activity-list",
+      "altLabel": [
+        "Tumble Tots"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#ec1475e3-6ae4-4187-a492-8f821fbc2faa",
@@ -7474,6 +7634,17 @@
       ],
       "definition": "spinning’ is a high-intensity exercise on a stationary bike. It combines cardio and endurance in a 45-minute calorie-crunching session! Not only is it great for giving you all the cardiovascular gains, but it’s great at toning muscles to make you super strong.",
       "notation": "spinning"
+    },
+    {
+      "id": "https://openactive.io/activity-list#53313edb-f20a-43a9-adee-a1bcf9055cfc",
+      "identifier": "53313edb-f20a-43a9-adee-a1bcf9055cfc",
+      "type": "Concept",
+      "prefLabel": "Springboard Pilates",
+      "broader": [
+        "https://openactive.io/activity-list#3a6b1c08-7aa6-48d4-9690-dca9e0133057"
+      ],
+      "definition": "A form of pilates which uses a wooden board with springs, straps and handles.",
+      "notation": "springboard_pilates"
     },
     {
       "id": "https://openactive.io/activity-list#4dcf7963-c089-4e9c-995e-8735b3ffc2d7",
@@ -7691,6 +7862,17 @@
       "notation": "street_step"
     },
     {
+      "id": "https://openactive.io/activity-list#99363c95-ed8a-4fac-afd4-c55b138f0eba",
+      "identifier": "99363c95-ed8a-4fac-afd4-c55b138f0eba",
+      "type": "Concept",
+      "prefLabel": "Strength and Conditioning",
+      "broader": [
+        "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
+      ],
+      "definition": "Exercises designed to improve physical performance.",
+      "notation": "strength_and_conditioning"
+    },
+    {
       "id": "https://openactive.io/activity-list#ed91a872-e006-424d-9e94-a0d7bdec5df9",
       "identifier": "ed91a872-e006-424d-9e94-a0d7bdec5df9",
       "type": "Concept",
@@ -7792,6 +7974,7 @@
       "prefLabel": "Swimming",
       "narrower": [
         "https://openactive.io/activity-list#35bf3588-f547-482f-a6f2-3e42cbc9691e",
+        "https://openactive.io/activity-list#f9561840-a117-40cc-b7f8-52a7df9d5e83",
         "https://openactive.io/activity-list#2571c4c2-a3bd-4a53-b6f5-d3ae296968d6",
         "https://openactive.io/activity-list#66063501-0e05-4c45-8209-4291dfe875aa",
         "https://openactive.io/activity-list#dfaf6bb4-d2fe-4db5-a271-4ceeaaaf55b9",
@@ -8004,6 +8187,19 @@
       "notation": "target_shooting"
     },
     {
+      "id": "https://openactive.io/activity-list#533f022a-3e3e-400c-ac06-1cf28f3dfaaf",
+      "identifier": "533f022a-3e3e-400c-ac06-1cf28f3dfaaf",
+      "type": "Concept",
+      "prefLabel": "Target Throwing",
+      "narrower": [
+        "https://openactive.io/activity-list#3db9957a-22b0-4ec5-94a6-672a6ad972cd",
+        "https://openactive.io/activity-list#912b1b61-c800-4212-b255-04f475de2827"
+      ],
+      "definition": "Sports involving the action of throwing a pointed object at a target with the objective to for the point of the object to stick into the target as close to the bullseye as possible.",
+      "notation": "target_throwing",
+      "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
       "id": "https://openactive.io/activity-list#2042c328-e002-4055-81d3-9c07a7b2c2f4",
       "identifier": "2042c328-e002-4055-81d3-9c07a7b2c2f4",
       "type": "Concept",
@@ -8011,6 +8207,17 @@
       "definition": "Tchoukball is a fast and exciting sport that is typically played indoors however beach, grass and wheel chair versions are great alternatives",
       "notation": "tchoukball",
       "topConceptOf": "https://openactive.io/activity-list"
+    },
+    {
+      "id": "https://openactive.io/activity-list#e3334ebc-7568-48fa-8c93-151626101e5b",
+      "identifier": "e3334ebc-7568-48fa-8c93-151626101e5b",
+      "type": "Concept",
+      "prefLabel": "Tea Dance",
+      "broader": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ],
+      "definition": "A social event where people meet to dance to music from different eras and have tea. ",
+      "notation": "tea_dance"
     },
     {
       "id": "https://openactive.io/activity-list#1caf9e44-b0b0-43ed-82e3-066f45637d07",
@@ -8451,7 +8658,8 @@
         "https://openactive.io/activity-list#428391c1-a75a-49aa-b777-56a1c966cc37",
         "https://openactive.io/activity-list#e82ea1b1-2b4f-4269-a4f9-42190e502754",
         "https://openactive.io/activity-list#1f198adc-d97b-410e-b661-e439be962155",
-        "https://openactive.io/activity-list#26e6e5bb-b316-4e8f-9575-8036a002d0f1"
+        "https://openactive.io/activity-list#26e6e5bb-b316-4e8f-9575-8036a002d0f1",
+        "https://openactive.io/activity-list#6f1e35d6-e09b-46a2-9290-5db7d32bfbb0"
       ],
       "definition": "Walking is the easiest, most accessible, cost effective, and enjoyable way for most people to increase their physical activity.",
       "notation": "walking",
@@ -8868,6 +9076,7 @@
         "https://openactive.io/activity-list#1b7d6a89-1f6b-4e3d-89c9-c32fc539a7dd",
         "https://openactive.io/activity-list#b6402e8e-e405-4b97-8c76-4868324bc907",
         "https://openactive.io/activity-list#637bfbba-5253-453d-9dc3-59049efbabee",
+        "https://openactive.io/activity-list#0aa8f5dd-c726-43bf-9921-494521d02ee5",
         "https://openactive.io/activity-list#bc75bf5e-6023-4601-a159-ddd5e1ec554a",
         "https://openactive.io/activity-list#152c958c-38bf-49a3-87f0-ae83a454f70e",
         "https://openactive.io/activity-list#e3394d62-1c4c-4318-a500-100d05416a1a",

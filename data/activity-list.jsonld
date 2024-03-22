@@ -7,6 +7,17 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "concept": [
     {
+      "id": "https://openactive.io/activity-list#117e7f70-6c42-4b1f-a3bb-620b63ea2632",
+      "identifier": "117e7f70-6c42-4b1f-a3bb-620b63ea2632",
+      "type": "Concept",
+      "prefLabel": "11-a-side",
+      "broader": [
+        "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c"
+      ],
+      "definition": "The game of football made up of teams of 11 players",
+      "notation": "11_a_side"
+    },
+    {
       "id": "https://openactive.io/activity-list#a71d477f-7263-43d7-8d17-3d69bda8991b",
       "identifier": "a71d477f-7263-43d7-8d17-3d69bda8991b",
       "type": "Concept",
@@ -43,7 +54,7 @@
       "id": "https://openactive.io/activity-list#55e525a5-615a-4c3f-a889-9049c95c94cf",
       "identifier": "55e525a5-615a-4c3f-a889-9049c95c94cf",
       "type": "Concept",
-      "prefLabel": "7-a-side-2",
+      "prefLabel": "7-a-side",
       "broader": [
         "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba"
       ],
@@ -58,7 +69,7 @@
       "broader": [
         "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba"
       ],
-      "definition": "The game of football made up of teams of 8 players-2",
+      "definition": "The game of football made up of teams of 8 players",
       "notation": "8_a_side"
     },
     {

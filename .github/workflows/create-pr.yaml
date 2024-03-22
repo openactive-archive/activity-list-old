@@ -98,6 +98,7 @@ jobs:
 
       - name: Enable auto-merge for Dependabot PRs
         run: gh pr merge "$PR_URL" --auto --body "" --squash
+        working-directory: ./activity-list/
         env:
           PR_URL: ${{ steps.cpr.outputs.pull-request-url }}
           GITHUB_TOKEN: ${{secrets.PUBLIC_REPO_ACCESS_TOKEN}}

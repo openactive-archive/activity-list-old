@@ -1,0 +1,50 @@
+name: Validate activity-list.jsonld
+
+on:
+  pull_request:
+    branches: [ master, feature/improved-version-control ]
+  push:
+    branches: [ master ]
+
+jobs:
+  Validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Install Node.js 20.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.x'
+      - name: Install dependencies
+        run: npm install @openactive/skos ajv
+      - name: Validate activity-list.jsonld
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const Ajv = require('ajv');
+            const fs = require('fs');
+            const skos = require('@openactive/skos');
+
+            var schemafile = "./schema/activity-list.schema.json";
+            var rawfile = "./data/activity-list.jsonld";
+
+            let schema = JSON.parse(fs.readFileSync(schemafile));
+            let data = JSON.parse(fs.readFileSync(rawfile));
+
+            var ajv = new Ajv({ allErrors: 'true', verbose: 'true' });
+
+            var validate = ajv.compile(schema);
+            var is_valid = validate(data);
+
+            // Try to load into SKOS.js (will throw on failure)
+            var scheme = new skos.ConceptScheme(data);
+
+            if(is_valid){
+              console.log("activity-list.jsonld passed validation");
+            } else {
+              const errorMessage = "activity-list.jsonld failed validation"
+              console.log(`${errorMessage}\n=======\n`);
+              console.log(validate.errors);
+              throw new Error(errorMessage);
+            }

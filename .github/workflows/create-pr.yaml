@@ -1,0 +1,109 @@
+name: Create PR for latest Activity List and Collections
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [activity-list-update]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out this repository
+        uses: actions/checkout@v2
+        with:
+          ref: feature/improved-version-control
+          path: activity-list
+          fetch-depth: 0
+
+      - name: Download Zip File of latest activity list and collections from activity-list-editor.
+        run: |
+          mkdir -p downloads
+          wget -O downloads/openactive_concepts.zip https://oa-activity-list-staging-87b008e57ad8.herokuapp.com/en/openactive_concepts.zip
+
+      - name: Extract Zip File
+        run: |
+          mkdir -p activity-list-editor
+          unzip downloads/openactive_concepts.zip -d activity-list-editor
+
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Compare current activity list with activity list from activity-list-editor
+        id: compare
+        uses: openactive/skos-compare-action@main
+        with:
+          new_json_file: './activity-list-editor/activity-list.jsonld'
+          old_json_file: './activity-list/data/activity-list.jsonld'
+
+      # For security reasons, we only copy valid JSON-LD files to the next step
+      - name: Validate and Copy JSON-LD files
+        run: |
+          SOURCE_DIR="activity-list-editor"
+          DEST_DIR="activity-list/data"
+          find "$SOURCE_DIR" -name '*.jsonld' | while read file; do
+            if jq empty "$file" 2>/dev/null; then
+              echo "Valid JSON-LD: $file"
+              # Calculate the destination path
+              DEST_PATH="${DEST_DIR}/${file#$SOURCE_DIR/}"
+              # Create the destination directory if it doesn't exist
+              mkdir -p "$(dirname "$DEST_PATH")"
+              # Copy the file, preserving the directory structure
+              cp "$file" "$DEST_PATH"
+            else
+              echo "Invalid JSON-LD, skipping: $file"
+            fi
+          done
+
+      - name: Generate list of changed files in /data/collections/ directory
+        id: collections_changed
+        run: |
+          git diff --name-only -- ./data/collections/ | awk '{sub(/^data\/collections\//, ""); print "- " $0}' > ../changed_collections_files.txt
+          echo "::set-output name=changed_files::$(cat ../changed_collections_files.txt)"
+        working-directory: ./activity-list/
+
+      - name: Create Pull Request
+        if: ${{ steps.compare.outputs.changeDescription || steps.collections_changed.outputs.changed_files }}
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          path: ./activity-list/
+          token: ${{ secrets.PUBLIC_REPO_ACCESS_TOKEN }}
+          commit-message: Update activity list and collections
+          committer: openactive-bot <openactive-bot@users.noreply.github.com>
+          author: openactive-bot <openactive-bot@users.noreply.github.com>
+          signoff: false
+          branch: ci/update-activity-list
+          delete-branch: true
+          title: 'Update activity list and collections'
+          body: |
+            ${{ steps.compare.outputs.changeDescription && 'The following changes have been made to the OpenActive Activity List:' }}
+            ${{ steps.compare.outputs.changeDescription }}
+
+            ${{ steps.collections_changed.outputs.changed_files && 'The following OpenActive Collections have been updated:' }}
+            ${{ steps.collections_changed.outputs.changed_files }}
+          labels: |
+            automated pr
+          draft: false
+
+      - name: Auto-approve PR
+        uses: hmarr/auto-approve-action@v3
+        with:
+          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
+
+      - name: Enable auto-merge for Dependabot PRs
+        run: gh pr merge "$PR_URL" --auto --body "" --squash
+        working-directory: ./activity-list/
+        env:
+          PR_URL: ${{ steps.cpr.outputs.pull-request-url }}
+          GITHUB_TOKEN: ${{secrets.PUBLIC_REPO_ACCESS_TOKEN}}
+
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"

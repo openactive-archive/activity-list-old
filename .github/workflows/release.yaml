@@ -1,0 +1,70 @@
+name: Release
+
+on:
+  push:
+    branches: [ master, feature/improved-version-control ]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    if: "!contains(toJSON(github.event.commits.*.message), '[no-release]')"
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Get Current Time
+        id: timestamp
+        uses: nanzm/get-time-action@v2.0
+        with:
+          format: 'YYYY-MM-DD_HH-mm-ss'
+        
+      - name: Render PR body
+        id: fetch_pr
+        uses: actions/github-script@v7
+        with:
+          result-encoding: string
+          script: |
+            const { data: pulls } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed',
+              head: context.sha
+            });
+            const pr = pulls.find(pr => pr.merge_commit_sha === context.sha);
+            if (pr) {
+              return `${pr.body}\n\nAssociated PR: #${pr.number}`;
+            } else {
+              console.log('No associated PR found; skipping release creation.');
+              return '';
+            }
+
+      - name: Copy redirect index.html to data folder for deployment
+        if: ${{ steps.fetch_pr.outputs.result != '' }}
+        # .gitattributes is included in the /data/ directory of the gh-pages branch, so that index.html is not included in the release zip based on the same
+        run: |
+          cp ./gh-pages/index.html ./data/
+          cp ./gh-pages/.gitattributes ./data/
+ 
+      - name: Deploy to GitHub Pages
+        if: ${{ steps.fetch_pr.outputs.result != ''}}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./data
+          force_orphan: true
+          enable_jekyll: true
+
+      - name: Create Release
+        if: ${{ steps.fetch_pr.outputs.result != '' }}
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commitish: gh-pages
+          tag_name: v${{ steps.timestamp.outputs.time }}
+          release_name: Release v${{ steps.timestamp.outputs.time }}
+          body: ${{ steps.fetch_pr.outputs.result }}
+          draft: false
+          prerelease: false

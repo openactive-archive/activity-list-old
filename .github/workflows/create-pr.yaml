@@ -1,0 +1,84 @@
+name: Create PR for latest Activity List and Collections
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [activity-list-update]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out this repository
+        uses: actions/checkout@v2
+        with:
+          path: activity-list
+
+      - name: Download Zip File of latest activity list and collections from activity-list-editor.
+        run: |
+          mkdir -p downloads
+          wget -O downloads/openactive_concepts.zip https://oa-activity-list-staging-87b008e57ad8.herokuapp.com/en/openactive_concepts.zip
+
+      - name: Extract Zip File
+        run: |
+          mkdir -p activity-list-editor
+          unzip downloads/openactive_concepts.zip -d activity-list-editor
+
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Compare current activity list with activity list from activity-list-editor
+        id: compare
+        uses: openactive/skos-compare-action@main
+        with:
+          new_json_file: './activity-list-editor/activity-list.jsonld'
+          old_json_file: './activity-list/activity-list.jsonld'
+
+      # For security reasons, we only copy valid JSON-LD files to the next step
+      - name: Validate and Copy JSON-LD files
+        run: |
+          FILES=$(find activity-list-editor -name '*.jsonld')
+          for file in $FILES; do
+            if jq empty "$file" 2>/dev/null; then
+              echo "Valid JSON-LD: $file"
+              cp "$file" activity-list/
+            else
+              echo "Invalid JSON-LD, skipping: $file"
+            fi
+          done
+
+      - name: Generate list of changed files in /collections/ directory
+        id: files_changed
+        run: |
+          git diff --name-only origin/main...HEAD -- ./activity-list/collections/ > changed_collections_files.txt
+          echo "::set-output name=changed_files::$(cat changed_collections_files.txt | sed 's|activity-list/||')"
+        working-directory: ./activity-list/
+
+      - name: Create Pull Request
+        if: ${{ steps.compare.outputs.hasChanges }}
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          path: ./activity-list/
+          token: ${{ secrets.PUBLIC_REPO_ACCESS_TOKEN }}
+          commit-message: Update activity list and collections
+          committer: openactive-bot <openactive-bot@users.noreply.github.com>
+          author: openactive-bot <openactive-bot@users.noreply.github.com>
+          signoff: false
+          branch: ci/update-activity-list
+          delete-branch: true
+          title: 'Update activity list and collections'
+          body: |
+            The following changes have been made to the OpenActive Activity List: 
+            ${{ steps.compare.outputs.changeDescription }}
+          labels: |
+            automated pr
+          draft: false
+
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"

@@ -2,6 +2,6 @@
 .git*          export-ignore
 # exclude README and index.html from the release zip file
 README.md      export-ignore
-index.html     export-ignore
+redirect/index.html     export-ignore
 # exclude JSON Schema files from the release zip file
 *.schema.json  export-ignore

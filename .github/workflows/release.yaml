@@ -44,4 +44,14 @@ jobs:
           body: ${{ steps.fetch_pr.outputs.result }}
           draft: false
           prerelease: false
+
+      - name: Copy redirect to data folder
+        run: cp ./redirect/index.html ./data/index.html
  
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./data
+          force_orphan: true
+          enable_jekyll: true

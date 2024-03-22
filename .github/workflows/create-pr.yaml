@@ -38,7 +38,7 @@ jobs:
         uses: openactive/skos-compare-action@main
         with:
           new_json_file: './activity-list-editor/activity-list.jsonld'
-          old_json_file: './activity-list/activity-list.jsonld'
+          old_json_file: './activity-list/data/activity-list.jsonld'
 
       # For security reasons, we only copy valid JSON-LD files to the next step
       - name: Validate and Copy JSON-LD files
@@ -47,16 +47,16 @@ jobs:
           for file in $FILES; do
             if jq empty "$file" 2>/dev/null; then
               echo "Valid JSON-LD: $file"
-              cp "$file" activity-list/
+              cp "$file" activity-list/data/
             else
               echo "Invalid JSON-LD, skipping: $file"
             fi
           done
 
-      - name: Generate list of changed files in /collections/ directory
+      - name: Generate list of changed files in /data/collections/ directory
         id: collections_changed
         run: |
-          git diff --name-only origin/main...HEAD -- ./collections/ > ../changed_collections_files.txt
+          git diff --name-only origin/main...HEAD -- ./data/collections/ > ../changed_collections_files.txt
           echo "::set-output name=changed_files::$(cat ../changed_collections_files.txt)"
         working-directory: ./activity-list/
 

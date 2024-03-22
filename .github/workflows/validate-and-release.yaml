@@ -1,4 +1,4 @@
-name: Validate activity-list (and release if on master).jsonld
+name: Validate Activity List (and release if on master)
 
 on:
   pull_request:

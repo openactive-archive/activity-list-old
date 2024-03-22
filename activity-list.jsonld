@@ -7,17 +7,6 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "concept": [
     {
-      "id": "https://openactive.io/activity-list#a71d477f-7263-43d7-8d17-3d69bda8991b",
-      "identifier": "a71d477f-7263-43d7-8d17-3d69bda8991b",
-      "type": "Concept",
-      "prefLabel": "20-20-20",
-      "broader": [
-        "https://openactive.io/activity-list#261395e5-9e11-4348-8bef-e0fafef0e765"
-      ],
-      "definition": "The 20/20/20 class is designed to give you the ultimate challenge and total body workout. Sweat through 20 minutes of cardio, 20 minutes of strength training, and 20 minutes of stretching and core work.",
-      "notation": "202020"
-    },
-    {
       "id": "https://openactive.io/activity-list#64ba748e-d7f0-46bd-ac49-63820c5eb10e",
       "identifier": "64ba748e-d7f0-46bd-ac49-63820c5eb10e",
       "type": "Concept",

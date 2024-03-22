@@ -84,6 +84,7 @@ jobs:
           body: |
             ${{ steps.compare.outputs.changeDescription && 'The following changes have been made to the OpenActive Activity List:' }}
             ${{ steps.compare.outputs.changeDescription }}
+            
             ${{ steps.collections_changed.outputs.changed_files && 'The following changes have been made to the OpenActive Collections:' }}
             ${{ steps.collections_changed.outputs.changed_files }}
           labels: |

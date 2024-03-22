@@ -17,6 +17,7 @@ jobs:
         with:
           ref: feature/improved-version-control
           path: activity-list
+          fetch-depth: 0
 
       - name: Download Zip File of latest activity list and collections from activity-list-editor.
         run: |
@@ -67,7 +68,7 @@ jobs:
         working-directory: ./activity-list/
 
       - name: Create Pull Request
-        if: ${{ steps.compare.outputs.hasChanges || steps.collections_changed.outputs.changed_files }}
+        if: ${{ steps.compare.outputs.hasChanges == 'true' || steps.collections_changed.outputs.changed_files }}
         id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
@@ -81,7 +82,7 @@ jobs:
           delete-branch: true
           title: 'Update activity list and collections'
           body: |
-            ${{ steps.compare.outputs.hasChanges && 'The following changes have been made to the OpenActive Activity List:' }}
+            ${{ steps.compare.outputs.hasChanges == 'true' && 'The following changes have been made to the OpenActive Activity List:' }}
             ${{ steps.compare.outputs.changeDescription }}
             ${{ steps.collections_changed.outputs.changed_files && '\nThe following changes have been made to the OpenActive Collections:' }}
             ${{ steps.collections_changed.outputs.changed_files }}

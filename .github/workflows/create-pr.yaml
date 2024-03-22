@@ -4,8 +4,6 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [activity-list-update]
-  pull_request:
-    branches: [ master ]
 
 jobs:
   generate:

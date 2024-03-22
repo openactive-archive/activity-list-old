@@ -1,4 +1,4 @@
-name: Create PR for latest Activity List and Collections
+name: Create and merge PR for latest Activity List and Collections
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     types: [activity-list-update]
 
 jobs:
-  generate:
+  create-and-merge-pr:
     runs-on: ubuntu-latest
 
     steps:
@@ -65,7 +65,7 @@ jobs:
           echo "::set-output name=changed_files::$(cat ../changed_collections_files.txt)"
         working-directory: ./activity-list/
 
-      - name: Create Pull Request
+      - name: Create Pull Request (if changes are detected)
         if: ${{ steps.compare.outputs.changeDescription || steps.collections_changed.outputs.changed_files }}
         id: cpr
         uses: peter-evans/create-pull-request@v6
@@ -90,11 +90,13 @@ jobs:
           draft: false
 
       - name: Auto-approve PR
+        if: ${{ steps.cpr.outputs.pull-request-number }}
         uses: hmarr/auto-approve-action@v3
         with:
           pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
 
       - name: Check out the PR
+        if: ${{ steps.cpr.outputs.pull-request-number }}
         uses: actions/checkout@v2
         with:
           ref: ci/update-activity-list
@@ -102,6 +104,7 @@ jobs:
           fetch-depth: 0
 
       - name: Auto-merge the PR
+        if: ${{ steps.cpr.outputs.pull-request-number }}
         run: gh pr merge "$PR_URL" --auto --body "" --squash
         working-directory: ./pr/
         env:
@@ -109,6 +112,7 @@ jobs:
           GITHUB_TOKEN: ${{secrets.PUBLIC_REPO_ACCESS_TOKEN}}
 
       - name: Check outputs
+        if: ${{ steps.cpr.outputs.pull-request-number }}
         run: |
           echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
           echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"

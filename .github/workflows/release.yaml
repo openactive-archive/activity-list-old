@@ -9,10 +9,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - id: commit-date
-        name: Get latest commit date
-        uses: ithaque-renovation/latest-commit-date-action@v1
-      
+      - name: Get Current Time
+        id: timestamp
+        uses: nanzm/get-time-action@v2.0
+        with:
+          format: 'YYYY-MM-DD_HH-mm-ss'
+        
       - name: Render PR body
         id: fetch_pr
         uses: actions/github-script@v7
@@ -39,8 +41,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v${{ steps.commit-date.outputs.latest-commit-date }}
-          release_name: Release v${{ steps.commit-date.outputs.latest-commit-date }}
+          tag_name: v${{ steps.timestamp.outputs.time }}
+          release_name: Release v${{ steps.timestamp.outputs.time }}
           body: ${{ steps.fetch_pr.outputs.result }}
           draft: false
           prerelease: false

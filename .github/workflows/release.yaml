@@ -2,7 +2,7 @@ name: Release
 
 on:
   push:
-    branches: [ master, feature/improved-version-control ]
+    branches: [ master ]
 
 jobs:
   publish:
@@ -33,7 +33,7 @@ jobs:
             });
             const pr = pulls.find(pr => pr.merge_commit_sha === context.sha);
             if (pr) {
-              return `${pr.body}\n\nAssociated PR: #${pr.number}`;
+              return `${pr.body || ''}\n\nAssociated PR: #${pr.number}`;
             } else {
               console.log('No associated PR found; skipping release creation.');
               return '';

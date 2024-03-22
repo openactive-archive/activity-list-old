@@ -2,7 +2,7 @@ name: Validate activity-list.jsonld
 
 on:
   pull_request:
-    branches: [ master, feature/improved-version-control ]
+    branches: [ master ]
   push:
     branches: [ master ]
 

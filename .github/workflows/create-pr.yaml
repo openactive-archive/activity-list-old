@@ -15,7 +15,7 @@ jobs:
       - name: Check out this repository
         uses: actions/checkout@v2
         with:
-          ref: feature/improved-version-control
+          ref: master
           path: activity-list
           fetch-depth: 0
 
@@ -96,9 +96,16 @@ jobs:
         with:
           pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
 
-      - name: Enable auto-merge for Dependabot PRs
+      - name: Check out the PR
+        uses: actions/checkout@v2
+        with:
+          ref: ci/update-activity-list
+          path: pr
+          fetch-depth: 0
+
+      - name: Auto-merge the PR
         run: gh pr merge "$PR_URL" --auto --body "" --squash
-        working-directory: ./activity-list/
+        working-directory: ./pr/
         env:
           PR_URL: ${{ steps.cpr.outputs.pull-request-url }}
           GITHUB_TOKEN: ${{secrets.PUBLIC_REPO_ACCESS_TOKEN}}

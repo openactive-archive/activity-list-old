@@ -1,0 +1,8 @@
+# exclude .gitattributes (this file) and similar from the release zip file
+.git*          export-ignore
+# exclude gh-pages from the release zip file
+gh-pages       export-ignore
+# exclude JSON Schema files from the release zip file
+schema         export-ignore
+# exclude README.md from the release zip file
+README.md      export-ignore

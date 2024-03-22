@@ -1,4 +1,0 @@
-# exclude .gitattributes (this file) and similar from the release zip file
-.git*          export-ignore
-# exclude index.html from the release zip file
-index.html     export-ignore

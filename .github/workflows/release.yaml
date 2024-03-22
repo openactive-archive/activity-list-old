@@ -2,7 +2,7 @@ name: Release
 
 on:
   push:
-    branches: [ master, develop ]
+    branches: [ master, feature/improved-version-control ]
 
 jobs:
   publish:

@@ -1,7 +1,7 @@
-# exclude .gitignore and similar from the generated tarball
+# exclude .gitignore and similar from the release zip file
 .git*          export-ignore
-# exclude README and index.html from the generated tarball
+# exclude README and index.html from the release zip file
 README.md      export-ignore
 index.html     export-ignore
-# exclude JSON Schema files from the generated tarball
+# exclude JSON Schema files from the release zip file
 *.schema.json  export-ignore

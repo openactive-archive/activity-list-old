@@ -21,7 +21,7 @@
       "id": "https://openactive.io/activity-list#a71d477f-7263-43d7-8d17-3d69bda8991b",
       "identifier": "a71d477f-7263-43d7-8d17-3d69bda8991b",
       "type": "Concept",
-      "prefLabel": "20-20-20",
+      "prefLabel": "20-20-201",
       "broader": [
         "https://openactive.io/activity-list#261395e5-9e11-4348-8bef-e0fafef0e765"
       ],
@@ -29,7 +29,7 @@
       "notation": "202020"
     },
     {
-      "id": "https://openactive.io/activity-list#64ba748e-d7f0-46bd-ac49-63820c5eb10e",
+      "id": "https://openactive.io/activity-list#64ba748e-d7f0-46bd-ac49-63820c5eb10e2",
       "identifier": "64ba748e-d7f0-46bd-ac49-63820c5eb10e",
       "type": "Concept",
       "prefLabel": "5-a-side",
@@ -47,19 +47,8 @@
       "broader": [
         "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba"
       ],
-      "definition": "The game of football made up of teams of 6 players",
+      "definition": "The game of football made up of teams of 6 players2",
       "notation": "6_a_side"
-    },
-    {
-      "id": "https://openactive.io/activity-list#55e525a5-615a-4c3f-a889-9049c95c94cf",
-      "identifier": "55e525a5-615a-4c3f-a889-9049c95c94cf",
-      "type": "Concept",
-      "prefLabel": "7-a-side",
-      "broader": [
-        "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba"
-      ],
-      "definition": "The game of football made up of teams of 7 players",
-      "notation": "7_a_side"
     },
     {
       "id": "https://openactive.io/activity-list#19b36744-bbcd-4999-8c0d-0a7985dc475e",

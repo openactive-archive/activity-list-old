@@ -41,7 +41,7 @@ jobs:
 
       - name: Copy redirect index.html to data folder for deployment
         if: ${{ steps.fetch_pr.outputs.result != '' }}
-        # .gitattributes is included in the /data/ directory of the gh-pages branch, so that index.html is not included in the release zip based on the same branch
+        # .gitattributes is included in the /data/ directory of the gh-pages branch, so that index.html is not included in the release zip based on the same
         run: |
           cp ./publish/index.html ./data/
           cp ./publish/.gitattributes ./data/

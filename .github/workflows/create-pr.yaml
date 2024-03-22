@@ -43,11 +43,17 @@ jobs:
       # For security reasons, we only copy valid JSON-LD files to the next step
       - name: Validate and Copy JSON-LD files
         run: |
-          FILES=$(find activity-list-editor -name '*.jsonld')
-          for file in $FILES; do
+          SOURCE_DIR="activity-list-editor"
+          DEST_DIR="activity-list/data"
+          find "$SOURCE_DIR" -name '*.jsonld' | while read file; do
             if jq empty "$file" 2>/dev/null; then
               echo "Valid JSON-LD: $file"
-              cp "$file" activity-list/data/
+              # Calculate the destination path
+              DEST_PATH="${DEST_DIR}/${file#$SOURCE_DIR/}"
+              # Create the destination directory if it doesn't exist
+              mkdir -p "$(dirname "$DEST_PATH")"
+              # Copy the file, preserving the directory structure
+              cp "$file" "$DEST_PATH"
             else
               echo "Invalid JSON-LD, skipping: $file"
             fi

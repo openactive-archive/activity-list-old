@@ -43,8 +43,8 @@ jobs:
         if: ${{ steps.fetch_pr.outputs.result != '' }}
         # .gitattributes is included in the /data/ directory of the gh-pages branch, so that index.html is not included in the release zip based on the same
         run: |
-          cp ./publish/index.html ./data/
-          cp ./publish/.gitattributes ./data/
+          cp ./gh-pages/index.html ./data/
+          cp ./gh-pages/.gitattributes ./data/
  
       - name: Deploy to GitHub Pages
         if: ${{ steps.fetch_pr.outputs.result != ''}}

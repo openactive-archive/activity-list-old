@@ -1,0 +1,7 @@
+# exclude .gitignore and similar from the generated tarball
+.git*          export-ignore
+# exclude README and index.html from the generated tarball
+README.md      export-ignore
+index.html     export-ignore
+# exclude JSON Schema files from the generated tarball
+*.schema.json  export-ignore

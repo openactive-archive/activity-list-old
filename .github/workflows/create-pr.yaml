@@ -51,14 +51,14 @@ jobs:
           done
 
       - name: Generate list of changed files in /collections/ directory
-        id: files_changed
+        id: collections_changed
         run: |
-          git diff --name-only origin/main...HEAD -- ./activity-list/collections/ > changed_collections_files.txt
-          echo "::set-output name=changed_files::$(cat changed_collections_files.txt | sed 's|activity-list/||')"
+          git diff --name-only origin/main...HEAD -- ./collections/ > ../changed_collections_files.txt
+          echo "::set-output name=changed_files::$(cat ../changed_collections_files.txt)"
         working-directory: ./activity-list/
 
       - name: Create Pull Request
-        if: ${{ steps.compare.outputs.hasChanges }}
+        if: ${{ steps.compare.outputs.hasChanges || steps.collections_changed.outputs.changed_files }}
         id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
@@ -72,8 +72,8 @@ jobs:
           delete-branch: true
           title: 'Update activity list and collections'
           body: |
-            The following changes have been made to the OpenActive Activity List: 
-            ${{ steps.compare.outputs.changeDescription }}
+            ${{ steps.compare.outputs.hasChanges && 'The following changes have been made to the OpenActive Activity List:\n' }}:${{ steps.compare.outputs.changeDescription }}
+            ${{ steps.collections_changed.outputs.changed_files && '\nThe following changes have been made to the OpenActive Collections:\n' }}:${{ steps.collections_changed.outputs.changed_files }}
           labels: |
             automated pr
           draft: false

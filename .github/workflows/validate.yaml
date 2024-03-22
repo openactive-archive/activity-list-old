@@ -19,7 +19,6 @@ jobs:
       - name: Install dependencies
         run: npm install @openactive/skos ajv
       - name: Validate activity-list.jsonld
-        id: matrix
         uses: actions/github-script@v7
         with:
           script: |
@@ -27,8 +26,8 @@ jobs:
             const fs = require('fs');
             const skos = require('@openactive/skos');
 
-            var schemafile = "activity-list.json.schema";
-            var rawfile = "activity_list.jsonld";
+            var schemafile = "./activity-list.schema.json";
+            var rawfile = "./activity_list.jsonld";
 
             let schema = JSON.parse(fs.readFileSync(schemafile));
             let data = JSON.parse(fs.readFileSync(rawfile));

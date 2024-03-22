@@ -13,6 +13,7 @@ jobs:
       - name: Check out this repository
         uses: actions/checkout@v2
         with:
+          ref: develop
           path: activity-list
 
       - name: Download Zip File of latest activity list and collections from activity-list-editor.

@@ -23,6 +23,7 @@ jobs:
         id: fetch_pr
         uses: actions/github-script@v7
         with:
+          result-encoding: string
           script: |
             const { data: pulls } = await github.rest.pulls.list({
               owner: context.repo.owner,
@@ -41,7 +42,8 @@ jobs:
       - name: Copy redirect index.html to data folder for deployment
         if: ${{ steps.fetch_pr.outputs.result != '' }}
         # .gitattributes is included in the /publish/ directory so that index.html is not included in the release zip, which is based on the gh-pages branch
-        run: cp ./publish/* ./data/
+        run: cp ./publish/index.html ./data/
+        run: cp ./publish/.gitattributes ./data/
  
       - name: Deploy to GitHub Pages
         if: ${{ steps.fetch_pr.outputs.result != ''}}

@@ -75,8 +75,10 @@ jobs:
           delete-branch: true
           title: 'Update activity list and collections'
           body: |
-            ${{ steps.compare.outputs.hasChanges && tojson('The following changes have been made to the OpenActive Activity List:\n') }}${{ steps.compare.outputs.changeDescription }}
-            ${{ steps.collections_changed.outputs.changed_files && tojson('\nThe following changes have been made to the OpenActive Collections:\\n') }}${{ steps.collections_changed.outputs.changed_files }}
+            ${{ steps.compare.outputs.hasChanges && 'The following changes have been made to the OpenActive Activity List:' }}
+            ${{ steps.compare.outputs.changeDescription }}
+            ${{ steps.collections_changed.outputs.changed_files && '\nThe following changes have been made to the OpenActive Collections:' }}
+            ${{ steps.collections_changed.outputs.changed_files }}
           labels: |
             automated pr
           draft: false

@@ -29,6 +29,17 @@
       "notation": "202020"
     },
     {
+      "id": "https://openactive.io/activity-list#64ba748e-d7f0-46bd-ac49-63820c5eb10e",
+      "identifier": "64ba748e-d7f0-46bd-ac49-63820c5eb10e",
+      "type": "Concept",
+      "prefLabel": "5-a-side",
+      "broader": [
+        "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba"
+      ],
+      "definition": "The game of football made up of teams of 5 players",
+      "notation": "5_a_side"
+    },
+    {
       "id": "https://openactive.io/activity-list#f816f3b5-3128-4421-b71a-25cc7c1e1880",
       "identifier": "f816f3b5-3128-4421-b71a-25cc7c1e1880",
       "type": "Concept",

@@ -43,7 +43,7 @@
       "id": "https://openactive.io/activity-list#55e525a5-615a-4c3f-a889-9049c95c94cf",
       "identifier": "55e525a5-615a-4c3f-a889-9049c95c94cf",
       "type": "Concept",
-      "prefLabel": "7-a-side",
+      "prefLabel": "7-a-side-2",
       "broader": [
         "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba"
       ],
@@ -58,7 +58,7 @@
       "broader": [
         "https://openactive.io/activity-list#22fe3033-b0e4-4717-8455-599180b5bcba"
       ],
-      "definition": "The game of football made up of teams of 8 players",
+      "definition": "The game of football made up of teams of 8 players-2",
       "notation": "8_a_side"
     },
     {

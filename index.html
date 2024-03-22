@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>OpenActive Activity List</title>
+  
+  <script>
+    var hash = window.location.hash.substr(1);
+    if (hash) {
+      window.location.replace('https://activity-list.openactive.io/_' + hash);
+    } else {
+      window.location.replace('https://activity-list.openactive.io/');
+    }
+  </script>
+</head>
+<body>
+  <h1>OpenActive Activity List</h1>
+  A human-readable version of the OpenActive Activity List can be found at <a href="https://activity-list.openactive.io/">https://activity-list.openactive.io/</a>. You will be automatically redirected.
+</body>
+</html>

@@ -5,7 +5,7 @@ on:
     inputs:
       author:
         description: 'Author of this release'     
-        required: true
+        required: false
   repository_dispatch:
     types: [activity-list-update]
 

@@ -3,7 +3,7 @@ name: Create and merge PR for latest Activity List and Collections
 on:
   workflow_dispatch:
     inputs:
-      author:
+      publisher:
         description: 'Author of this release'     
         required: false
   repository_dispatch:
@@ -90,7 +90,7 @@ jobs:
             ${{ steps.collections_changed.outputs.changed_files && 'The following OpenActive Collections have been updated:' }}
             ${{ steps.collections_changed.outputs.changed_files }}
 
-            Release author: ${{ github.event.inputs.author }}
+            Release author: ${{ github.event.inputs.publisher }}
           labels: |
             automated pr
           draft: false
